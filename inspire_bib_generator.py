@@ -16,7 +16,7 @@ class InspireBibGenerator:
         self.starting_date = starting_date or date.today().replace(year=date.today().year - 1)
         self.output_dir = output_dir
         self.categories = ['hep-ph', 'hep-ex']
-        self.keywords = ['dark showers', 'Hidden valley', 'dark pion', 'strongly-interacting']
+        self.keywords = ['dark showers', 'Hidden valley', 'dark pion']
         self.papers = []
         
         # Create results directory
