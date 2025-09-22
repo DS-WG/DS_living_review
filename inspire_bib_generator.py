@@ -16,7 +16,14 @@ class InspireBibGenerator:
         self.starting_date = starting_date or date.today().replace(year=date.today().year - 1)
         self.output_dir = output_dir
         self.categories = ['hep-ph', 'hep-ex']
-        self.keywords = ['dark showers', 'Hidden valley', 'dark pion']
+        self.keywords = [
+            'dark showers', 'dark shower', 'hidden valley', 'hidden valleys',
+            'dark pion', 'dark pions', 'dark baryons', 'SUEP','soft-bombs',
+            'soft bombs','soft-bomb','soft bomb',
+            'dark hadron', 'dark hadrons', 'dark QCD', 'confining dark sector',
+            'semi-visible jets', 'emerging jets', 'soft unclustered energy',
+            'dark mesons', 'composite dark matter', 'dark confinement'
+        ]
         self.papers = []
         
         # Create results directory

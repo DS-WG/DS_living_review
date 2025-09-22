@@ -1,16 +1,35 @@
 {
   "search_parameters": {
-    "starting_date": "2020-01-01",
+    "starting_date": "2005-01-01",
     "keywords": [
       "dark showers",
-      "Hidden valley",
-      "dark pion"
+      "dark shower",
+      "hidden valley",
+      "hidden valleys",
+      "dark pion",
+      "dark pions",
+      "dark baryons",
+      "SUEP",
+      "soft-bombs",
+      "soft bombs",
+      "soft-bomb",
+      "soft bomb",
+      "dark hadron",
+      "dark hadrons",
+      "dark QCD",
+      "confining dark sector",
+      "semi-visible jets",
+      "emerging jets",
+      "soft unclustered energy",
+      "dark mesons",
+      "composite dark matter",
+      "dark confinement"
     ],
     "categories": [
       "hep-ph",
       "hep-ex"
     ],
-    "generated_on": "2025-09-22T12:03:22.411103"
+    "generated_on": "2025-09-22T14:10:42.856384"
   },
   "papers": [
     {
@@ -38,12 +57,60 @@
       "inspire_url": "https://inspirehep.net/literature/2958244"
     },
     {
+      "title": "Strong CP from a Hidden Chiral Condensate",
+      "arxiv_id": "2507.15935",
+      "cite_key": "Csaki:2025ikr",
+      "date_created": "2025-07-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2952970"
+    },
+    {
+      "title": "SUSY Highlights: Current Results and Future Prospects",
+      "arxiv_id": "2507.16400",
+      "cite_key": "Sonneveld:2025ckk",
+      "date_created": "2025-07-23",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2952963"
+    },
+    {
+      "title": "Stopping Dark Mesons in Their Tracks with Long-Lived Particle and Resonant Signatures",
+      "arxiv_id": "2507.13430",
+      "cite_key": "Asadi:2025vfr",
+      "date_created": "2025-07-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2950755"
+    },
+    {
+      "title": "Quirk SUEP",
+      "arxiv_id": "2506.11192",
+      "cite_key": "Curtin:2025ksm",
+      "date_created": "2025-06-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2934292"
+    },
+    {
+      "title": "Two coincidences are a clue: Probing a GeV-scale dark QCD sector",
+      "arxiv_id": "2506.10928",
+      "cite_key": "Chung:2025wle",
+      "date_created": "2025-06-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2933847"
+    },
+    {
       "title": "Topological Freeze-out by Semi-Annihilation",
       "arxiv_id": "2506.05468",
       "cite_key": "Davighi:2025awm",
       "date_created": "2025-06-09",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2931444"
+    },
+    {
+      "title": "Secluded Dark Composites and Remnant Binding Fields",
+      "arxiv_id": "2506.04331",
+      "cite_key": "Bleau:2025klr",
+      "date_created": "2025-06-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2929942"
     },
     {
       "title": "New Physics Search at the CEPC: a General Perspective",
@@ -78,12 +145,44 @@
       "inspire_url": "https://inspirehep.net/literature/2918800"
     },
     {
+      "title": "Di-decay signature of new physics particles at intensity frontier experiments",
+      "arxiv_id": "2503.01760",
+      "cite_key": "DallaValleGarcia:2025aeq",
+      "date_created": "2025-03-05",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2896669"
+    },
+    {
       "title": "On the simulation of hidden parton showers in the conformal window",
       "arxiv_id": "2502.18566",
       "cite_key": "Kulkarni:2025rsl",
       "date_created": "2025-02-27",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2894869"
+    },
+    {
+      "title": "Dark baryon black holes",
+      "arxiv_id": "2502.16439",
+      "cite_key": "Profumo:2025var",
+      "date_created": "2025-02-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2893817"
+    },
+    {
+      "title": "Probing the sensitivity of semi-visible jets to current LHC measurements using the CONTUR toolkit",
+      "arxiv_id": "2502.11237",
+      "cite_key": "Buckley:2025hty",
+      "date_created": "2025-02-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2885996"
+    },
+    {
+      "title": "Dark chiral phase transition driven by chemical potential and its gravitational wave test",
+      "arxiv_id": "2501.15242",
+      "cite_key": "Kang:2025nhe",
+      "date_created": "2025-01-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2872593"
     },
     {
       "title": "Flavor physics at the CEPC: a general perspective*",
@@ -94,12 +193,44 @@
       "inspire_url": "https://inspirehep.net/literature/2863363"
     },
     {
+      "title": "Composite asymmetric dark matter with a dark photon portal: Multimessenger tests",
+      "arxiv_id": "2412.15641",
+      "cite_key": "Das:2024tmx",
+      "date_created": "2024-12-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2861921"
+    },
+    {
+      "title": "Noble dark matter: Surprising elusiveness of dark baryons",
+      "arxiv_id": "2412.14240",
+      "cite_key": "Asadi:2024tpu",
+      "date_created": "2024-12-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2861399"
+    },
+    {
       "title": "Prompt searches for feebly interacting particles at the LHC",
       "arxiv_id": "2412.06297",
       "cite_key": "Knolle:2024ccg",
       "date_created": "2024-12-10",
       "category": "hep-ex",
       "inspire_url": "https://inspirehep.net/literature/2857293"
+    },
+    {
+      "title": "Generating the Dark Matter mass from the QCD vacuum: A new approach to the Dark Matter-Baryon coincidence problem",
+      "arxiv_id": "2411.18725",
+      "cite_key": "Chung:2024ezq",
+      "date_created": "2024-12-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2854064"
+    },
+    {
+      "title": "Comparable Dark Matter and Baryon energy densities from Dark Grand Unification",
+      "arxiv_id": "2411.16860",
+      "cite_key": "Chung:2024nnj",
+      "date_created": "2024-11-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2852197"
     },
     {
       "title": "Dark showers from sneaky dark matter",
@@ -110,6 +241,22 @@
       "inspire_url": "https://inspirehep.net/literature/2851201"
     },
     {
+      "title": "Direct detection of dark baryons naturally suppressed by <math display=\"inline\"><mi mathvariant=\"script\">H</mi></math>-parity",
+      "arxiv_id": "2410.23631",
+      "cite_key": "Asadi:2024bbq",
+      "date_created": "2024-11-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2844260"
+    },
+    {
+      "title": "Implications of the electromagnetic scale anomaly to the QCD chiral phase transition in the smaller quark mass regime: <math display=\"inline\"><msub><mi>T</mi><mrow><mi>p</mi><mi>c</mi></mrow></msub></math> does not drop with <math display=\"inline\"><mi>e</mi><mi>B</mi></math>",
+      "arxiv_id": "2410.11360",
+      "cite_key": "Wang:2024azs",
+      "date_created": "2024-10-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2840287"
+    },
+    {
       "title": "Semi-visible jets + X: illuminating dark showers with radiation",
       "arxiv_id": "2409.04741",
       "cite_key": "Liu:2024rbe",
@@ -118,12 +265,28 @@
       "inspire_url": "https://inspirehep.net/literature/2826356"
     },
     {
+      "title": "Dark QCD perspective inspired by strong CP problem at QCD scale",
+      "arxiv_id": "2409.05443",
+      "cite_key": "Wang:2024vlm",
+      "date_created": "2024-09-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2826331"
+    },
+    {
       "title": "Phenomenology of electroweak portal dark showers: high energy direct probes and low energy complementarity",
       "arxiv_id": "2408.13304",
       "cite_key": "Cheng:2024aco",
       "date_created": "2024-08-29",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2822698"
+    },
+    {
+      "title": "Composite Heavy Axionlike Dark Matter",
+      "arxiv_id": "2408.14245",
+      "cite_key": "Carenza:2024qaq",
+      "date_created": "2024-08-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2821775"
     },
     {
       "title": "Dark sector showers and hadronisation in Herwig 7",
@@ -142,12 +305,52 @@
       "inspire_url": "https://inspirehep.net/literature/2818246"
     },
     {
+      "title": "Loosely bound composite dark matter",
+      "arxiv_id": "2408.03983",
+      "cite_key": "Acevedo:2024lyr",
+      "date_created": "2024-08-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2816314"
+    },
+    {
+      "title": "A GUT Framework for Accidental Composite Dark Matter",
+      "arxiv_id": "2407.20591",
+      "cite_key": "Bottaro:2024ihg",
+      "date_created": "2024-07-31",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2812279"
+    },
+    {
+      "title": "Phenomenology of photons-enriched semi-visible jets",
+      "arxiv_id": "2407.08276",
+      "cite_key": "Cazzaniga:2024mmv",
+      "date_created": "2024-07-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2806840"
+    },
+    {
+      "title": "Fireball antinucleosynthesis",
+      "arxiv_id": "2402.15581",
+      "cite_key": "Fedderke:2024hfy",
+      "date_created": "2024-06-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2801135"
+    },
+    {
       "title": "SHIFT@LHC: Searches for new physics with shifted interaction on a fixed target at the Large Hadron Collider",
       "arxiv_id": "2406.08557",
       "cite_key": "Niedziela:2024khw",
       "date_created": "2024-06-14",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2797726"
+    },
+    {
+      "title": "Baryogenesis via QCD preheating with nonadiabatic baryon chemical potential",
+      "arxiv_id": "2406.03261",
+      "cite_key": "Wang:2024tda",
+      "date_created": "2024-06-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2794845"
     },
     {
       "title": "Search for dark mesons decaying to top and bottom quarks in proton-proton collisions at $ \\sqrt{\\textrm{s}} $ = 13 TeV with the ATLAS detector",
@@ -158,12 +361,28 @@
       "inspire_url": "https://inspirehep.net/literature/2791856"
     },
     {
+      "title": "Dark sector searches with the CMS experiment",
+      "arxiv_id": "2405.13778",
+      "cite_key": "CMS:2024zqs",
+      "date_created": "2024-05-24",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2789267"
+    },
+    {
       "title": "Dark matter in QCD-like theories with a theta vacuum: Cosmological and astrophysical implications",
       "arxiv_id": "2405.10367",
       "cite_key": "Garcia-Cely:2024ivo",
       "date_created": "2024-05-20",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2787890"
+    },
+    {
+      "title": "A first-order deconfinement phase transition in the early universe and gravitational waves",
+      "arxiv_id": "2405.00490",
+      "cite_key": "Gao:2024pqm",
+      "date_created": "2024-05-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2782516"
     },
     {
       "title": "Field theory axiverse",
@@ -174,6 +393,22 @@
       "inspire_url": "https://inspirehep.net/literature/2778853"
     },
     {
+      "title": "Explaining the cosmological dark matter coincidence in asymmetric dark QCD",
+      "arxiv_id": "2404.05999",
+      "cite_key": "Ritter:2024sqv",
+      "date_created": "2024-04-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2775508"
+    },
+    {
+      "title": "Invisible and semi-invisible decays of bottom baryons*",
+      "arxiv_id": "2404.04337",
+      "cite_key": "Zheng:2024tkj",
+      "date_created": "2024-04-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2775013"
+    },
+    {
       "title": "Composite dark matter with forbidden annihilation",
       "arxiv_id": "2404.03963",
       "cite_key": "Abe:2024mwa",
@@ -182,12 +417,68 @@
       "inspire_url": "https://inspirehep.net/literature/2774597"
     },
     {
+      "title": "Sparks in the Dark",
+      "arxiv_id": "2404.04138",
+      "cite_key": "SunnebornGudnadottir:2024pex",
+      "date_created": "2024-04-08",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2774596"
+    },
+    {
+      "title": "Dynamical origin of neutrino masses and dark matter from a new confining sector",
+      "arxiv_id": "2403.17488",
+      "cite_key": "Berbig:2024uwm",
+      "date_created": "2024-03-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2771769"
+    },
+    {
       "title": "Search for Soft Unclustered Energy Patterns in Proton-Proton Collisions at 13\u00a0TeV",
       "arxiv_id": "2403.05311",
       "cite_key": "CMS:2024nca",
       "date_created": "2024-03-11",
       "category": "hep-ex",
       "inspire_url": "https://inspirehep.net/literature/2766846"
+    },
+    {
+      "title": "Search for dark QCD with emerging jets in proton-proton collisions at $ \\sqrt{s} $ = 13 TeV",
+      "arxiv_id": "2403.01556",
+      "cite_key": "CMS:2024gxp",
+      "date_created": "2024-03-06",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2765268"
+    },
+    {
+      "title": "Equivariant, safe and sensitive \u2014 graph networks for new physics",
+      "arxiv_id": "2402.12449",
+      "cite_key": "Bhardwaj:2024djv",
+      "date_created": "2024-02-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2759887"
+    },
+    {
+      "title": "Low energy effective theories of composite dark matter with real representations",
+      "arxiv_id": "2402.04176",
+      "cite_key": "Pomper:2024otb",
+      "date_created": "2024-02-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2755966"
+    },
+    {
+      "title": "Search for long-lived particles decaying in the CMS muon detectors in proton-proton collisions at <math display=\"inline\"><msqrt><mi>s</mi></msqrt><mo>=</mo><mn>13</mn><mtext>\u2009</mtext><mtext>\u2009</mtext><mi>TeV</mi></math>",
+      "arxiv_id": "2402.01898",
+      "cite_key": "CMS:2024bvl",
+      "date_created": "2024-02-06",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2755637"
+    },
+    {
+      "title": "Early matter domination at colliders: Long live the glueball!",
+      "arxiv_id": "2401.12278",
+      "cite_key": "Bishara:2024rtp",
+      "date_created": "2024-01-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2750568"
     },
     {
       "title": "Topological Portal to the Dark Sector",
@@ -206,6 +497,30 @@
       "inspire_url": "https://inspirehep.net/literature/2747766"
     },
     {
+      "title": "The ATLAS trigger system for LHC Run 3 and trigger performance in 2022",
+      "arxiv_id": "2401.06630",
+      "cite_key": "ATLAS:2024xna",
+      "date_created": "2024-01-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2746398"
+    },
+    {
+      "title": "Dark Matter Candidates of a Very Low Mass",
+      "arxiv_id": "2401.03025",
+      "cite_key": "Zurek:2024qfm",
+      "date_created": "2024-01-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2744331"
+    },
+    {
+      "title": "Gravitational wave footprints from Higgs-portal scalegenesis with multiple dark chiral scalars*",
+      "arxiv_id": "2401.00771",
+      "cite_key": "Zhang:2024vpp",
+      "date_created": "2024-01-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2742503"
+    },
+    {
       "title": "Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders",
       "arxiv_id": "2312.06526",
       "cite_key": "Musumeci:2023noi",
@@ -214,12 +529,28 @@
       "inspire_url": "https://inspirehep.net/literature/2734725"
     },
     {
+      "title": "Semi-visible jets, energy-based models, and self-supervision",
+      "arxiv_id": "2312.03067",
+      "cite_key": "Favaro:2023xdl",
+      "date_created": "2023-12-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2731380"
+    },
+    {
       "title": "Dark matter relic density in strongly interacting dark sectors with light vector mesons",
       "arxiv_id": "2311.17157",
       "cite_key": "Bernreuther:2023kcg",
       "date_created": "2023-11-30",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2727942"
+    },
+    {
+      "title": "Recurrent axion stars collapse with dark radiation emission and their cosmological constraints",
+      "arxiv_id": "2302.00685",
+      "cite_key": "Fox:2023xgx",
+      "date_created": "2023-11-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2726498"
     },
     {
       "title": "Non-resonant anomaly detection with background extrapolation",
@@ -246,12 +577,76 @@
       "inspire_url": "https://inspirehep.net/literature/2722318"
     },
     {
+      "title": "Search for resonant production of dark quarks in the dijet final state with the ATLAS detector",
+      "arxiv_id": "2311.03944",
+      "cite_key": "ATLAS:2023kao",
+      "date_created": "2023-11-08",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2719976"
+    },
+    {
+      "title": "Heavy baryon dark matter from <math display=\"inline\"><mrow><mi>S</mi><mi>U</mi><mo stretchy=\"false\">(</mo><mi>N</mi><mo stretchy=\"false\">)</mo></mrow></math> confinement: Bubble wall velocity and boundary effects",
+      "arxiv_id": "2311.00029",
+      "cite_key": "Gouttenoire:2023roe",
+      "date_created": "2023-11-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2716288"
+    },
+    {
+      "title": "Nonabelian kinetic mixing in a confining phase: a framework for composite dark photons",
+      "arxiv_id": "2309.13105",
+      "cite_key": "Alonso-Alvarez:2023rjq",
+      "date_created": "2023-09-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2702530"
+    },
+    {
+      "title": "Cosmic-ray boosted dark matter confronted by constraints on new light mediators",
+      "arxiv_id": "2309.11003",
+      "cite_key": "Bell:2023sdq",
+      "date_created": "2023-09-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2700443"
+    },
+    {
+      "title": "Experimental evidence of dark matter axions identical to solar axions and the absence of the \"fifth\" carrier force for the Higgs field",
+      "arxiv_id": "2308.07943",
+      "cite_key": "Rusov:2023jcs",
+      "date_created": "2023-08-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2688624"
+    },
+    {
+      "title": "Excited bound states and their role in dark matter production",
+      "arxiv_id": "2308.01336",
+      "cite_key": "Binder:2023ckj",
+      "date_created": "2023-08-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2685087"
+    },
+    {
+      "title": "Dark matter in compact stars",
+      "arxiv_id": "2307.14435",
+      "cite_key": "Bramante:2023djs",
+      "date_created": "2023-07-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2682339"
+    },
+    {
       "title": "Two-particle angular correlations in the search for new physics at future $e^+e^-$ colliders",
       "arxiv_id": "2307.14734",
       "cite_key": "Musumeci:2023rzf",
       "date_created": "2023-07-28",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2682330"
+    },
+    {
+      "title": "Consequences of multiple axions in theories with dark Yang-Mills groups",
+      "arxiv_id": "2307.10298",
+      "cite_key": "Ettengruber:2023tac",
+      "date_created": "2023-07-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2678763"
     },
     {
       "title": "Emerging jet probes of strongly interacting dark sectors",
@@ -262,12 +657,60 @@
       "inspire_url": "https://inspirehep.net/literature/2676024"
     },
     {
+      "title": "Autoencoders for real-time SUEP detection",
+      "arxiv_id": "2306.13595",
+      "cite_key": "Chhibra:2023tyf",
+      "date_created": "2023-06-26",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2671217"
+    },
+    {
       "title": "Triggering dark showers with conditional dual auto-encoders",
       "arxiv_id": "2306.12955",
       "cite_key": "Anzalone:2023ugq",
       "date_created": "2023-06-23",
       "category": "hep-ex",
       "inspire_url": "https://inspirehep.net/literature/2670811"
+    },
+    {
+      "title": "Search for non-resonant production of semi-visible jets using Run 2 data in ATLAS",
+      "arxiv_id": "2305.18037",
+      "cite_key": "ATLAS:2023swa",
+      "date_created": "2023-05-30",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2663256"
+    },
+    {
+      "title": "Composite dark matter and neutrino masses from a light hidden sector",
+      "arxiv_id": "2305.09719",
+      "cite_key": "Ahmed:2023vdb",
+      "date_created": "2023-05-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2660537"
+    },
+    {
+      "title": "Searching for dark jets with displaced vertices using weakly supervised machine learning",
+      "arxiv_id": "2305.04372",
+      "cite_key": "Bardhan:2023mia",
+      "date_created": "2023-05-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2657724"
+    },
+    {
+      "title": "Baryons, multihadron systems, and composite dark matter in nonrelativistic QCD",
+      "arxiv_id": "2305.01685",
+      "cite_key": "Assi:2023cfo",
+      "date_created": "2023-05-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2656195"
+    },
+    {
+      "title": "<math display=\"inline\"><mrow><mi>\u03c0</mi></mrow></math>-axion and <math display=\"inline\"><mi>\u03c0</mi></math>-axiverse of dark QCD",
+      "arxiv_id": "2304.11176",
+      "cite_key": "Alexander:2023wgk",
+      "date_created": "2023-04-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2653737"
     },
     {
       "title": "Energetic long-lived particles in the CMS muon chambers",
@@ -286,12 +729,52 @@
       "inspire_url": "https://inspirehep.net/literature/2649630"
     },
     {
+      "title": "Optimal mass variables for semivisible jets",
+      "arxiv_id": "2303.16253",
+      "cite_key": "Pedro:2023sdp",
+      "date_created": "2023-03-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2646938"
+    },
+    {
       "title": "Scouting for dark showers at CMS and LHCb",
       "arxiv_id": "2303.04167",
       "cite_key": "Born:2023vll",
       "date_created": "2023-03-09",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2639393"
+    },
+    {
+      "title": "Dark vector mesons at LHC forward detector searches",
+      "arxiv_id": "2303.03736",
+      "cite_key": "Kuwahara:2023vfc",
+      "date_created": "2023-03-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2639057"
+    },
+    {
+      "title": "Recent results from DEAP-3600",
+      "arxiv_id": "2302.14484",
+      "cite_key": "Lai:2023qub",
+      "date_created": "2023-03-01",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2637217"
+    },
+    {
+      "title": "Boosting indirect detection of a secluded dark matter sector",
+      "arxiv_id": "2302.09839",
+      "cite_key": "Li:2023fzv",
+      "date_created": "2023-02-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2634724"
+    },
+    {
+      "title": "Dark sector showers in the Lund jet plane",
+      "arxiv_id": "2301.07732",
+      "cite_key": "Cohen:2023mya",
+      "date_created": "2023-01-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2624660"
     },
     {
       "title": "SIMPly add a dark photon",
@@ -302,12 +785,84 @@
       "inspire_url": "https://inspirehep.net/literature/2622298"
     },
     {
+      "title": "Dark matter bound states: A window into the early universe",
+      "arxiv_id": "2212.14361",
+      "cite_key": "Smirnov:2022tcg",
+      "date_created": "2023-01-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2619278"
+    },
+    {
+      "title": "Uncovering tau leptons-enriched semi-visible jets at the LHC",
+      "arxiv_id": "2212.11523",
+      "cite_key": "Beauchesne:2022phk",
+      "date_created": "2022-12-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2617439"
+    },
+    {
+      "title": "Bubble nucleation and gravitational waves from holography in the probe approximation",
+      "arxiv_id": "2212.06591",
+      "cite_key": "Chen:2022cgj",
+      "date_created": "2022-12-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2614056"
+    },
+    {
+      "title": "Strongly Interacting Dark Matter from Sp(4) Gauge Theory",
+      "arxiv_id": "2211.11272",
+      "cite_key": "Zierler:2022uez",
+      "date_created": "2022-11-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2512910"
+    },
+    {
+      "title": "Comparable dark matter and baryon abundances with a heavy dark sector",
+      "arxiv_id": "2211.10359",
+      "cite_key": "Rosa:2022sym",
+      "date_created": "2022-11-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2512172"
+    },
+    {
+      "title": "Gravitational Waves from dark composite dynamics",
+      "arxiv_id": "2211.08877",
+      "cite_key": "Reichert:2022naa",
+      "date_created": "2022-11-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2182738"
+    },
+    {
       "title": "Indirect detection of Dark Matter annihilating into Dark Glueballs",
       "arxiv_id": "2211.05794",
       "cite_key": "Curtin:2022oec",
       "date_created": "2022-11-14",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2181023"
+    },
+    {
+      "title": "Optimizing trigger-level track reconstruction for sensitivity to exotic signatures",
+      "arxiv_id": "2211.05720",
+      "cite_key": "DiPetrillo:2022qsb",
+      "date_created": "2022-11-11",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2180407"
+    },
+    {
+      "title": "Friction on ALP domain walls and gravitational waves",
+      "arxiv_id": "2210.14246",
+      "cite_key": "Blasi:2022ayo",
+      "date_created": "2022-10-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2170961"
+    },
+    {
+      "title": "Exploring the cosmological dark matter coincidence using infrared fixed points",
+      "arxiv_id": "2210.11011",
+      "cite_key": "Ritter:2022opo",
+      "date_created": "2022-10-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2167948"
     },
     {
       "title": "Perturbative unitarity of strongly interacting massive particle models",
@@ -318,12 +873,92 @@
       "inspire_url": "https://inspirehep.net/literature/2159849"
     },
     {
+      "title": "Towards better discrimination and improved modelling of dark-sector showers",
+      "arxiv_id": "2209.14964",
+      "cite_key": "Buckley:2022zry",
+      "date_created": "2022-09-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2158436"
+    },
+    {
+      "title": "Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021",
+      "arxiv_id": "2209.13128",
+      "cite_key": "Bose:2022obr",
+      "date_created": "2022-09-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2157249"
+    },
+    {
+      "title": "Dark Sector Physics at High-Intensity Experiments",
+      "arxiv_id": "2209.04671",
+      "cite_key": "Gori:2022vri",
+      "date_created": "2022-09-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2150454"
+    },
+    {
+      "title": "Dark Grand Unification in the axiverse: decaying axion dark matter and spontaneous baryogenesis",
+      "arxiv_id": "2208.10504",
+      "cite_key": "Foster:2022ajl",
+      "date_created": "2022-08-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2140390"
+    },
+    {
+      "title": "Learning to identify semi-visible jets",
+      "arxiv_id": "2208.10062",
+      "cite_key": "Faucett:2022zie",
+      "date_created": "2022-08-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2139875"
+    },
+    {
+      "title": "Fate of the first-order chiral phase transition in QCD: Implications for dark QCD studied via a Nambu\u2013Jona-Lasinio model",
+      "arxiv_id": "2208.03975",
+      "cite_key": "YuanyuanWang:2022nds",
+      "date_created": "2022-08-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2133228"
+    },
+    {
+      "title": "Dark matter from a conformal Dark Sector",
+      "arxiv_id": "2207.10093",
+      "cite_key": "Hong:2022gzo",
+      "date_created": "2022-07-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2120608"
+    },
+    {
       "title": "2B or not $^{2}$B, a study of bottom-quark-philic semi-visible jets",
       "arxiv_id": "2207.01885",
       "cite_key": "Kar:2022hxn",
       "date_created": "2022-07-06",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2106068"
+    },
+    {
+      "title": "Pseudo-Nambu-Goldstone inflation with twin waterfalls",
+      "arxiv_id": "2206.05523",
+      "cite_key": "Lee:2022fkd",
+      "date_created": "2022-06-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2094904"
+    },
+    {
+      "title": "Leptons lurking in semi-visible jets at the LHC",
+      "arxiv_id": "2206.03909",
+      "cite_key": "Cazzaniga:2022hxl",
+      "date_created": "2022-06-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2092996"
+    },
+    {
+      "title": "Ultralight pion and superheavy baryon dark matter",
+      "arxiv_id": "2205.12983",
+      "cite_key": "Maleknejad:2022gyf",
+      "date_created": "2022-05-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2087939"
     },
     {
       "title": "The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)",
@@ -334,12 +969,36 @@
       "inspire_url": "https://inspirehep.net/literature/2084168"
     },
     {
+      "title": "Asymmetric Accidental Composite Dark Matter",
+      "arxiv_id": "2205.08597",
+      "cite_key": "Bottaro:2022ytd",
+      "date_created": "2022-05-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2084170"
+    },
+    {
       "title": "Linear sigma dark matter",
       "arxiv_id": "2205.08088",
       "cite_key": "Kondo:2022lgg",
       "date_created": "2022-05-18",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2083203"
+    },
+    {
+      "title": "Self-interacting dark baryons",
+      "arxiv_id": "2204.00033",
+      "cite_key": "Cline:2022leq",
+      "date_created": "2022-04-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2061399"
+    },
+    {
+      "title": "Glueballs in a thermal squeezeout model",
+      "arxiv_id": "2203.15813",
+      "cite_key": "Asadi:2022vkc",
+      "date_created": "2022-03-31",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2060136"
     },
     {
       "title": "Forecasting dark showers at Belle II",
@@ -358,6 +1017,30 @@
       "inspire_url": "https://inspirehep.net/literature/2054250"
     },
     {
+      "title": "Theories and Experiments for Testable Baryogenesis Mechanisms: A Snowmass White Paper",
+      "arxiv_id": "2203.07059",
+      "cite_key": "Barrow:2022gsu",
+      "date_created": "2022-03-15",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2051136"
+    },
+    {
+      "title": "Track-Based Triggers for Exotic Signatures",
+      "arxiv_id": "2203.07314",
+      "cite_key": "DiPetrillo:2022nsz",
+      "date_created": "2022-03-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/2051243"
+    },
+    {
+      "title": "New Ideas in Baryogenesis: A Snowmass White Paper",
+      "arxiv_id": "2203.05010",
+      "cite_key": "Elor:2022hpa",
+      "date_created": "2022-03-11",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/2049545"
+    },
+    {
       "title": "Simulating glueball production in <math display=\"inline\"><msub><mi>N</mi><mi>f</mi></msub><mo>=</mo><mn>0</mn></math> QCD",
       "arxiv_id": "2202.12899",
       "cite_key": "Curtin:2022tou",
@@ -372,6 +1055,22 @@
       "date_created": "2022-01-19",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2012042"
+    },
+    {
+      "title": "Models of ultraheavy dark matter visible to macroscopic mechanical sensing arrays",
+      "arxiv_id": "2112.14784",
+      "cite_key": "Blanco:2021yiy",
+      "date_created": "2022-01-03",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1998852"
+    },
+    {
+      "title": "New Indication from Quantum Chromodynamics Calling for beyond the Standard Model",
+      "arxiv_id": "2112.13533",
+      "cite_key": "Cui:2021sqx",
+      "date_created": "2021-12-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1997029"
     },
     {
       "title": "Dark matter freeze-out during SU(2)$_{L}$ confinement",
@@ -398,12 +1097,44 @@
       "inspire_url": "https://inspirehep.net/literature/1987829"
     },
     {
+      "title": "Autoencoders for semivisible jet detection",
+      "arxiv_id": "2112.02864",
+      "cite_key": "Canelli:2021aps",
+      "date_created": "2021-12-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1984807"
+    },
+    {
       "title": "LHC lifetime frontier and visible decay searches in composite asymmetric dark matter models",
       "arxiv_id": "2112.01202",
       "cite_key": "Kamada:2021cow",
       "date_created": "2021-12-03",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1982942"
+    },
+    {
+      "title": "Strange physics of dark baryons",
+      "arxiv_id": "2111.12712",
+      "cite_key": "Alonso-Alvarez:2021oaj",
+      "date_created": "2021-11-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1976800"
+    },
+    {
+      "title": "Strong constraints on decay and annihilation of dark matter from heating of gas-rich dwarf galaxies",
+      "arxiv_id": "2111.08025",
+      "cite_key": "Wadekar:2021qae",
+      "date_created": "2021-11-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1969592"
+    },
+    {
+      "title": "Supercool composite Dark Matter beyond 100 TeV",
+      "arxiv_id": "2110.13926",
+      "cite_key": "Baldes:2021aph",
+      "date_created": "2021-10-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1953757"
     },
     {
       "title": "A theory of dark pions",
@@ -422,6 +1153,62 @@
       "inspire_url": "https://inspirehep.net/literature/1942128"
     },
     {
+      "title": "Dark confinement and chiral phase transitions: gravitational waves vs matter representations",
+      "arxiv_id": "2109.11552",
+      "cite_key": "Reichert:2021cvs",
+      "date_created": "2021-09-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1927655"
+    },
+    {
+      "title": "Charged B mesogenesis",
+      "arxiv_id": "2109.09751",
+      "cite_key": "Elahi:2021jia",
+      "date_created": "2021-09-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1925079"
+    },
+    {
+      "title": "Dark Matter Hot Spots and Neutrino Telescopes",
+      "arxiv_id": "2109.07885",
+      "cite_key": "Meighen-Berger:2021hka",
+      "date_created": "2021-09-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1922780"
+    },
+    {
+      "title": "Accelerating composite dark matter discovery with nuclear recoils and the Migdal effect",
+      "arxiv_id": "2108.10889",
+      "cite_key": "Acevedo:2021kly",
+      "date_created": "2021-08-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1912050"
+    },
+    {
+      "title": "Dark atoms and composite dark matter",
+      "arxiv_id": "2108.10314",
+      "cite_key": "Cline:2021itd",
+      "date_created": "2021-08-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1909261"
+    },
+    {
+      "title": "Unsupervised hadronic SUEP at the LHC",
+      "arxiv_id": "2107.12379",
+      "cite_key": "Barron:2021btf",
+      "date_created": "2021-07-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1893509"
+    },
+    {
+      "title": "Asymmetric dark matter may not be light",
+      "arxiv_id": "2107.03398",
+      "cite_key": "Hall:2021zsk",
+      "date_created": "2021-07-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1879691"
+    },
+    {
       "title": "New Approaches to the Hierarchy Problem and their Signatures from Microscopic to Cosmic Scales",
       "arxiv_id": "2009.11870",
       "cite_key": "Koren:2020pio",
@@ -438,12 +1225,52 @@
       "inspire_url": "https://inspirehep.net/literature/1865621"
     },
     {
+      "title": "New sensitivity of LHC measurements to composite dark matter models",
+      "arxiv_id": "2105.08494",
+      "cite_key": "Butterworth:2021jto",
+      "date_created": "2021-05-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1863721"
+    },
+    {
+      "title": "Chiral composite asymmetric dark matter",
+      "arxiv_id": "2105.07642",
+      "cite_key": "Ibe:2021gil",
+      "date_created": "2021-05-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1863640"
+    },
+    {
+      "title": "Ultraheavy dark matter search with electron microscopy of geological quartz",
+      "arxiv_id": "2105.03998",
+      "cite_key": "Ebadi:2021cte",
+      "date_created": "2021-05-11",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1862616"
+    },
+    {
       "title": "Dark QCD matters",
       "arxiv_id": "2105.03429",
       "cite_key": "Garani:2021zrr",
       "date_created": "2021-05-10",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1862522"
+    },
+    {
+      "title": "Dark Matter as dark dwarfs and other macroscopic objects: multiverse relics?",
+      "arxiv_id": "2105.02840",
+      "cite_key": "Gross:2021qgx",
+      "date_created": "2021-05-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1862346"
+    },
+    {
+      "title": "Asymmetric accidental composite dark matter",
+      "arxiv_id": "2104.14244",
+      "cite_key": "Bottaro:2021aal",
+      "date_created": "2021-04-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1861362"
     },
     {
       "title": "Leptophilic composite asymmetric dark matter and its detection",
@@ -462,6 +1289,14 @@
       "inspire_url": "https://inspirehep.net/literature/1854006"
     },
     {
+      "title": "Thermal squeezeout of dark matter",
+      "arxiv_id": "2103.09827",
+      "cite_key": "Asadi:2021pwo",
+      "date_created": "2021-03-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1852316"
+    },
+    {
       "title": "Triggering on emerging jets",
       "arxiv_id": "2103.08620",
       "cite_key": "Linthorne:2021oiz",
@@ -478,12 +1313,92 @@
       "inspire_url": "https://inspirehep.net/literature/1849561"
     },
     {
+      "title": "Charming ALPs",
+      "arxiv_id": "2101.07803",
+      "cite_key": "Carmona:2021seb",
+      "date_created": "2021-01-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1842024"
+    },
+    {
+      "title": "Dark confinement-deconfinement phase transition: a roadmap from Polyakov loop models to gravitational waves",
+      "arxiv_id": "2101.03795",
+      "cite_key": "Kang:2021epo",
+      "date_created": "2021-01-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1840237"
+    },
+    {
+      "title": "Nuclear fusion inside dark matter",
+      "arxiv_id": "2012.10998",
+      "cite_key": "Acevedo:2020avd",
+      "date_created": "2020-12-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1837982"
+    },
+    {
+      "title": "Cosmological and astrophysical probes of dark baryons",
+      "arxiv_id": "2012.09865",
+      "cite_key": "McKeen:2020oyr",
+      "date_created": "2020-12-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1837434"
+    },
+    {
+      "title": "Dark Matter, Destroyer of Worlds: Neutrino, Thermal, and Existential Signatures from Black Holes in the Sun and Earth",
+      "arxiv_id": "2012.09176",
+      "cite_key": "Acevedo:2020gro",
+      "date_created": "2020-12-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1837079"
+    },
+    {
+      "title": "Gravitational waves from dark Yang-Mills sectors",
+      "arxiv_id": "2012.04071",
+      "cite_key": "Halverson:2020xpg",
+      "date_created": "2020-12-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1835342"
+    },
+    {
+      "title": "Exothermic dark mesons in light of electron recoil excess at XENON1T",
+      "arxiv_id": "2012.03713",
+      "cite_key": "Choi:2020ysq",
+      "date_created": "2020-12-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1835618"
+    },
+    {
       "title": "Collider constraints on dark mediators",
       "arxiv_id": "2011.13990",
       "cite_key": "Mies:2020mzw",
       "date_created": "2020-12-01",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1834020"
+    },
+    {
+      "title": "On the challenges of searching for GeV-scale long-lived particles at the LHC",
+      "arxiv_id": "2011.06604",
+      "cite_key": "Bernreuther:2020xus",
+      "date_created": "2020-11-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1830190"
+    },
+    {
+      "title": "Softly shifting away from dark matter direct detection",
+      "arxiv_id": "2011.06264",
+      "cite_key": "Xing:2020uaf",
+      "date_created": "2020-11-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1829774"
+    },
+    {
+      "title": "Multi-messenger cosmology of new physics",
+      "arxiv_id": "2010.14581",
+      "cite_key": "Khlopov:2020plk",
+      "date_created": "2020-10-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1826613"
     },
     {
       "title": "Morphology for jet classification",
@@ -494,12 +1409,76 @@
       "inspire_url": "https://inspirehep.net/literature/1826209"
     },
     {
+      "title": "Detecting composite dark matter with long-range and contact interactions in gas clouds",
+      "arxiv_id": "2010.07240",
+      "cite_key": "Bhoonah:2020dzs",
+      "date_created": "2020-10-15",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1822800"
+    },
+    {
+      "title": "Large $N$-ightmare Dark Matter",
+      "arxiv_id": "2010.03586",
+      "cite_key": "Morrison:2020yeg",
+      "date_created": "2020-10-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1821960"
+    },
+    {
+      "title": "Spheres To Jets: Tuning Event Shapes with 5d Simplified Models",
+      "arxiv_id": "2009.08981",
+      "cite_key": "Cesarotti:2020uod",
+      "date_created": "2020-09-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1818161"
+    },
+    {
+      "title": "Dark mesons as self-interacting dark matter",
+      "arxiv_id": "2008.13090",
+      "cite_key": "Lee:2020eap",
+      "date_created": "2020-09-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1814040"
+    },
+    {
       "title": "Composite Dark Matter from Strongly-Interacting Chiral Dynamics",
       "arxiv_id": "2008.10607",
       "cite_key": "Contino:2020god",
       "date_created": "2020-08-26",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1813254"
+    },
+    {
+      "title": "New experimental constraints in a new landscape for composite dark matter",
+      "arxiv_id": "2008.10646",
+      "cite_key": "Cappiello:2020lbk",
+      "date_created": "2020-08-26",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1813235"
+    },
+    {
+      "title": "Resonant Self-Interacting Dark Matter from Dark QCD",
+      "arxiv_id": "2008.08608",
+      "cite_key": "Tsai:2020vpi",
+      "date_created": "2020-08-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1812586"
+    },
+    {
+      "title": "Composite solution to the neutron lifetime anomaly",
+      "arxiv_id": "2008.06061",
+      "cite_key": "Rajendran:2020tmw",
+      "date_created": "2020-08-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1811764"
+    },
+    {
+      "title": "Identifying Minimal Composite Dark Matter",
+      "arxiv_id": "2008.00173",
+      "cite_key": "Xu:2020omq",
+      "date_created": "2020-08-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1809849"
     },
     {
       "title": "Maximally self-interacting dark matter: models and predictions",
@@ -518,12 +1497,44 @@
       "inspire_url": "https://inspirehep.net/literature/1808515"
     },
     {
+      "title": "Composite Dark Matter and a horizontal symmetry",
+      "arxiv_id": "2007.11931",
+      "cite_key": "Carvunis:2020exc",
+      "date_created": "2020-07-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1808561"
+    },
+    {
+      "title": "Search for composite dark matter with optically levitated sensors",
+      "arxiv_id": "2007.12067",
+      "cite_key": "Monteiro:2020wcb",
+      "date_created": "2020-07-24",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1808528"
+    },
+    {
+      "title": "String Fragmentation in Supercooled Confinement and Implications for Dark Matter",
+      "arxiv_id": "2007.08440",
+      "cite_key": "Baldes:2020kam",
+      "date_created": "2020-07-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1807466"
+    },
+    {
       "title": "Searches for low-mass dimuon resonances",
       "arxiv_id": "2007.03923",
       "cite_key": "LHCb:2020ysn",
       "date_created": "2020-07-09",
       "category": "hep-ex",
       "inspire_url": "https://inspirehep.net/literature/1805777"
+    },
+    {
+      "title": "Split SIMPs with Decays",
+      "arxiv_id": "2006.15148",
+      "cite_key": "Katz:2020ywn",
+      "date_created": "2020-06-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1803583"
     },
     {
       "title": "Casting a graph net to catch dark showers",
@@ -540,6 +1551,1526 @@
       "date_created": "2020-04-21",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1791806"
+    },
+    {
+      "title": "A Robust Measure of Event Isotropy at Colliders",
+      "arxiv_id": "2004.06125",
+      "cite_key": "Cesarotti:2020hwb",
+      "date_created": "2020-04-15",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1791220"
+    },
+    {
+      "title": "Jet Substructure from Dark Sector Showers",
+      "arxiv_id": "2004.00631",
+      "cite_key": "Cohen:2020afv",
+      "date_created": "2020-04-03",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1789421"
+    },
+    {
+      "title": "Composite dark matter phenomenology in the presence of lighter degrees of freedom",
+      "arxiv_id": "1912.11061",
+      "cite_key": "Ramos:2019qqa",
+      "date_created": "2019-12-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1773010"
+    },
+    {
+      "title": "Asymmetric matter from a dark first-order phase transition",
+      "arxiv_id": "1911.12342",
+      "cite_key": "Hall:2019rld",
+      "date_created": "2019-11-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1767519"
+    },
+    {
+      "title": "Large Effects from Small QCD Instantons: Making Soft Bombs at Hadron Colliders",
+      "arxiv_id": "1911.09726",
+      "cite_key": "Khoze:2019jta",
+      "date_created": "2019-11-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1766622"
+    },
+    {
+      "title": "Conspiracy of BSM physics and cosmology",
+      "arxiv_id": "1911.03294",
+      "cite_key": "Khlopov:2019mtp",
+      "date_created": "2019-11-11",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1763827"
+    },
+    {
+      "title": "Cosmoparticle physics of dark matter",
+      "arxiv_id": "1910.12910",
+      "cite_key": "Khlopov:2019ibz",
+      "date_created": "2019-10-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1762019"
+    },
+    {
+      "title": "Classification of dark pion multiplets as dark matter candidates and collider phenomenology",
+      "arxiv_id": "1910.10724",
+      "cite_key": "Beauchesne:2019ato",
+      "date_created": "2019-10-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1760716"
+    },
+    {
+      "title": "Searches for new physics with unconventional signatures at ATLAS and CMS",
+      "arxiv_id": "1912.04180",
+      "cite_key": "Pedro:2019ykl",
+      "date_created": "2019-10-09",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1758196"
+    },
+    {
+      "title": "Techniques and results of neutral long-lived particle searches in ATLAS and CMS in LHC Run 2",
+      "arxiv_id": "1907.13588",
+      "cite_key": "Wulz:2019lsz",
+      "date_created": "2019-08-01",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1747232"
+    },
+    {
+      "title": "Oscillating Composite Asymmetric Dark Matter",
+      "arxiv_id": "1907.11464",
+      "cite_key": "Ibe:2019yra",
+      "date_created": "2019-07-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1746456"
+    },
+    {
+      "title": "Not as big as a barn: Upper bounds on dark matter-nucleus cross sections",
+      "arxiv_id": "1907.10618",
+      "cite_key": "Digman:2019wdm",
+      "date_created": "2019-07-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1746261"
+    },
+    {
+      "title": "Dark Matter from self-dual gauge/Higgs dynamics",
+      "arxiv_id": "1907.11228",
+      "cite_key": "Buttazzo:2019iwr",
+      "date_created": "2019-07-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1746331"
+    },
+    {
+      "title": "Strongly interacting dark sectors in the early Universe and at the LHC through a simplified portal",
+      "arxiv_id": "1907.04346",
+      "cite_key": "Bernreuther:2019pfb",
+      "date_created": "2019-07-11",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1743191"
+    },
+    {
+      "title": "A generalized Higgs potential with two degenerate minima for a dark QCD matter scenario",
+      "arxiv_id": "1907.00237",
+      "cite_key": "Lutz:2019gmv",
+      "date_created": "2019-07-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1742109"
+    },
+    {
+      "title": "Light Hidden Mesons through the Z Portal",
+      "arxiv_id": "1906.02198",
+      "cite_key": "Cheng:2019yai",
+      "date_created": "2019-06-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1738653"
+    },
+    {
+      "title": "The Warped Dark Sector",
+      "arxiv_id": "1906.02199",
+      "cite_key": "Brax:2019koq",
+      "date_created": "2019-06-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1738667"
+    },
+    {
+      "title": "Thermal history of composite dark matter",
+      "arxiv_id": "1905.08810",
+      "cite_key": "Dondi:2019olm",
+      "date_created": "2019-05-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1736245"
+    },
+    {
+      "title": "Hadronic and Hadron-Like Physics of Dark Matter",
+      "arxiv_id": "1904.12013",
+      "cite_key": "Beylin:2019gtw",
+      "date_created": "2019-04-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1731823"
+    },
+    {
+      "title": "TeV-Scale Thermal WIMPs: Unitarity and its Consequences",
+      "arxiv_id": "1904.11503",
+      "cite_key": "Smirnov:2019ngs",
+      "date_created": "2019-04-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1731565"
+    },
+    {
+      "title": "Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider",
+      "arxiv_id": "1903.04497",
+      "cite_key": "Alimena:2019zri",
+      "date_created": "2019-03-13",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1724682"
+    },
+    {
+      "title": "Coset Cosmology",
+      "arxiv_id": "1902.05933",
+      "cite_key": "DiLuzio:2019wsw",
+      "date_created": "2019-02-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1720437"
+    },
+    {
+      "title": "Detector-size Upper Bounds on Dark Hadron Lifetime from Cosmology",
+      "arxiv_id": "1901.09936",
+      "cite_key": "Li:2019ulz",
+      "date_created": "2019-01-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1717511"
+    },
+    {
+      "title": "Highlights from the Compact Muon Solenoid (CMS) Experiment",
+      "arxiv_id": "1901.05340",
+      "cite_key": "Ghosh:2019vqm",
+      "date_created": "2019-01-17",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1714019"
+    },
+    {
+      "title": "Long Live the Higgs Factory: Higgs Decays to Long-Lived Particles at Future Lepton Colliders",
+      "arxiv_id": "1812.05588",
+      "cite_key": "Alipour-Fard:2018lsf",
+      "date_created": "2018-12-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1708924"
+    },
+    {
+      "title": "Hidden Valley searches at CLIC",
+      "arxiv_id": "1812.03723",
+      "cite_key": "Kucharczyk:2018adf",
+      "date_created": "2018-12-11",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1707958"
+    },
+    {
+      "title": "Gluequark Dark Matter",
+      "arxiv_id": "1811.06975",
+      "cite_key": "Contino:2018crt",
+      "date_created": "2018-11-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1704010"
+    },
+    {
+      "title": "Unitarizing SIMP scenario with dark vector resonances",
+      "arxiv_id": "1811.02751",
+      "cite_key": "Choi:2018jsb",
+      "date_created": "2018-11-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1702541"
+    },
+    {
+      "title": "Search for new particles decaying to a jet and an emerging jet",
+      "arxiv_id": "1810.10069",
+      "cite_key": "CMS:2018bvr",
+      "date_created": "2018-10-25",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1700173"
+    },
+    {
+      "title": "Dark Quark Nuggets",
+      "arxiv_id": "1810.04360",
+      "cite_key": "Bai:2018dxf",
+      "date_created": "2018-10-11",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1697698"
+    },
+    {
+      "title": "Baryogenesis and Dark Matter from $B$ Mesons",
+      "arxiv_id": "1810.00880",
+      "cite_key": "Elor:2018twp",
+      "date_created": "2018-10-03",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1696697"
+    },
+    {
+      "title": "Effective Theories of Dark Mesons with Custodial Symmetry",
+      "arxiv_id": "1809.10183",
+      "cite_key": "Kribs:2018oad",
+      "date_created": "2018-09-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1695843"
+    },
+    {
+      "title": "Dark matter in Hidden Valley models with stable and unstable light dark mesons",
+      "arxiv_id": "1809.10152",
+      "cite_key": "Beauchesne:2018myj",
+      "date_created": "2018-09-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1695846"
+    },
+    {
+      "title": "Dark Mesons at the LHC",
+      "arxiv_id": "1809.10184",
+      "cite_key": "Kribs:2018ilo",
+      "date_created": "2018-09-28",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1695858"
+    },
+    {
+      "title": "Dark Matter from Strong Dynamics: The Minimal Theory of Dark Baryons",
+      "arxiv_id": "1809.09117",
+      "cite_key": "Francis:2018xjd",
+      "date_created": "2018-09-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1695331"
+    },
+    {
+      "title": "A model of light dark matter and dark radiation",
+      "arxiv_id": "1808.10149",
+      "cite_key": "Hong:2018hvp",
+      "date_created": "2018-08-31",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1692073"
+    },
+    {
+      "title": "QCD or What?",
+      "arxiv_id": "1808.08979",
+      "cite_key": "Heimel:2018mkt",
+      "date_created": "2018-08-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1691810"
+    },
+    {
+      "title": "Double charged heavy constituents of dark atoms and superheavy nuclear objects",
+      "arxiv_id": "1808.06816",
+      "cite_key": "Gani:2018mey",
+      "date_created": "2018-08-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1689181"
+    },
+    {
+      "title": "Signatures of New Physics Versus the Ridge Phenomenon in Hadron\u2013Hadron Collisions at the LHC",
+      "arxiv_id": "1808.01463",
+      "cite_key": "Sanchis-Lozano:2018mur",
+      "date_created": "2018-08-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1685088"
+    },
+    {
+      "title": "Light dark matter showering under broken dark $U(1)$ \u2014 revisited",
+      "arxiv_id": "1807.00530",
+      "cite_key": "Chen:2018uii",
+      "date_created": "2018-07-03",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1680461"
+    },
+    {
+      "title": "A flavoured dark sector",
+      "arxiv_id": "1803.08080",
+      "cite_key": "Renner:2018fhh",
+      "date_created": "2018-03-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1663582"
+    },
+    {
+      "title": "Theta in new QCD-like sectors",
+      "arxiv_id": "1803.00015",
+      "cite_key": "Draper:2018tmh",
+      "date_created": "2018-03-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1658061"
+    },
+    {
+      "title": "Probes for Dark Matter Physics",
+      "arxiv_id": "1802.10184",
+      "cite_key": "Khlopov:2018ttr",
+      "date_created": "2018-03-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1657919"
+    },
+    {
+      "title": "Neutron stars exclude light dark baryons",
+      "arxiv_id": "1802.08244",
+      "cite_key": "McKeen:2018xwc",
+      "date_created": "2018-02-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1656825"
+    },
+    {
+      "title": "Searching for new physics with three-particle correlations in $pp$ collisions at the LHC",
+      "arxiv_id": "1802.06703",
+      "cite_key": "Sanchis-Lozano:2018wpz",
+      "date_created": "2018-02-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1655966"
+    },
+    {
+      "title": "Resolving phenomenological problems with strongly-interacting-massive-particle models with dark vector resonances",
+      "arxiv_id": "1801.07726",
+      "cite_key": "Choi:2018iit",
+      "date_created": "2018-01-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1650126"
+    },
+    {
+      "title": "Comprehensive asymmetric dark matter model",
+      "arxiv_id": "1801.05561",
+      "cite_key": "Lonsdale:2018xwd",
+      "date_created": "2018-01-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1648551"
+    },
+    {
+      "title": "Tagging a jet from a dark sector with Jet-substructures at colliders",
+      "arxiv_id": "1712.09279",
+      "cite_key": "Park:2017rfb",
+      "date_created": "2017-12-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1644925"
+    },
+    {
+      "title": "Collider phenomenology of Hidden Valley mediators of spin 0 or 1/2 with semivisible jets",
+      "arxiv_id": "1712.07160",
+      "cite_key": "Beauchesne:2017yhh",
+      "date_created": "2017-12-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1644385"
+    },
+    {
+      "title": "Lepton-portal Dark Matter in Hidden Valley model and the DAMPE recent results",
+      "arxiv_id": "1711.11058",
+      "cite_key": "Tang:2017lfb",
+      "date_created": "2017-12-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1639865"
+    },
+    {
+      "title": "Search for Double Charged Particles as Direct Test for Dark Atom Constituents",
+      "arxiv_id": "1711.10773",
+      "cite_key": "Bulekov:2017mkb",
+      "date_created": "2017-11-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1639402"
+    },
+    {
+      "title": "New Long-Lived Particles at the LHC",
+      "arxiv_id": "1710.06934",
+      "cite_key": "Stolarski:2017wmt",
+      "date_created": "2017-10-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1631667"
+    },
+    {
+      "title": "Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly",
+      "arxiv_id": "1710.03906",
+      "cite_key": "Jia:2017iyc",
+      "date_created": "2017-10-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1629933"
+    },
+    {
+      "title": "Cosmological Dark Matter in a Conformal Model",
+      "arxiv_id": "1709.02905",
+      "cite_key": "Sanyal:2017qus",
+      "date_created": "2017-09-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1622755"
+    },
+    {
+      "title": "Unified Scenario for Composite Right-Handed Neutrinos and Dark Matter",
+      "arxiv_id": "1709.01082",
+      "cite_key": "Davoudiasl:2017zws",
+      "date_created": "2017-09-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1621588"
+    },
+    {
+      "title": "Searching for confining hidden valleys at LHCb, ATLAS, and CMS",
+      "arxiv_id": "1708.05389",
+      "cite_key": "Pierce:2017taw",
+      "date_created": "2017-08-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1616725"
+    },
+    {
+      "title": "Little composite dark matter",
+      "arxiv_id": "1707.09980",
+      "cite_key": "Balkin:2017yns",
+      "date_created": "2017-08-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1613651"
+    },
+    {
+      "title": "Dark Matter as a weakly coupled Dark Baryon",
+      "arxiv_id": "1707.05380",
+      "cite_key": "Mitridate:2017oky",
+      "date_created": "2017-07-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1610421"
+    },
+    {
+      "title": "LHC Searches for Dark Sector Showers",
+      "arxiv_id": "1707.05326",
+      "cite_key": "Cohen:2017pzm",
+      "date_created": "2017-07-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1610461"
+    },
+    {
+      "title": "Dark Matter and Neutrino Mass from the Smallest Non-Abelian Chiral Dark Sector",
+      "arxiv_id": "1706.02722",
+      "cite_key": "Berryman:2017twh",
+      "date_created": "2017-06-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1604034"
+    },
+    {
+      "title": "Exceptional Composite Dark Matter",
+      "arxiv_id": "1704.07388",
+      "cite_key": "Ballesteros:2017xeg",
+      "date_created": "2017-04-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1594867"
+    },
+    {
+      "title": "Asymmetric Dark Matter and the hadronic spectra of hidden QCD",
+      "arxiv_id": "1704.05213",
+      "cite_key": "Lonsdale:2017mzg",
+      "date_created": "2017-04-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1591986"
+    },
+    {
+      "title": "Gravitational wave from dark sector with dark pion",
+      "arxiv_id": "1704.00219",
+      "cite_key": "Tsumura:2017knk",
+      "date_created": "2017-04-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1589236"
+    },
+    {
+      "title": "Composite Dark Matter and Higgs",
+      "arxiv_id": "1703.06903",
+      "cite_key": "Wu:2017iji",
+      "date_created": "2017-03-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1518623"
+    },
+    {
+      "title": "Triggering Soft Bombs at the LHC",
+      "arxiv_id": "1612.00850",
+      "cite_key": "Knapen:2016hky",
+      "date_created": "2016-12-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1501696"
+    },
+    {
+      "title": "Chiral Dark Sector",
+      "arxiv_id": "1610.03848",
+      "cite_key": "Co:2016akw",
+      "date_created": "2016-10-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1491918"
+    },
+    {
+      "title": "Dynamical Dark Matter from Strongly-Coupled Dark Sectors",
+      "arxiv_id": "1610.04112",
+      "cite_key": "Dienes:2016vei",
+      "date_created": "2016-10-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1491930"
+    },
+    {
+      "title": "Can Tonne-Scale Direct Detection Experiments Discover Nuclear Dark Matter?",
+      "arxiv_id": "1610.01840",
+      "cite_key": "Butcher:2016hic",
+      "date_created": "2016-10-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1490005"
+    },
+    {
+      "title": "Unified composite scenario for inflation and dark matter in the Nambu\u2013Jona-Lasinio model",
+      "arxiv_id": "1609.04698",
+      "cite_key": "Channuie:2016iyy",
+      "date_created": "2016-09-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1486663"
+    },
+    {
+      "title": "Impeded Dark Matter",
+      "arxiv_id": "1609.02147",
+      "cite_key": "Kopp:2016yji",
+      "date_created": "2016-09-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1485662"
+    },
+    {
+      "title": "Optical dispersion of composite particles consisting of millicharged constituents",
+      "arxiv_id": "1607.04577",
+      "cite_key": "Kvam:2016plz",
+      "date_created": "2016-07-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1473564"
+    },
+    {
+      "title": "Diphotons at the $Z$-pole in Models of the 750 GeV Resonance Decaying to Axion-Like Particles",
+      "arxiv_id": "1606.06375",
+      "cite_key": "Alves:2016koo",
+      "date_created": "2016-06-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1471530"
+    },
+    {
+      "title": "SIMP from a strong U(1) gauge theory with a monopole condensation",
+      "arxiv_id": "1606.01628",
+      "cite_key": "Kamada:2016ois",
+      "date_created": "2016-06-07",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1467419"
+    },
+    {
+      "title": "GUTzilla Dark Matter",
+      "arxiv_id": "1606.00923",
+      "cite_key": "Harigaya:2016vda",
+      "date_created": "2016-06-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1467194"
+    },
+    {
+      "title": "LHC Signatures of WIMP-triggered Baryogenesis",
+      "arxiv_id": "1605.08736",
+      "cite_key": "Cui:2016rqt",
+      "date_created": "2016-05-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1466117"
+    },
+    {
+      "title": "Review of strongly-coupled composite dark matter models and lattice simulations",
+      "arxiv_id": "1604.04627",
+      "cite_key": "Kribs:2016cew",
+      "date_created": "2016-04-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1448259"
+    },
+    {
+      "title": "Light Chiral Dark Sector",
+      "arxiv_id": "1603.03430",
+      "cite_key": "Harigaya:2016rwr",
+      "date_created": "2016-03-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1427260"
+    },
+    {
+      "title": "Gamma-rays from Dark Showers with Twin Higgs Models",
+      "arxiv_id": "1601.07556",
+      "cite_key": "Freytsis:2016dgf",
+      "date_created": "2016-01-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1418186"
+    },
+    {
+      "title": "Unified Description of Quarks and Leptons in a Multi-spinor Field Formalism",
+      "arxiv_id": "1512.09283",
+      "cite_key": "Sogami:2015ypr",
+      "date_created": "2016-01-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1411844"
+    },
+    {
+      "title": "SIMP Spectroscopy",
+      "arxiv_id": "1512.07917",
+      "cite_key": "Hochberg:2015vrg",
+      "date_created": "2015-12-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1411469"
+    },
+    {
+      "title": "Theory Motivation For Exotic Signatures: Prospects and Wishlist for Run II",
+      "arxiv_id": "1512.07857",
+      "cite_key": "Stolarski:2015vsw",
+      "date_created": "2015-12-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1411316"
+    },
+    {
+      "title": "Interpreting the 750 GeV diphoton resonance using photon jets in hidden-valley-like models",
+      "arxiv_id": "1512.06671",
+      "cite_key": "Chang:2015sdy",
+      "date_created": "2015-12-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1410841"
+    },
+    {
+      "title": "Composite dark matter and direct-search experiments",
+      "arxiv_id": "1512.05898",
+      "cite_key": "Wallemacq:2015ctj",
+      "date_created": "2015-12-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1410601"
+    },
+    {
+      "title": "750 GeV dark pion: Cousin of a dark G -parity odd WIMP",
+      "arxiv_id": "1512.05779",
+      "cite_key": "Bai:2015nbs",
+      "date_created": "2015-12-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1410126"
+    },
+    {
+      "title": "Rays of light from the LHC",
+      "arxiv_id": "1512.04928",
+      "cite_key": "Knapen:2015dap",
+      "date_created": "2015-12-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1409767"
+    },
+    {
+      "title": "10 years of dark atoms of composite dark matter",
+      "arxiv_id": "1512.01081",
+      "cite_key": "Khlopov:2015nrq",
+      "date_created": "2015-12-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1407931"
+    },
+    {
+      "title": "Magnetic dipole moments for composite dark matter",
+      "arxiv_id": "1511.02805",
+      "cite_key": "Aranda:2015jis",
+      "date_created": "2015-11-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1403520"
+    },
+    {
+      "title": "SUSY Higgs Mass and Collider Signals with a Hidden Valley",
+      "arxiv_id": "1511.00691",
+      "cite_key": "Nakai:2015swg",
+      "date_created": "2015-11-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1402603"
+    },
+    {
+      "title": "Searching for hidden sector in multiparticle production at LHC",
+      "arxiv_id": "1510.08738",
+      "cite_key": "Sanchis-Lozano:2015eca",
+      "date_created": "2015-10-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1401404"
+    },
+    {
+      "title": "Recent Progress in Search for Dark Sector Signatures",
+      "arxiv_id": "1510.06927",
+      "cite_key": "Deliyergiyev:2015oxa",
+      "date_created": "2015-10-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1400608"
+    },
+    {
+      "title": "Models for SIMP dark matter and dark photon",
+      "arxiv_id": "1510.05116",
+      "cite_key": "Lee:2015uva",
+      "date_created": "2015-10-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1398534"
+    },
+    {
+      "title": "Searches for Majorana Neutrinos and Direct Searches for Exotics at LHCb",
+      "arxiv_id": "1510.05483",
+      "cite_key": "CidVidal:2015fow",
+      "date_created": "2015-10-20",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1398587"
+    },
+    {
+      "title": "Search for non Standard Model Higgs boson decays in events with displaced muon-jets",
+      "arxiv_id": "1510.02764",
+      "cite_key": "Dildick:2015zoa",
+      "date_created": "2015-10-12",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1397005"
+    },
+    {
+      "title": "Axions/Axion like particles and the CMB asymmetric dipole",
+      "arxiv_id": "1510.02002",
+      "cite_key": "Yang:2015fxa",
+      "date_created": "2015-10-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1396543"
+    },
+    {
+      "title": "Relaxing the Electroweak Scale: the Role of Broken dS Symmetry",
+      "arxiv_id": "1507.08649",
+      "cite_key": "Patil:2015oxa",
+      "date_created": "2015-07-31",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1385736"
+    },
+    {
+      "title": "Energy peak: back to the Galactic Center GeV gamma-ray excess",
+      "arxiv_id": "1507.07922",
+      "cite_key": "Kim:2015usa",
+      "date_created": "2015-07-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1385612"
+    },
+    {
+      "title": "Thinking outside the beamspot: Other SUSY searches at the LHC (long-lived particles and R-parity violation)",
+      "arxiv_id": "1507.02464",
+      "cite_key": "Wulsin:2015qpa",
+      "date_created": "2015-07-10",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1382150"
+    },
+    {
+      "title": "SIMP model at NNLO in chiral perturbation theory",
+      "arxiv_id": "1507.01590",
+      "cite_key": "Hansen:2015yaa",
+      "date_created": "2015-07-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1381768"
+    },
+    {
+      "title": "Dark chiral symmetry breaking and the origin of the electroweak scale",
+      "arxiv_id": "1505.04448",
+      "cite_key": "Carone:2015jra",
+      "date_created": "2015-05-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1370703"
+    },
+    {
+      "title": "Gravitational Waves from a Dark Phase Transition",
+      "arxiv_id": "1504.07263",
+      "cite_key": "Schwaller:2015tja",
+      "date_created": "2015-04-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1365097"
+    },
+    {
+      "title": "Signatures of Large Composite Dark Matter States",
+      "arxiv_id": "1504.05419",
+      "cite_key": "Hardy:2015boa",
+      "date_created": "2015-04-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1362505"
+    },
+    {
+      "title": "Search for long-lived, weakly interacting particles that decay to displaced hadronic jets in proton-proton collisions at $\\sqrt{s}=8$ TeV with the ATLAS detector",
+      "arxiv_id": "1504.03634",
+      "cite_key": "ATLAS:2015xit",
+      "date_created": "2015-04-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1359456"
+    },
+    {
+      "title": "Communication with SIMP dark mesons via Z\u2032 -portal",
+      "arxiv_id": "1504.00745",
+      "cite_key": "Lee:2015gsa",
+      "date_created": "2015-04-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1357882"
+    },
+    {
+      "title": "Accidental Composite Dark Matter",
+      "arxiv_id": "1503.08749",
+      "cite_key": "Antipin:2015xia",
+      "date_created": "2015-03-31",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1356963"
+    },
+    {
+      "title": "Stealth Dark Matter: Dark scalar baryons through the Higgs portal",
+      "arxiv_id": "1503.04203",
+      "cite_key": "Appelquist:2015yfa",
+      "date_created": "2015-03-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1352830"
+    },
+    {
+      "title": "Detecting Stealth Dark Matter Directly through Electromagnetic Polarizability",
+      "arxiv_id": "1503.04205",
+      "cite_key": "Appelquist:2015zfa",
+      "date_created": "2015-03-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1352831"
+    },
+    {
+      "title": "Semivisible Jets: Dark Matter Undercover at the LHC",
+      "arxiv_id": "1503.00009",
+      "cite_key": "Cohen:2015toa",
+      "date_created": "2015-03-03",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1346975"
+    },
+    {
+      "title": "Emerging Jets",
+      "arxiv_id": "1502.05409",
+      "cite_key": "Schwaller:2015gea",
+      "date_created": "2015-02-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1345350"
+    },
+    {
+      "title": "Naturalness in the Dark at the LHC",
+      "arxiv_id": "1501.05310",
+      "cite_key": "Craig:2015pha",
+      "date_created": "2015-01-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1340705"
+    },
+    {
+      "title": "Search for pair-produced long-lived neutral particles decaying in the ATLAS hadronic calorimeter in $pp$ collisions at $\\sqrt{s}$ = 8 TeV",
+      "arxiv_id": "1501.04020",
+      "cite_key": "ATLAS:2015mlf",
+      "date_created": "2015-01-19",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1339624"
+    },
+    {
+      "title": "Tagging Partially Reconstructed Objects with Jet Substructure",
+      "arxiv_id": "1412.7540",
+      "cite_key": "Freytsis:2014hpa",
+      "date_created": "2014-12-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1335497"
+    },
+    {
+      "title": "Some potential problems of OHe composite dark matter",
+      "arxiv_id": "1412.6030",
+      "cite_key": "Cudell:2014dva",
+      "date_created": "2014-12-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1334973"
+    },
+    {
+      "title": "Uncovering light scalars with exotic Higgs decays to $ b\\overline{b}{\\mu}^{+}{\\mu}^{-} $",
+      "arxiv_id": "1412.4779",
+      "cite_key": "Curtin:2014pda",
+      "date_created": "2014-12-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1334517"
+    },
+    {
+      "title": "Search for long-lived particles decaying to jet pairs",
+      "arxiv_id": "1412.3021",
+      "cite_key": "LHCb:2014jgs",
+      "date_created": "2014-12-10",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1333397"
+    },
+    {
+      "title": "Unified dark matter with intermediate symmetry breaking scales",
+      "arxiv_id": "1412.1894",
+      "cite_key": "Lonsdale:2014yua",
+      "date_created": "2014-12-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1332940"
+    },
+    {
+      "title": "Search for long-lived particles at CMS",
+      "arxiv_id": "1411.5939",
+      "cite_key": "Lujan:2014dxa",
+      "date_created": "2014-11-24",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1329617"
+    },
+    {
+      "title": "Galactic Centre GeV Photons from Dark Technicolor",
+      "arxiv_id": "1410.4842",
+      "cite_key": "Heikinheimo:2014xza",
+      "date_created": "2014-10-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1322929"
+    },
+    {
+      "title": "Galactic Center Gamma-Ray Excess through a Dark Shower",
+      "arxiv_id": "1410.3818",
+      "cite_key": "Freytsis:2014sua",
+      "date_created": "2014-10-15",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1322118"
+    },
+    {
+      "title": "Probing Baryogenesis with Displaced Vertices at the LHC",
+      "arxiv_id": "1409.6729",
+      "cite_key": "Cui:2014twa",
+      "date_created": "2014-09-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1318791"
+    },
+    {
+      "title": "Review of Physics Results from the Tevatron: Searches for New Particles and Interactions",
+      "arxiv_id": "1409.4910",
+      "cite_key": "Toback:2014tea",
+      "date_created": "2014-09-18",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1317647"
+    },
+    {
+      "title": "Grand unified hidden-sector dark matter",
+      "arxiv_id": "1407.4192",
+      "cite_key": "Lonsdale:2014wwa",
+      "date_created": "2014-07-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1306626"
+    },
+    {
+      "title": "Partially Composite Dark Matter",
+      "arxiv_id": "1406.6374",
+      "cite_key": "Asano:2014wra",
+      "date_created": "2014-06-26",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1303116"
+    },
+    {
+      "title": "Dark Nuclei I: Cosmology and Indirect Detection",
+      "arxiv_id": "1406.2276",
+      "cite_key": "Detmold:2014qqa",
+      "date_created": "2014-06-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1299704"
+    },
+    {
+      "title": "Reach of threshold-corrected dark QCD",
+      "arxiv_id": "1405.7427",
+      "cite_key": "Newstead:2014jva",
+      "date_created": "2014-05-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1298475"
+    },
+    {
+      "title": "Composite Dark Matter and LHC Interplay",
+      "arxiv_id": "1404.7419",
+      "cite_key": "Marzocca:2014msa",
+      "date_created": "2014-04-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1292992"
+    },
+    {
+      "title": "Probes for 4th generation constituents of dark atoms in Higgs boson studies at the LHC",
+      "arxiv_id": "1402.0180",
+      "cite_key": "Khlopov:2014aia",
+      "date_created": "2014-02-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1279876"
+    },
+    {
+      "title": "Building a St\u00fcckelberg portal",
+      "arxiv_id": "1401.5890",
+      "cite_key": "Feng:2014cla",
+      "date_created": "2014-01-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1278604"
+    },
+    {
+      "title": "Gravity-mediated (or Composite) Dark Matter Confronts Astrophysical Data",
+      "arxiv_id": "1401.5301",
+      "cite_key": "Lee:2014caa",
+      "date_created": "2014-01-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1278318"
+    },
+    {
+      "title": "Composite strongly interacting dark matter",
+      "arxiv_id": "1312.3325",
+      "cite_key": "Cline:2013zca",
+      "date_created": "2013-12-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1268929"
+    },
+    {
+      "title": "Electroweak and Conformal Symmetry Breaking by a Strongly Coupled Hidden Sector",
+      "arxiv_id": "1310.4423",
+      "cite_key": "Holthausen:2013ota",
+      "date_created": "2013-10-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1260572"
+    },
+    {
+      "title": "The Physics of the $\\theta$-angle for Composite Extensions of the Standard Model",
+      "arxiv_id": "1310.0954",
+      "cite_key": "DiVecchia:2013swa",
+      "date_created": "2013-10-04",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1256598"
+    },
+    {
+      "title": "Constraining Light Dark Matter with Diffuse X-Ray and Gamma-Ray Observations",
+      "arxiv_id": "1309.4091",
+      "cite_key": "Essig:2013goa",
+      "date_created": "2013-09-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1254350"
+    },
+    {
+      "title": "Asymmetric Dark Matter: Theories, Signatures, and Constraints",
+      "arxiv_id": "1308.0338",
+      "cite_key": "Zurek:2013wia",
+      "date_created": "2013-08-05",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1246098"
+    },
+    {
+      "title": "Scale of dark QCD",
+      "arxiv_id": "1306.4676",
+      "cite_key": "Bai:2013xga",
+      "date_created": "2013-06-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1239287"
+    },
+    {
+      "title": "Gravity-mediated (or Composite) Dark Matter",
+      "arxiv_id": "1306.4107",
+      "cite_key": "Lee:2013bua",
+      "date_created": "2013-06-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1238953"
+    },
+    {
+      "title": "Composite Millicharged Dark Matter",
+      "arxiv_id": "1304.7476",
+      "cite_key": "Kouvaris:2013gya",
+      "date_created": "2013-04-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1230950"
+    },
+    {
+      "title": "Physical Naturalness and Dynamical Breaking of Classical Scale Invariance",
+      "arxiv_id": "1304.7006",
+      "cite_key": "Heikinheimo:2013fta",
+      "date_created": "2013-04-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1230819"
+    },
+    {
+      "title": "Lattice Calculation of Composite Dark Matter Form Factors",
+      "arxiv_id": "1301.1693",
+      "cite_key": "LatticeStrongDynamicsLSD:2013elk",
+      "date_created": "2013-01-09",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1209894"
+    },
+    {
+      "title": "A search for prompt lepton-jets in $pp$ collisions at $\\sqrt{s}=7$ TeV with the ATLAS detector",
+      "arxiv_id": "1212.5409",
+      "cite_key": "ATLAS:2012wib",
+      "date_created": "2012-12-23",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1208548"
+    },
+    {
+      "title": "Higgs Boson Searches at the Tevatron, PIC 2012",
+      "arxiv_id": "1212.4197",
+      "cite_key": "Varnes:2012jb",
+      "date_created": "2012-12-18",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1207878"
+    },
+    {
+      "title": "Search for a Non-Standard-Model Higgs Boson Decaying to a Pair of New Light Bosons in Four-Muon Final States",
+      "arxiv_id": "1210.7619",
+      "cite_key": "CMS:2012qms",
+      "date_created": "2012-10-29",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1193937"
+    },
+    {
+      "title": "Stringy Hidden Valleys",
+      "arxiv_id": "1210.5245",
+      "cite_key": "Cvetic:2012kj",
+      "date_created": "2012-10-21",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1191904"
+    },
+    {
+      "title": "Thermal Dark Matter from a Confining Sector",
+      "arxiv_id": "1209.6054",
+      "cite_key": "Buckley:2012ky",
+      "date_created": "2012-09-27",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1188224"
+    },
+    {
+      "title": "Search for anomalous production of multiple leptons in association with $W$ and $Z$ bosons at CDF",
+      "arxiv_id": "1202.1260",
+      "cite_key": "CDF:2012ztx",
+      "date_created": "2012-02-06",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1087913"
+    },
+    {
+      "title": "ATLAS Exotic Searches",
+      "arxiv_id": "1201.5256",
+      "cite_key": "Bousson:2012sp",
+      "date_created": "2012-01-25",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/1085858"
+    },
+    {
+      "title": "Exotic Spectroscopy and Decays: Prospects for Colliders",
+      "arxiv_id": "1112.4629",
+      "cite_key": "Domenech-Garret:2011rcw",
+      "date_created": "2011-12-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1082353"
+    },
+    {
+      "title": "LHC Signatures of a Minimal Supersymmetric Hidden Valley",
+      "arxiv_id": "1112.2705",
+      "cite_key": "Chan:2011aa",
+      "date_created": "2011-12-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/1081236"
+    },
+    {
+      "title": "Accelerator probes for new stable quarks",
+      "arxiv_id": "1111.3578",
+      "cite_key": "Belostky:2011mf",
+      "date_created": "2011-11-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/945936"
+    },
+    {
+      "title": "Search for heavy metastable particles decaying to jet pairs in $p\\bar{p}$ collisions at $\\sqrt{s} = 1.96$ TeV",
+      "arxiv_id": "1109.3136",
+      "cite_key": "CDF:2011dnt",
+      "date_created": "2011-09-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/927387"
+    },
+    {
+      "title": "Beyond the Standard Model Higgs Boson Searches at the Tevatron",
+      "arxiv_id": "1107.0363",
+      "cite_key": "Scanlon:2011in",
+      "date_created": "2011-07-04",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/916899"
+    },
+    {
+      "title": "A first study of Hidden Valley models at the LHC",
+      "arxiv_id": "1106.2064",
+      "cite_key": "Seth:2011ci",
+      "date_created": "2011-06-12",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/913347"
+    },
+    {
+      "title": "Interfering Composite Asymmetric Dark Matter for DAMA and CoGeNT",
+      "arxiv_id": "1105.5431",
+      "cite_key": "DelNobile:2011je",
+      "date_created": "2011-05-29",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/901794"
+    },
+    {
+      "title": "Black Hole Portal into Hidden Valleys",
+      "arxiv_id": "1012.2893",
+      "cite_key": "Dubovsky:2010je",
+      "date_created": "2010-12-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/881242"
+    },
+    {
+      "title": "Nearly Supersymmetric Dark Atoms",
+      "arxiv_id": "1009.3523",
+      "cite_key": "Behbahani:2010xa",
+      "date_created": "2010-09-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/868980"
+    },
+    {
+      "title": "Aidnogenesis via Leptogenesis and Dark Sphalerons",
+      "arxiv_id": "1009.3159",
+      "cite_key": "Blennow:2010qp",
+      "date_created": "2010-09-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/868573"
+    },
+    {
+      "title": "Direct Detection of Dark Matter Electromagnetic Dipole Moments",
+      "arxiv_id": "1007.5515",
+      "cite_key": "Banks:2010eh",
+      "date_created": "2010-08-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/863721"
+    },
+    {
+      "title": "Tevatron Searches for New Physics with Photons and Jets",
+      "arxiv_id": "1007.2244",
+      "cite_key": "Brau:2010vx",
+      "date_created": "2010-07-14",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/861243"
+    },
+    {
+      "title": "Axion-Assisted Electroweak Baryogenesis",
+      "arxiv_id": "1007.0019",
+      "cite_key": "Craig:2010au",
+      "date_created": "2010-07-01",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/860065"
+    },
+    {
+      "title": "Visible Effects of Invisible Hidden Valley Radiation",
+      "arxiv_id": "1006.2911",
+      "cite_key": "Carloni:2010tw",
+      "date_created": "2010-06-15",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/858358"
+    },
+    {
+      "title": "The Cosmology of Composite Inelastic Dark Matter",
+      "arxiv_id": "1003.4729",
+      "cite_key": "SpierMoreiraAlves:2010err",
+      "date_created": "2010-03-25",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/850007"
+    },
+    {
+      "title": "Revealing Randall-Sundrum Hidden Valleys",
+      "arxiv_id": "1002.3160",
+      "cite_key": "Bunk:2010gb",
+      "date_created": "2010-02-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/846009"
+    },
+    {
+      "title": "Searching for Unexpected Physics at the LHC",
+      "arxiv_id": "1001.2563",
+      "cite_key": "Zurek:2010xf",
+      "date_created": "2010-01-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/842881"
+    },
+    {
+      "title": "The Hunt for New Physics at the Large Hadron Collider",
+      "arxiv_id": "1001.2693",
+      "cite_key": "Nath:2010zj",
+      "date_created": "2010-01-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/842933"
+    },
+    {
+      "title": "Proceedings, 12th Workshop on What Comes Beyond the Standard Models?",
+      "arxiv_id": "0912.4532",
+      "cite_key": "Norma:2009gea",
+      "date_created": "2009-12-23",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/841034"
+    },
+    {
+      "title": "Physics searches at the LHC",
+      "arxiv_id": "0912.3259",
+      "cite_key": "Morrissey:2009tf",
+      "date_created": "2009-12-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/840434"
+    },
+    {
+      "title": "The INTEGRAL/SPI 511 keV Signal from Hidden Valleys in Type Ia and Core Collapse Supernova Explosions",
+      "arxiv_id": "0912.3320",
+      "cite_key": "Davoudiasl:2009ud",
+      "date_created": "2009-12-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/840456"
+    },
+    {
+      "title": "Pure-glue hidden valleys through the Higgs portal",
+      "arxiv_id": "0911.5616",
+      "cite_key": "Juknevich:2009gg",
+      "date_created": "2009-11-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/838413"
+    },
+    {
+      "title": "Quirky Composite Dark Matter",
+      "arxiv_id": "0909.2034",
+      "cite_key": "Kribs:2009fy",
+      "date_created": "2009-09-13",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/830917"
+    },
+    {
+      "title": "Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC",
+      "arxiv_id": "0908.3319",
+      "cite_key": "Sanchis-Lozano:2009xkk",
+      "date_created": "2009-08-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/829343"
+    },
+    {
+      "title": "Search for Resonant Pair Production of long-lived particles decaying to b anti-b in p anti-p collisions at s**(1/2) = 1.96-TeV",
+      "arxiv_id": "0906.1787",
+      "cite_key": "D0:2009mtx",
+      "date_created": "2009-06-09",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/822614"
+    },
+    {
+      "title": "Search for dark photons from supersymmetric hidden valleys",
+      "arxiv_id": "0905.1478",
+      "cite_key": "D0:2009hlq",
+      "date_created": "2009-05-11",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/819905"
+    },
+    {
+      "title": "Protecting unparticles from the MSSM Higgs sector",
+      "arxiv_id": "0905.0503",
+      "cite_key": "Nelson:2009jg",
+      "date_created": "2009-05-05",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/819413"
+    },
+    {
+      "title": "Composite Inelastic Dark Matter",
+      "arxiv_id": "0903.3945",
+      "cite_key": "Alves:2009nf",
+      "date_created": "2009-03-24",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/816072"
+    },
+    {
+      "title": "Electroweak and Dark Matter Constraints on a Z-prime in Models with a Hidden Valley",
+      "arxiv_id": "0903.1118",
+      "cite_key": "Cassel:2009pu",
+      "date_created": "2009-03-08",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/814853"
+    },
+    {
+      "title": "A Pure-Glue Hidden Valley I. States and Decays",
+      "arxiv_id": "0903.0883",
+      "cite_key": "Juknevich:2009ji",
+      "date_created": "2009-03-05",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/814771"
+    },
+    {
+      "title": "Gauge Extensions of Supersymmetric Models and Hidden Valleys",
+      "arxiv_id": "0901.2613",
+      "cite_key": "Luo:2009kf",
+      "date_created": "2009-01-19",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/811237"
+    },
+    {
+      "title": "Muon Excess in Cosmic Rays and at CDF: Signs for a Hidden Sector?",
+      "arxiv_id": "0812.4240",
+      "cite_key": "Gehrmann:2008gu",
+      "date_created": "2008-12-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/805979"
+    },
+    {
+      "title": "Proceedings, 11th Workshop on What Comes Beyond the Standard Models?",
+      "arxiv_id": "0812.0510",
+      "cite_key": "Proceedings:2008pgd",
+      "date_created": "2008-12-02",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/804131"
+    },
+    {
+      "title": "Flesh and Blood, or Merely Ghosts? Some Comments on the Multi-Muon Study at CDF",
+      "arxiv_id": "0811.1560",
+      "cite_key": "Strassler:2008jq",
+      "date_created": "2008-11-10",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/802019"
+    },
+    {
+      "title": "Signals of New Physics in the Underlying Event",
+      "arxiv_id": "0810.3948",
+      "cite_key": "Harnik:2008ax",
+      "date_created": "2008-10-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/800288"
+    },
+    {
+      "title": "Discovering hidden sectors with mono-photon $Z^\\prime$o searches",
+      "arxiv_id": "0809.2849",
+      "cite_key": "Gershtein:2008bf",
+      "date_created": "2008-09-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/796824"
+    },
+    {
+      "title": "On the Phenomenology of Hidden Valleys with Heavy Flavor",
+      "arxiv_id": "0806.2385",
+      "cite_key": "Strassler:2008fv",
+      "date_created": "2008-06-17",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/788326"
+    },
+    {
+      "title": "Search for long-lived particles decaying into electron or photon pairs with the D0 detector",
+      "arxiv_id": "0806.2223",
+      "cite_key": "D0:2008oho",
+      "date_created": "2008-06-15",
+      "category": "hep-ex",
+      "inspire_url": "https://inspirehep.net/literature/788206"
+    },
+    {
+      "title": "A Hidden Valley model of cold dark matter with photonic portal",
+      "arxiv_id": "0803.2977",
+      "cite_key": "Krolikowski:2008qa",
+      "date_created": "2008-03-20",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/781765"
+    },
+    {
+      "title": "Heavy Dark Matter Through the Higgs Portal",
+      "arxiv_id": "0801.3440",
+      "cite_key": "March-Russell:2008lng",
+      "date_created": "2008-01-22",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/777927"
+    },
+    {
+      "title": "Why Unparticle Models with Mass Gaps are Examples of Hidden Valleys",
+      "arxiv_id": "0801.0629",
+      "cite_key": "Strassler:2008bv",
+      "date_created": "2008-01-06",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/776786"
+    },
+    {
+      "title": "Phenomenology of hidden valleys at hadron colliders",
+      "arxiv_id": "0712.2041",
+      "cite_key": "Han:2007ae",
+      "date_created": "2007-12-14",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/770390"
+    },
+    {
+      "title": "Possible effects of a hidden valley on supersymmetric phenomenology",
+      "arxiv_id": "hep-ph/0607160",
+      "cite_key": "Strassler:2006qa",
+      "date_created": "2006-07-16",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/721604"
+    },
+    {
+      "title": "Discovering the Higgs through highly-displaced vertices",
+      "arxiv_id": "hep-ph/0605193",
+      "cite_key": "Strassler:2006ri",
+      "date_created": "2006-05-18",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/717210"
+    },
+    {
+      "title": "Echoes of a hidden valley at hadron colliders",
+      "arxiv_id": "hep-ph/0604261",
+      "cite_key": "Strassler:2006im",
+      "date_created": "2006-04-30",
+      "category": "hep-ph",
+      "inspire_url": "https://inspirehep.net/literature/715541"
     }
   ]
 }
