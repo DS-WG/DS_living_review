@@ -1,0 +1,22 @@
+title: "A Living Review of Dark Showers"
+description: "Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts"
+baseurl: ""
+url: "https://github.com/Darkshowers-working-group/DS_living_review"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
+
+# Exclude files from processing
+exclude:
+  - node_modules/
+  - vendor/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
