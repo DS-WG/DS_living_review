@@ -207,7 +207,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Model Building
 
-## Model Building - SU(N) Gauge Groups (207 papers)
+## Model Building - SU(N) Gauge Groups (205 papers)
 
 * **Inelastically Decoupling Dark Matter**
   * [arXiv:2508.04772](https://arxiv.org/abs/2508.04772) | [Inspire](https://inspirehep.net/literature/2958244) | 2025-08-08 | hep-ph
@@ -320,9 +320,6 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Experimental evidence of dark matter axions identical to solar axions and the absence of the "fifth" carrier force for the Higgs field**
   * [arXiv:2308.07943](https://arxiv.org/abs/2308.07943) | [Inspire](https://inspirehep.net/literature/2688624) | 2023-08-17 | hep-ph
 
-* **Two-particle angular correlations in the search for new physics at future $e^+e^-$ colliders**
-  * [arXiv:2307.14734](https://arxiv.org/abs/2307.14734) | [Inspire](https://inspirehep.net/literature/2682330) | 2023-07-28 | hep-ph
-
 * **Consequences of multiple axions in theories with dark Yang-Mills groups**
   * [arXiv:2307.10298](https://arxiv.org/abs/2307.10298) | [Inspire](https://inspirehep.net/literature/2678763) | 2023-07-21 | hep-ph
 
@@ -421,9 +418,6 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Emerging jets displaced into the future**
   * [arXiv:2112.05690](https://arxiv.org/abs/2112.05690) | [Inspire](https://inspirehep.net/literature/1987829) | 2021-12-13 | hep-ph
-
-* **Searching for hidden matter with long-range angular correlations at $e^+e^-$ colliders**
-  * [arXiv:2110.05900](https://arxiv.org/abs/2110.05900) | [Inspire](https://inspirehep.net/literature/1942128) | 2021-10-13 | hep-ph
 
 * **Dark confinement and chiral phase transitions: gravitational waves vs matter representations**
   * [arXiv:2109.11552](https://arxiv.org/abs/2109.11552) | [Inspire](https://inspirehep.net/literature/1927655) | 2021-09-27 | hep-ph
@@ -3584,7 +3578,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Search for long-lived particles decaying into electron or photon pairs with the D0 detector**
   * [arXiv:0806.2223](https://arxiv.org/abs/0806.2223) | [Inspire](https://inspirehep.net/literature/788206) | 2008-06-15 | hep-ex
 
-## Lepton Colliders (7 papers)
+## Lepton Colliders (9 papers)
 
 * **New Physics Search at the CEPC: a General Perspective**
   * [arXiv:2505.24810](https://arxiv.org/abs/2505.24810) | [Inspire](https://inspirehep.net/literature/2927088) | 2025-06-02 | hep-ex
@@ -3592,8 +3586,14 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Flavor physics at the CEPC: a general perspective***
   * [arXiv:2412.19743](https://arxiv.org/abs/2412.19743) | [Inspire](https://inspirehep.net/literature/2863363) | 2024-12-30 | hep-ex
 
+* **Two-particle angular correlations in the search for new physics at future $e^+e^-$ colliders**
+  * [arXiv:2307.14734](https://arxiv.org/abs/2307.14734) | [Inspire](https://inspirehep.net/literature/2682330) | 2023-07-28 | hep-ph
+
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**
   * [arXiv:2205.08553](https://arxiv.org/abs/2205.08553) | [Inspire](https://inspirehep.net/literature/2084168) | 2022-05-19 | hep-ph
+
+* **Searching for hidden matter with long-range angular correlations at $e^+e^-$ colliders**
+  * [arXiv:2110.05900](https://arxiv.org/abs/2110.05900) | [Inspire](https://inspirehep.net/literature/1942128) | 2021-10-13 | hep-ph
 
 * **Hidden Valley searches at CLIC**
   * [arXiv:1812.03723](https://arxiv.org/abs/1812.03723) | [Inspire](https://inspirehep.net/literature/1707958) | 2018-12-11 | hep-ex
