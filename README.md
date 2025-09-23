@@ -11,7 +11,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # General
 
-## Reviews (27 papers)
+## Reviews (28 papers)
 
 * **Strong CP from a Hidden Chiral Condensate**
   * [arXiv:2507.15935](https://arxiv.org/abs/2507.15935) | [Inspire](https://inspirehep.net/literature/2952970) | 2025-07-23 | hep-ph
@@ -51,6 +51,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **New Approaches to the Hierarchy Problem and their Signatures from Microscopic to Cosmic Scales**
   * [arXiv:2009.11870](https://arxiv.org/abs/2009.11870) | [Inspire](https://inspirehep.net/literature/1869328) | 2021-06-21 | hep-ph
+
+* **The muon Smasher’s guide**
+  * [arXiv:2103.14043](https://arxiv.org/abs/2103.14043) | [Inspire](https://inspirehep.net/literature/1854006) | 2021-03-29 | hep-ph
 
 * **Dark mesons as self-interacting dark matter**
   * [arXiv:2008.13090](https://arxiv.org/abs/2008.13090) | [Inspire](https://inspirehep.net/literature/1814040) | 2020-09-01 | hep-ph
@@ -204,7 +207,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Model Building
 
-## Model Building - SU(N) Gauge Groups (187 papers)
+## Model Building - SU(N) Gauge Groups (207 papers)
 
 * **Inelastically Decoupling Dark Matter**
   * [arXiv:2508.04772](https://arxiv.org/abs/2508.04772) | [Inspire](https://inspirehep.net/literature/2958244) | 2025-08-08 | hep-ph
@@ -220,6 +223,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Secluded Dark Composites and Remnant Binding Fields**
   * [arXiv:2506.04331](https://arxiv.org/abs/2506.04331) | [Inspire](https://inspirehep.net/literature/2929942) | 2025-06-06 | hep-ph
+
+* **Hidden Valleys in the CMS muon endcap detector**
+  * [arXiv:2505.03058](https://arxiv.org/abs/2505.03058) | [Inspire](https://inspirehep.net/literature/2918574) | 2025-05-07 | hep-ph
 
 * **Di-decay signature of new physics particles at intensity frontier experiments**
   * [arXiv:2503.01760](https://arxiv.org/abs/2503.01760) | [Inspire](https://inspirehep.net/literature/2896669) | 2025-03-05 | hep-ph
@@ -244,6 +250,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Direct detection of dark baryons naturally suppressed by <math display="inline"><mi mathvariant="script">H</mi></math>-parity**
   * [arXiv:2410.23631](https://arxiv.org/abs/2410.23631) | [Inspire](https://inspirehep.net/literature/2844260) | 2024-11-01 | hep-ph
+
+* **Implications of the electromagnetic scale anomaly to the QCD chiral phase transition in the smaller quark mass regime: <math display="inline"><msub><mi>T</mi><mrow><mi>p</mi><mi>c</mi></mrow></msub></math> does not drop with <math display="inline"><mi>e</mi><mi>B</mi></math>**
+  * [arXiv:2410.11360](https://arxiv.org/abs/2410.11360) | [Inspire](https://inspirehep.net/literature/2840287) | 2024-10-16 | hep-ph
 
 * **Dark QCD perspective inspired by strong CP problem at QCD scale**
   * [arXiv:2409.05443](https://arxiv.org/abs/2409.05443) | [Inspire](https://inspirehep.net/literature/2826331) | 2024-09-10 | hep-ph
@@ -287,6 +296,12 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Topological Portal to the Dark Sector**
   * [arXiv:2401.09528](https://arxiv.org/abs/2401.09528) | [Inspire](https://inspirehep.net/literature/2748742) | 2024-01-19 | hep-ph
 
+* **Dark showers from Z-dark Z′ mixing**
+  * [arXiv:2401.08785](https://arxiv.org/abs/2401.08785) | [Inspire](https://inspirehep.net/literature/2747766) | 2024-01-18 | hep-ph
+
+* **Gravitational wave footprints from Higgs-portal scalegenesis with multiple dark chiral scalars***
+  * [arXiv:2401.00771](https://arxiv.org/abs/2401.00771) | [Inspire](https://inspirehep.net/literature/2742503) | 2024-01-02 | hep-ph
+
 * **Semi-visible jets, energy-based models, and self-supervision**
   * [arXiv:2312.03067](https://arxiv.org/abs/2312.03067) | [Inspire](https://inspirehep.net/literature/2731380) | 2023-12-07 | hep-ph
 
@@ -310,6 +325,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Consequences of multiple axions in theories with dark Yang-Mills groups**
   * [arXiv:2307.10298](https://arxiv.org/abs/2307.10298) | [Inspire](https://inspirehep.net/literature/2678763) | 2023-07-21 | hep-ph
+
+* **Searching for dark jets with displaced vertices using weakly supervised machine learning**
+  * [arXiv:2305.04372](https://arxiv.org/abs/2305.04372) | [Inspire](https://inspirehep.net/literature/2657724) | 2023-05-09 | hep-ph
+
+* **<math display="inline"><mrow><mi>π</mi></mrow></math>-axion and <math display="inline"><mi>π</mi></math>-axiverse of dark QCD**
+  * [arXiv:2304.11176](https://arxiv.org/abs/2304.11176) | [Inspire](https://inspirehep.net/literature/2653737) | 2023-04-25 | hep-ph
+
+* **Energetic long-lived particles in the CMS muon chambers**
+  * [arXiv:2304.06109](https://arxiv.org/abs/2304.06109) | [Inspire](https://inspirehep.net/literature/2651100) | 2023-04-14 | hep-ph
 
 * **Scouting for dark showers at CMS and LHCb**
   * [arXiv:2303.04167](https://arxiv.org/abs/2303.04167) | [Inspire](https://inspirehep.net/literature/2639393) | 2023-03-09 | hep-ph
@@ -338,6 +362,12 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Friction on ALP domain walls and gravitational waves**
   * [arXiv:2210.14246](https://arxiv.org/abs/2210.14246) | [Inspire](https://inspirehep.net/literature/2170961) | 2022-10-27 | hep-ph
 
+* **Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**
+  * [arXiv:2209.13128](https://arxiv.org/abs/2209.13128) | [Inspire](https://inspirehep.net/literature/2157249) | 2022-09-28 | hep-ph
+
+* **Dark Sector Physics at High-Intensity Experiments**
+  * [arXiv:2209.04671](https://arxiv.org/abs/2209.04671) | [Inspire](https://inspirehep.net/literature/2150454) | 2022-09-13 | hep-ph
+
 * **Dark Grand Unification in the axiverse: decaying axion dark matter and spontaneous baryogenesis**
   * [arXiv:2208.10504](https://arxiv.org/abs/2208.10504) | [Inspire](https://inspirehep.net/literature/2140390) | 2022-08-24 | hep-ph
 
@@ -364,6 +394,12 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Self-interacting dark baryons**
   * [arXiv:2204.00033](https://arxiv.org/abs/2204.00033) | [Inspire](https://inspirehep.net/literature/2061399) | 2022-04-04 | hep-ph
+
+* **Forecasting dark showers at Belle II**
+  * [arXiv:2203.08824](https://arxiv.org/abs/2203.08824) | [Inspire](https://inspirehep.net/literature/2054069) | 2022-03-18 | hep-ph
+
+* **Theories and Experiments for Testable Baryogenesis Mechanisms: A Snowmass White Paper**
+  * [arXiv:2203.07059](https://arxiv.org/abs/2203.07059) | [Inspire](https://inspirehep.net/literature/2051136) | 2022-03-15 | hep-ph
 
 * **New Ideas in Baryogenesis: A Snowmass White Paper**
   * [arXiv:2203.05010](https://arxiv.org/abs/2203.05010) | [Inspire](https://inspirehep.net/literature/2049545) | 2022-03-11 | hep-ph
@@ -397,6 +433,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark Matter Hot Spots and Neutrino Telescopes**
   * [arXiv:2109.07885](https://arxiv.org/abs/2109.07885) | [Inspire](https://inspirehep.net/literature/1922780) | 2021-09-17 | hep-ph
+
+* **Unsupervised hadronic SUEP at the LHC**
+  * [arXiv:2107.12379](https://arxiv.org/abs/2107.12379) | [Inspire](https://inspirehep.net/literature/1893509) | 2021-07-28 | hep-ph
 
 * **Asymmetric dark matter may not be light**
   * [arXiv:2107.03398](https://arxiv.org/abs/2107.03398) | [Inspire](https://inspirehep.net/literature/1879691) | 2021-07-09 | hep-ph
@@ -437,6 +476,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Morphology for jet classification**
   * [arXiv:2010.13469](https://arxiv.org/abs/2010.13469) | [Inspire](https://inspirehep.net/literature/1826209) | 2020-10-27 | hep-ph
 
+* **Large $N$-ightmare Dark Matter**
+  * [arXiv:2010.03586](https://arxiv.org/abs/2010.03586) | [Inspire](https://inspirehep.net/literature/1821960) | 2020-10-09 | hep-ph
+
 * **Spheres To Jets: Tuning Event Shapes with 5d Simplified Models**
   * [arXiv:2009.08981](https://arxiv.org/abs/2009.08981) | [Inspire](https://inspirehep.net/literature/1818161) | 2020-09-22 | hep-ph
 
@@ -475,6 +517,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Large Effects from Small QCD Instantons: Making Soft Bombs at Hadron Colliders**
   * [arXiv:1911.09726](https://arxiv.org/abs/1911.09726) | [Inspire](https://inspirehep.net/literature/1766622) | 2019-11-25 | hep-ph
+
+* **Conspiracy of BSM physics and cosmology**
+  * [arXiv:1911.03294](https://arxiv.org/abs/1911.03294) | [Inspire](https://inspirehep.net/literature/1763827) | 2019-11-11 | hep-ph
 
 * **Cosmoparticle physics of dark matter**
   * [arXiv:1910.12910](https://arxiv.org/abs/1910.12910) | [Inspire](https://inspirehep.net/literature/1762019) | 2019-10-30 | hep-ph
@@ -536,6 +581,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Light dark matter showering under broken dark $U(1)$ — revisited**
   * [arXiv:1807.00530](https://arxiv.org/abs/1807.00530) | [Inspire](https://inspirehep.net/literature/1680461) | 2018-07-03 | hep-ph
 
+* **Neutron stars exclude light dark baryons**
+  * [arXiv:1802.08244](https://arxiv.org/abs/1802.08244) | [Inspire](https://inspirehep.net/literature/1656825) | 2018-02-23 | hep-ph
+
 * **Searching for new physics with three-particle correlations in $pp$ collisions at the LHC**
   * [arXiv:1802.06703](https://arxiv.org/abs/1802.06703) | [Inspire](https://inspirehep.net/literature/1655966) | 2018-02-20 | hep-ph
 
@@ -544,6 +592,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **New Long-Lived Particles at the LHC**
   * [arXiv:1710.06934](https://arxiv.org/abs/1710.06934) | [Inspire](https://inspirehep.net/literature/1631667) | 2017-10-20 | hep-ph
+
+* **Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly**
+  * [arXiv:1710.03906](https://arxiv.org/abs/1710.03906) | [Inspire](https://inspirehep.net/literature/1629933) | 2017-10-12 | hep-ph
 
 * **Unified Scenario for Composite Right-Handed Neutrinos and Dark Matter**
   * [arXiv:1709.01082](https://arxiv.org/abs/1709.01082) | [Inspire](https://inspirehep.net/literature/1621588) | 2017-09-06 | hep-ph
@@ -574,6 +625,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **$SU(2)$ Gauge Theory with Two Fundamental Flavours: Scalar and Pseudoscalar Spectrum**
   * [arXiv:1607.06654](https://arxiv.org/abs/1607.06654) | [Inspire](https://inspirehep.net/literature/1477592) | 2016-07-25 | hep-lat
+
+* **Optical dispersion of composite particles consisting of millicharged constituents**
+  * [arXiv:1607.04577](https://arxiv.org/abs/1607.04577) | [Inspire](https://inspirehep.net/literature/1473564) | 2016-07-04 | hep-ph
 
 * **GUTzilla Dark Matter**
   * [arXiv:1606.00923](https://arxiv.org/abs/1606.00923) | [Inspire](https://inspirehep.net/literature/1467194) | 2016-06-06 | hep-ph
@@ -610,6 +664,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Template Composite Dark Matter: $SU(2)$ gauge theory with 2 fundamental flavours**
   * [arXiv:1511.04370](https://arxiv.org/abs/1511.04370) | [Inspire](https://inspirehep.net/literature/1404696) | 2015-11-16 | hep-lat
+
+* **Magnetic dipole moments for composite dark matter**
+  * [arXiv:1511.02805](https://arxiv.org/abs/1511.02805) | [Inspire](https://inspirehep.net/literature/1403520) | 2015-11-10 | hep-ph
 
 * **Searching for hidden sector in multiparticle production at LHC**
   * [arXiv:1510.08738](https://arxiv.org/abs/1510.08738) | [Inspire](https://inspirehep.net/literature/1401404) | 2015-10-30 | hep-ph
@@ -752,6 +809,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Discovering hidden sectors with mono-photon $Z^\prime$o searches**
   * [arXiv:0809.2849](https://arxiv.org/abs/0809.2849) | [Inspire](https://inspirehep.net/literature/796824) | 2008-09-17 | hep-ph
 
+* **On the Phenomenology of Hidden Valleys with Heavy Flavor**
+  * [arXiv:0806.2385](https://arxiv.org/abs/0806.2385) | [Inspire](https://inspirehep.net/literature/788326) | 2008-06-17 | hep-ph
+
 * **Heavy Dark Matter Through the Higgs Portal**
   * [arXiv:0801.3440](https://arxiv.org/abs/0801.3440) | [Inspire](https://inspirehep.net/literature/777927) | 2008-01-22 | hep-ph
 
@@ -767,7 +827,10 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Discovering the Higgs through highly-displaced vertices**
   * [arXiv:hep-ph/0605193](https://arxiv.org/abs/hep-ph/0605193) | [Inspire](https://inspirehep.net/literature/717210) | 2006-05-18 | hep-ph
 
-## Model Building - SU(N) Gauge Groups (67 papers)
+* **Echoes of a hidden valley at hadron colliders**
+  * [arXiv:hep-ph/0604261](https://arxiv.org/abs/hep-ph/0604261) | [Inspire](https://inspirehep.net/literature/715541) | 2006-04-30 | hep-ph
+
+## Model Building - SU(N) Gauge Groups (74 papers)
 
 * **Inelastically Decoupling Dark Matter**
   * [arXiv:2508.04772](https://arxiv.org/abs/2508.04772) | [Inspire](https://inspirehep.net/literature/2958244) | 2025-08-08 | hep-ph
@@ -784,11 +847,17 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Comparable Dark Matter and Baryon energy densities from Dark Grand Unification**
   * [arXiv:2411.16860](https://arxiv.org/abs/2411.16860) | [Inspire](https://inspirehep.net/literature/2852197) | 2024-11-27 | hep-ph
 
+* **Dark QCD perspective inspired by strong CP problem at QCD scale**
+  * [arXiv:2409.05443](https://arxiv.org/abs/2409.05443) | [Inspire](https://inspirehep.net/literature/2826331) | 2024-09-10 | hep-ph
+
 * **Semi-visible jets + X: illuminating dark showers with radiation**
   * [arXiv:2409.04741](https://arxiv.org/abs/2409.04741) | [Inspire](https://inspirehep.net/literature/2826356) | 2024-09-10 | hep-ph
 
 * **Dark sector showers and hadronisation in Herwig 7**
   * [arXiv:2408.10044](https://arxiv.org/abs/2408.10044) | [Inspire](https://inspirehep.net/literature/2819135) | 2024-08-20 | hep-ph
+
+* **Exploring the hidden valley at MATHUSLA**
+  * [arXiv:2408.07756](https://arxiv.org/abs/2408.07756) | [Inspire](https://inspirehep.net/literature/2818246) | 2024-08-16 | hep-ph
 
 * **Fireball antinucleosynthesis**
   * [arXiv:2402.15581](https://arxiv.org/abs/2402.15581) | [Inspire](https://inspirehep.net/literature/2801135) | 2024-06-23 | hep-ph
@@ -807,6 +876,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Scattering of dark pions in an Sp(4)-gauge theory**
   * [arXiv:2311.18549](https://arxiv.org/abs/2311.18549) | [Inspire](https://inspirehep.net/literature/2728682) | 2023-12-01 | hep-lat
+
+* **Non-resonant anomaly detection with background extrapolation**
+  * [arXiv:2311.12924](https://arxiv.org/abs/2311.12924) | [Inspire](https://inspirehep.net/literature/2725444) | 2023-11-23 | hep-ph
 
 * **Heavy Neutral Leptons via Axionlike Particles at Neutrino Facilities**
   * [arXiv:2311.07713](https://arxiv.org/abs/2311.07713) | [Inspire](https://inspirehep.net/literature/2722318) | 2023-11-15 | hep-ph
@@ -849,6 +921,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Charged B mesogenesis**
   * [arXiv:2109.09751](https://arxiv.org/abs/2109.09751) | [Inspire](https://inspirehep.net/literature/1925079) | 2021-09-22 | hep-ph
+
+* **Unleashing the full power of LHCb to probe stealth new physics**
+  * [arXiv:2105.12668](https://arxiv.org/abs/2105.12668) | [Inspire](https://inspirehep.net/literature/1865621) | 2021-05-27 | hep-ph
 
 * **Thermal squeezeout of dark matter**
   * [arXiv:2103.09827](https://arxiv.org/abs/2103.09827) | [Inspire](https://inspirehep.net/literature/1852316) | 2021-03-19 | hep-ph
@@ -955,6 +1030,12 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Pure-glue hidden valleys through the Higgs portal**
   * [arXiv:0911.5616](https://arxiv.org/abs/0911.5616) | [Inspire](https://inspirehep.net/literature/838413) | 2009-11-30 | hep-ph
 
+* **Protecting unparticles from the MSSM Higgs sector**
+  * [arXiv:0905.0503](https://arxiv.org/abs/0905.0503) | [Inspire](https://inspirehep.net/literature/819413) | 2009-05-05 | hep-ph
+
+* **A Pure-Glue Hidden Valley I. States and Decays**
+  * [arXiv:0903.0883](https://arxiv.org/abs/0903.0883) | [Inspire](https://inspirehep.net/literature/814771) | 2009-03-05 | hep-ph
+
 * **Muon Excess in Cosmic Rays and at CDF: Signs for a Hidden Sector?**
   * [arXiv:0812.4240](https://arxiv.org/abs/0812.4240) | [Inspire](https://inspirehep.net/literature/805979) | 2008-12-22 | hep-ph
 
@@ -967,10 +1048,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Heavy Dark Matter Through the Higgs Portal**
   * [arXiv:0801.3440](https://arxiv.org/abs/0801.3440) | [Inspire](https://inspirehep.net/literature/777927) | 2008-01-22 | hep-ph
 
+* **Why Unparticle Models with Mass Gaps are Examples of Hidden Valleys**
+  * [arXiv:0801.0629](https://arxiv.org/abs/0801.0629) | [Inspire](https://inspirehep.net/literature/776786) | 2008-01-06 | hep-ph
+
 * **Discovering the Higgs through highly-displaced vertices**
   * [arXiv:hep-ph/0605193](https://arxiv.org/abs/hep-ph/0605193) | [Inspire](https://inspirehep.net/literature/717210) | 2006-05-18 | hep-ph
 
-## Model Building - General (163 papers)
+## Model Building - General (169 papers)
 
 * **Searching for leptophilic composite asymmetric dark sector at $e^+e^-$ colliders**
   * [arXiv:2509.12504](https://arxiv.org/abs/2509.12504) | [Inspire](https://inspirehep.net/literature/2970000) | 2025-09-17 | hep-ph
@@ -1034,6 +1118,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor**
   * [arXiv:2402.07362](https://arxiv.org/abs/2402.07362) | [Inspire](https://inspirehep.net/literature/2757532) | 2024-02-13 | hep-lat
+
+* **Low energy effective theories of composite dark matter with real representations**
+  * [arXiv:2402.04176](https://arxiv.org/abs/2402.04176) | [Inspire](https://inspirehep.net/literature/2755966) | 2024-02-07 | hep-ph
 
 * **Topological Portal to the Dark Sector**
   * [arXiv:2401.09528](https://arxiv.org/abs/2401.09528) | [Inspire](https://inspirehep.net/literature/2748742) | 2024-01-19 | hep-ph
@@ -1187,6 +1274,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark confinement-deconfinement phase transition: a roadmap from Polyakov loop models to gravitational waves**
   * [arXiv:2101.03795](https://arxiv.org/abs/2101.03795) | [Inspire](https://inspirehep.net/literature/1840237) | 2021-01-12 | hep-ph
+
+* **Exothermic dark mesons in light of electron recoil excess at XENON1T**
+  * [arXiv:2012.03713](https://arxiv.org/abs/2012.03713) | [Inspire](https://inspirehep.net/literature/1835618) | 2020-12-10 | hep-ph
 
 * **Softly shifting away from dark matter direct detection**
   * [arXiv:2011.06264](https://arxiv.org/abs/2011.06264) | [Inspire](https://inspirehep.net/literature/1829774) | 2020-11-13 | hep-ph
@@ -1398,6 +1488,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Isotriplet Dark Matter on the Lattice: SO(4)-gauge theory with two Vector Wilson fermions**
   * [arXiv:1211.0142](https://arxiv.org/abs/1211.0142) | [Inspire](https://inspirehep.net/literature/1197514) | 2012-11-01 | hep-lat
 
+* **Stringy Hidden Valleys**
+  * [arXiv:1210.5245](https://arxiv.org/abs/1210.5245) | [Inspire](https://inspirehep.net/literature/1191904) | 2012-10-21 | hep-ph
+
 * **Dilaton stabilization and composite dark matter in the string frame of heterotic-M-theory**
   * [arXiv:1210.4615](https://arxiv.org/abs/1210.4615) | [Inspire](https://inspirehep.net/literature/1191007) | 2012-10-17 | hep-th
 
@@ -1434,6 +1527,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Physics searches at the LHC**
   * [arXiv:0912.3259](https://arxiv.org/abs/0912.3259) | [Inspire](https://inspirehep.net/literature/840434) | 2009-12-17 | hep-ph
 
+* **Pure-glue hidden valleys through the Higgs portal**
+  * [arXiv:0911.5616](https://arxiv.org/abs/0911.5616) | [Inspire](https://inspirehep.net/literature/838413) | 2009-11-30 | hep-ph
+
 * **Quirky Composite Dark Matter**
   * [arXiv:0909.2034](https://arxiv.org/abs/0909.2034) | [Inspire](https://inspirehep.net/literature/830917) | 2009-09-13 | hep-ph
 
@@ -1449,8 +1545,14 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Gauge Extensions of Supersymmetric Models and Hidden Valleys**
   * [arXiv:0901.2613](https://arxiv.org/abs/0901.2613) | [Inspire](https://inspirehep.net/literature/811237) | 2009-01-19 | hep-ph
 
+* **Muon Excess in Cosmic Rays and at CDF: Signs for a Hidden Sector?**
+  * [arXiv:0812.4240](https://arxiv.org/abs/0812.4240) | [Inspire](https://inspirehep.net/literature/805979) | 2008-12-22 | hep-ph
+
 * **Proceedings, 11th Workshop on What Comes Beyond the Standard Models?**
   * [arXiv:0812.0510](https://arxiv.org/abs/0812.0510) | [Inspire](https://inspirehep.net/literature/804131) | 2008-12-02 | hep-ph
+
+* **Flesh and Blood, or Merely Ghosts? Some Comments on the Multi-Muon Study at CDF**
+  * [arXiv:0811.1560](https://arxiv.org/abs/0811.1560) | [Inspire](https://inspirehep.net/literature/802019) | 2008-11-10 | hep-ph
 
 * **Signals of New Physics in the Underlying Event**
   * [arXiv:0810.3948](https://arxiv.org/abs/0810.3948) | [Inspire](https://inspirehep.net/literature/800288) | 2008-10-22 | hep-ph
@@ -1765,7 +1867,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Direct Detection of Dark Matter Electromagnetic Dipole Moments**
   * [arXiv:1007.5515](https://arxiv.org/abs/1007.5515) | [Inspire](https://inspirehep.net/literature/863721) | 2010-08-01 | hep-ph
 
-## Dark Matter - Other (242 papers)
+## Dark Matter - Other (244 papers)
 
 * **Searching for leptophilic composite asymmetric dark sector at $e^+e^-$ colliders**
   * [arXiv:2509.12504](https://arxiv.org/abs/2509.12504) | [Inspire](https://inspirehep.net/literature/2970000) | 2025-09-17 | hep-ph
@@ -1826,6 +1928,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark QCD perspective inspired by strong CP problem at QCD scale**
   * [arXiv:2409.05443](https://arxiv.org/abs/2409.05443) | [Inspire](https://inspirehep.net/literature/2826331) | 2024-09-10 | hep-ph
+
+* **Phenomenology of electroweak portal dark showers: high energy direct probes and low energy complementarity**
+  * [arXiv:2408.13304](https://arxiv.org/abs/2408.13304) | [Inspire](https://inspirehep.net/literature/2822698) | 2024-08-29 | hep-ph
 
 * **Composite Heavy Axionlike Dark Matter**
   * [arXiv:2408.14245](https://arxiv.org/abs/2408.14245) | [Inspire](https://inspirehep.net/literature/2821775) | 2024-08-27 | hep-ph
@@ -2471,6 +2576,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Searching for Unexpected Physics at the LHC**
   * [arXiv:1001.2563](https://arxiv.org/abs/1001.2563) | [Inspire](https://inspirehep.net/literature/842881) | 2010-01-17 | hep-ph
+
+* **Proceedings, 12th Workshop on What Comes Beyond the Standard Models?**
+  * [arXiv:0912.4532](https://arxiv.org/abs/0912.4532) | [Inspire](https://inspirehep.net/literature/841034) | 2009-12-23 | hep-ph
 
 * **The INTEGRAL/SPI 511 keV Signal from Hidden Valleys in Type Ia and Core Collapse Supernova Explosions**
   * [arXiv:0912.3320](https://arxiv.org/abs/0912.3320) | [Inspire](https://inspirehep.net/literature/840456) | 2009-12-17 | hep-ph
@@ -2969,7 +3077,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Echoes of a hidden valley at hadron colliders**
   * [arXiv:hep-ph/0604261](https://arxiv.org/abs/hep-ph/0604261) | [Inspire](https://inspirehep.net/literature/715541) | 2006-04-30 | hep-ph
 
-## New Signatures (76 papers)
+## New Signatures (78 papers)
 
 * **Search for new physics in final states with semivisible jets or anomalous signatures using the ATLAS detector**
   * [arXiv:2505.01634](https://arxiv.org/abs/2505.01634) | [Inspire](https://inspirehep.net/literature/2918816) | 2025-05-07 | hep-ex
@@ -2997,6 +3105,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Early matter domination at colliders: Long live the glueball!**
   * [arXiv:2401.12278](https://arxiv.org/abs/2401.12278) | [Inspire](https://inspirehep.net/literature/2750568) | 2024-01-24 | hep-ph
+
+* **Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders**
+  * [arXiv:2312.06526](https://arxiv.org/abs/2312.06526) | [Inspire](https://inspirehep.net/literature/2734725) | 2023-12-12 | hep-ph
 
 * **Search for resonant production of dark quarks in the dijet final state with the ATLAS detector**
   * [arXiv:2311.03944](https://arxiv.org/abs/2311.03944) | [Inspire](https://inspirehep.net/literature/2719976) | 2023-11-08 | hep-ex
@@ -3051,6 +3162,9 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Composite solution to the neutron lifetime anomaly**
   * [arXiv:2008.06061](https://arxiv.org/abs/2008.06061) | [Inspire](https://inspirehep.net/literature/1811764) | 2020-08-17 | hep-ph
+
+* **Searches for low-mass dimuon resonances**
+  * [arXiv:2007.03923](https://arxiv.org/abs/2007.03923) | [Inspire](https://inspirehep.net/literature/1805777) | 2020-07-09 | hep-ex
 
 * **Split SIMPs with Decays**
   * [arXiv:2006.15148](https://arxiv.org/abs/2006.15148) | [Inspire](https://inspirehep.net/literature/1803583) | 2020-06-30 | hep-ph
@@ -3470,138 +3584,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Search for long-lived particles decaying into electron or photon pairs with the D0 detector**
   * [arXiv:0806.2223](https://arxiv.org/abs/0806.2223) | [Inspire](https://inspirehep.net/literature/788206) | 2008-06-15 | hep-ex
 
-## Low Energy (43 papers)
+## Lepton Colliders (7 papers)
 
 * **New Physics Search at the CEPC: a General Perspective**
   * [arXiv:2505.24810](https://arxiv.org/abs/2505.24810) | [Inspire](https://inspirehep.net/literature/2927088) | 2025-06-02 | hep-ex
 
-* **Hidden Valleys in the CMS muon endcap detector**
-  * [arXiv:2505.03058](https://arxiv.org/abs/2505.03058) | [Inspire](https://inspirehep.net/literature/2918574) | 2025-05-07 | hep-ph
-
 * **Flavor physics at the CEPC: a general perspective***
   * [arXiv:2412.19743](https://arxiv.org/abs/2412.19743) | [Inspire](https://inspirehep.net/literature/2863363) | 2024-12-30 | hep-ex
-
-* **Implications of the electromagnetic scale anomaly to the QCD chiral phase transition in the smaller quark mass regime: <math display="inline"><msub><mi>T</mi><mrow><mi>p</mi><mi>c</mi></mrow></msub></math> does not drop with <math display="inline"><mi>e</mi><mi>B</mi></math>**
-  * [arXiv:2410.11360](https://arxiv.org/abs/2410.11360) | [Inspire](https://inspirehep.net/literature/2840287) | 2024-10-16 | hep-ph
-
-* **Dark QCD perspective inspired by strong CP problem at QCD scale**
-  * [arXiv:2409.05443](https://arxiv.org/abs/2409.05443) | [Inspire](https://inspirehep.net/literature/2826331) | 2024-09-10 | hep-ph
-
-* **Phenomenology of electroweak portal dark showers: high energy direct probes and low energy complementarity**
-  * [arXiv:2408.13304](https://arxiv.org/abs/2408.13304) | [Inspire](https://inspirehep.net/literature/2822698) | 2024-08-29 | hep-ph
-
-* **Exploring the hidden valley at MATHUSLA**
-  * [arXiv:2408.07756](https://arxiv.org/abs/2408.07756) | [Inspire](https://inspirehep.net/literature/2818246) | 2024-08-16 | hep-ph
-
-* **Low energy effective theories of composite dark matter with real representations**
-  * [arXiv:2402.04176](https://arxiv.org/abs/2402.04176) | [Inspire](https://inspirehep.net/literature/2755966) | 2024-02-07 | hep-ph
-
-* **Dark showers from Z-dark Z′ mixing**
-  * [arXiv:2401.08785](https://arxiv.org/abs/2401.08785) | [Inspire](https://inspirehep.net/literature/2747766) | 2024-01-18 | hep-ph
-
-* **Gravitational wave footprints from Higgs-portal scalegenesis with multiple dark chiral scalars***
-  * [arXiv:2401.00771](https://arxiv.org/abs/2401.00771) | [Inspire](https://inspirehep.net/literature/2742503) | 2024-01-02 | hep-ph
-
-* **Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders**
-  * [arXiv:2312.06526](https://arxiv.org/abs/2312.06526) | [Inspire](https://inspirehep.net/literature/2734725) | 2023-12-12 | hep-ph
-
-* **Non-resonant anomaly detection with background extrapolation**
-  * [arXiv:2311.12924](https://arxiv.org/abs/2311.12924) | [Inspire](https://inspirehep.net/literature/2725444) | 2023-11-23 | hep-ph
-
-* **Triggering dark showers with conditional dual auto-encoders**
-  * [arXiv:2306.12955](https://arxiv.org/abs/2306.12955) | [Inspire](https://inspirehep.net/literature/2670811) | 2023-06-23 | hep-ex
-
-* **Searching for dark jets with displaced vertices using weakly supervised machine learning**
-  * [arXiv:2305.04372](https://arxiv.org/abs/2305.04372) | [Inspire](https://inspirehep.net/literature/2657724) | 2023-05-09 | hep-ph
-
-* **<math display="inline"><mrow><mi>π</mi></mrow></math>-axion and <math display="inline"><mi>π</mi></math>-axiverse of dark QCD**
-  * [arXiv:2304.11176](https://arxiv.org/abs/2304.11176) | [Inspire](https://inspirehep.net/literature/2653737) | 2023-04-25 | hep-ph
-
-* **Energetic long-lived particles in the CMS muon chambers**
-  * [arXiv:2304.06109](https://arxiv.org/abs/2304.06109) | [Inspire](https://inspirehep.net/literature/2651100) | 2023-04-14 | hep-ph
-
-* **Report of the Topical Group on Physics Beyond the Standard Model at Energy Frontier for Snowmass 2021**
-  * [arXiv:2209.13128](https://arxiv.org/abs/2209.13128) | [Inspire](https://inspirehep.net/literature/2157249) | 2022-09-28 | hep-ph
-
-* **Dark Sector Physics at High-Intensity Experiments**
-  * [arXiv:2209.04671](https://arxiv.org/abs/2209.04671) | [Inspire](https://inspirehep.net/literature/2150454) | 2022-09-13 | hep-ph
-
-* **Forecasting dark showers at Belle II**
-  * [arXiv:2203.08824](https://arxiv.org/abs/2203.08824) | [Inspire](https://inspirehep.net/literature/2054069) | 2022-03-18 | hep-ph
-
-* **Theories and Experiments for Testable Baryogenesis Mechanisms: A Snowmass White Paper**
-  * [arXiv:2203.07059](https://arxiv.org/abs/2203.07059) | [Inspire](https://inspirehep.net/literature/2051136) | 2022-03-15 | hep-ph
-
-* **Unsupervised hadronic SUEP at the LHC**
-  * [arXiv:2107.12379](https://arxiv.org/abs/2107.12379) | [Inspire](https://inspirehep.net/literature/1893509) | 2021-07-28 | hep-ph
-
-* **Unleashing the full power of LHCb to probe stealth new physics**
-  * [arXiv:2105.12668](https://arxiv.org/abs/2105.12668) | [Inspire](https://inspirehep.net/literature/1865621) | 2021-05-27 | hep-ph
-
-* **The muon Smasher’s guide**
-  * [arXiv:2103.14043](https://arxiv.org/abs/2103.14043) | [Inspire](https://inspirehep.net/literature/1854006) | 2021-03-29 | hep-ph
-
-* **Exothermic dark mesons in light of electron recoil excess at XENON1T**
-  * [arXiv:2012.03713](https://arxiv.org/abs/2012.03713) | [Inspire](https://inspirehep.net/literature/1835618) | 2020-12-10 | hep-ph
-
-* **Large $N$-ightmare Dark Matter**
-  * [arXiv:2010.03586](https://arxiv.org/abs/2010.03586) | [Inspire](https://inspirehep.net/literature/1821960) | 2020-10-09 | hep-ph
-
-* **Searches for low-mass dimuon resonances**
-  * [arXiv:2007.03923](https://arxiv.org/abs/2007.03923) | [Inspire](https://inspirehep.net/literature/1805777) | 2020-07-09 | hep-ex
-
-* **Conspiracy of BSM physics and cosmology**
-  * [arXiv:1911.03294](https://arxiv.org/abs/1911.03294) | [Inspire](https://inspirehep.net/literature/1763827) | 2019-11-11 | hep-ph
-
-* **Highlights from the Compact Muon Solenoid (CMS) Experiment**
-  * [arXiv:1901.05340](https://arxiv.org/abs/1901.05340) | [Inspire](https://inspirehep.net/literature/1714019) | 2019-01-17 | hep-ex
-
-* **Neutron stars exclude light dark baryons**
-  * [arXiv:1802.08244](https://arxiv.org/abs/1802.08244) | [Inspire](https://inspirehep.net/literature/1656825) | 2018-02-23 | hep-ph
-
-* **Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly**
-  * [arXiv:1710.03906](https://arxiv.org/abs/1710.03906) | [Inspire](https://inspirehep.net/literature/1629933) | 2017-10-12 | hep-ph
-
-* **Optical dispersion of composite particles consisting of millicharged constituents**
-  * [arXiv:1607.04577](https://arxiv.org/abs/1607.04577) | [Inspire](https://inspirehep.net/literature/1473564) | 2016-07-04 | hep-ph
-
-* **Magnetic dipole moments for composite dark matter**
-  * [arXiv:1511.02805](https://arxiv.org/abs/1511.02805) | [Inspire](https://inspirehep.net/literature/1403520) | 2015-11-10 | hep-ph
-
-* **Stringy Hidden Valleys**
-  * [arXiv:1210.5245](https://arxiv.org/abs/1210.5245) | [Inspire](https://inspirehep.net/literature/1191904) | 2012-10-21 | hep-ph
-
-* **Search for anomalous production of multiple leptons in association with $W$ and $Z$ bosons at CDF**
-  * [arXiv:1202.1260](https://arxiv.org/abs/1202.1260) | [Inspire](https://inspirehep.net/literature/1087913) | 2012-02-06 | hep-ex
-
-* **Proceedings, 12th Workshop on What Comes Beyond the Standard Models?**
-  * [arXiv:0912.4532](https://arxiv.org/abs/0912.4532) | [Inspire](https://inspirehep.net/literature/841034) | 2009-12-23 | hep-ph
-
-* **Pure-glue hidden valleys through the Higgs portal**
-  * [arXiv:0911.5616](https://arxiv.org/abs/0911.5616) | [Inspire](https://inspirehep.net/literature/838413) | 2009-11-30 | hep-ph
-
-* **Protecting unparticles from the MSSM Higgs sector**
-  * [arXiv:0905.0503](https://arxiv.org/abs/0905.0503) | [Inspire](https://inspirehep.net/literature/819413) | 2009-05-05 | hep-ph
-
-* **A Pure-Glue Hidden Valley I. States and Decays**
-  * [arXiv:0903.0883](https://arxiv.org/abs/0903.0883) | [Inspire](https://inspirehep.net/literature/814771) | 2009-03-05 | hep-ph
-
-* **Muon Excess in Cosmic Rays and at CDF: Signs for a Hidden Sector?**
-  * [arXiv:0812.4240](https://arxiv.org/abs/0812.4240) | [Inspire](https://inspirehep.net/literature/805979) | 2008-12-22 | hep-ph
-
-* **Flesh and Blood, or Merely Ghosts? Some Comments on the Multi-Muon Study at CDF**
-  * [arXiv:0811.1560](https://arxiv.org/abs/0811.1560) | [Inspire](https://inspirehep.net/literature/802019) | 2008-11-10 | hep-ph
-
-* **On the Phenomenology of Hidden Valleys with Heavy Flavor**
-  * [arXiv:0806.2385](https://arxiv.org/abs/0806.2385) | [Inspire](https://inspirehep.net/literature/788326) | 2008-06-17 | hep-ph
-
-* **Why Unparticle Models with Mass Gaps are Examples of Hidden Valleys**
-  * [arXiv:0801.0629](https://arxiv.org/abs/0801.0629) | [Inspire](https://inspirehep.net/literature/776786) | 2008-01-06 | hep-ph
-
-* **Echoes of a hidden valley at hadron colliders**
-  * [arXiv:hep-ph/0604261](https://arxiv.org/abs/hep-ph/0604261) | [Inspire](https://inspirehep.net/literature/715541) | 2006-04-30 | hep-ph
-
-## Lepton Colliders (5 papers)
 
 * **The Physics potential of the CEPC. Prepared for the US Snowmass Community Planning Exercise (Snowmass 2021)**
   * [arXiv:2205.08553](https://arxiv.org/abs/2205.08553) | [Inspire](https://inspirehep.net/literature/2084168) | 2022-05-19 | hep-ph
