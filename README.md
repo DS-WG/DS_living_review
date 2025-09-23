@@ -2,6 +2,7 @@
 
 *Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. They connect different areas of theoretical physics with each other and arise from well motivated theoretical scenarios. Below is a list of papers concerning dark showers.*
 
+<p align="center"><img src="docs/assets/per_year.png" width="75%", alt="Publications per Year"></p>
 The purpose of this note is to collect references for dark showers. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category.
 
 **Last updated:** 2025-09-23
