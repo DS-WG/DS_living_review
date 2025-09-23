@@ -4,9 +4,9 @@
 
 The purpose of this note is to collect references for dark showers. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category.
 
-**Last updated:** 2025-09-22
+**Last updated:** 2025-09-23
 **Search period:** 2005-01-01 to present
-**Total papers found:** 380
+**Total papers found:** 403
 
 ## Reviews
 
@@ -19,14 +19,24 @@ The purpose of this note is to collect references for dark showers. A minimal nu
 
 * [Secluded Dark Composites and Remnant Binding Fields](https://inspirehep.net/literature/2929942)
   * arXiv:2506.04331 | 2025-06-06 | hep-ph
+* [Scattering of dark pions in Sp(4) gauge theory](https://inspirehep.net/literature/2785259)
+  * arXiv:2405.06506 | 2024-05-13 | hep-lat
 * [Field theory axiverse](https://inspirehep.net/literature/2778853)
   * arXiv:2404.11642 | 2024-04-19 | hep-ph
 * [Semi-visible jets, energy-based models, and self-supervision](https://inspirehep.net/literature/2731380)
   * arXiv:2312.03067 | 2023-12-07 | hep-ph
+* [Scattering of dark pions in an Sp(4)-gauge theory](https://inspirehep.net/literature/2728682)
+  * arXiv:2311.18549 | 2023-12-01 | hep-lat
 * [Nonabelian kinetic mixing in a confining phase: a framework for composite dark photons](https://inspirehep.net/literature/2702530)
   * arXiv:2309.13105 | 2023-09-26 | hep-ph
+* [Sp(2N) Lattice Gauge Theories and Extensions of the Standard Model of Particle Physics](https://inspirehep.net/literature/2648212)
+  * arXiv:2304.01070 | 2023-04-04 | hep-lat
+* [Composite dynamics in Sp(2N) gauge theories](https://inspirehep.net/literature/2183167)
+  * arXiv:2211.09262 | 2022-11-18 | hep-lat
 * [Gravitational Waves from dark composite dynamics](https://inspirehep.net/literature/2182738)
   * arXiv:2211.08877 | 2022-11-17 | hep-ph
+* [Spectroscopy of $Sp(4)$ lattice gauge theory with $n_f=3$ antisymmetric fermions](https://inspirehep.net/literature/2165940)
+  * arXiv:2210.08154 | 2022-10-18 | hep-lat
 * [Perturbative unitarity of strongly interacting massive particle models](https://inspirehep.net/literature/2159849)
   * arXiv:2210.01393 | 2022-10-05 | hep-ph
 * [Towards better discrimination and improved modelling of dark-sector showers](https://inspirehep.net/literature/2158436)
@@ -49,16 +59,26 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2009.08981 | 2020-09-22 | hep-ph
 * [Composite solution to the neutron lifetime anomaly](https://inspirehep.net/literature/1811764)
   * arXiv:2008.06061 | 2020-08-17 | hep-ph
+* [Effective Field Theory in AdS: Continuum Regime, Soft Bombs, and IR Emergence](https://inspirehep.net/literature/1782671)
+  * arXiv:2002.12335 | 2020-02-28 | hep-th
+* [Lattice Gauge Theory for Physics Beyond the Standard Model](https://inspirehep.net/literature/1730601)
+  * arXiv:1904.09964 | 2019-04-23 | hep-lat
 * [Resolving phenomenological problems with strongly-interacting-massive-particle models with dark vector resonances](https://inspirehep.net/literature/1650126)
   * arXiv:1801.07726 | 2018-01-25 | hep-ph
+* [$SU(2)$ Gauge Theory with Two Fundamental Flavours: Scalar and Pseudoscalar Spectrum](https://inspirehep.net/literature/1477592)
+  * arXiv:1607.06654 | 2016-07-25 | hep-lat
 * [Optical dispersion of composite particles consisting of millicharged constituents](https://inspirehep.net/literature/1473564)
   * arXiv:1607.04577 | 2016-07-04 | hep-ph
 * [Diphotons at the $Z$-pole in Models of the 750 GeV Resonance Decaying to Axion-Like Particles](https://inspirehep.net/literature/1471530)
   * arXiv:1606.06375 | 2016-06-22 | hep-ph
 * [SIMP from a strong U(1) gauge theory with a monopole condensation](https://inspirehep.net/literature/1467419)
   * arXiv:1606.01628 | 2016-06-07 | hep-ph
+* [SU(2) gauge theory with two fundamental flavors: A minimal template for model building](https://inspirehep.net/literature/1422783)
+  * arXiv:1602.06559 | 2016-02-23 | hep-lat
 * [Gamma-rays from Dark Showers with Twin Higgs Models](https://inspirehep.net/literature/1418186)
   * arXiv:1601.07556 | 2016-01-29 | hep-ph
+* [Electroweak interactions and dark baryons in the sextet BSM model with a composite Higgs particle](https://inspirehep.net/literature/1415123)
+  * arXiv:1601.03302 | 2016-01-14 | hep-lat
 * [Theory Motivation For Exotic Signatures: Prospects and Wishlist for Run II](https://inspirehep.net/literature/1411316)
   * arXiv:1512.07857 | 2015-12-25 | hep-ph
 * [Interpreting the 750 GeV diphoton resonance using photon jets in hidden-valley-like models](https://inspirehep.net/literature/1410841)
@@ -82,6 +102,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
 
 * [Inelastically Decoupling Dark Matter](https://inspirehep.net/literature/2958244)
   * arXiv:2508.04772 | 2025-08-08 | hep-ph
+* [Finite Temperature Transition in Hyper Stealth Dark Matter using Möbius Domain Wall Fermions](https://inspirehep.net/literature/2874691)
+  * arXiv:2502.00331 | 2025-02-04 | hep-lat
 * [Composite asymmetric dark matter with a dark photon portal: Multimessenger tests](https://inspirehep.net/literature/2861921)
   * arXiv:2412.15641 | 2024-12-23 | hep-ph
 * [Noble dark matter: Surprising elusiveness of dark baryons](https://inspirehep.net/literature/2861399)
@@ -106,6 +128,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2404.03963 | 2024-04-08 | hep-ph
 * [Dynamical origin of neutrino masses and dark matter from a new confining sector](https://inspirehep.net/literature/2771769)
   * arXiv:2403.17488 | 2024-03-27 | hep-ph
+* [Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor](https://inspirehep.net/literature/2757532)
+  * arXiv:2402.07362 | 2024-02-13 | hep-lat
 * [Low energy effective theories of composite dark matter with real representations](https://inspirehep.net/literature/2755966)
   * arXiv:2402.04176 | 2024-02-07 | hep-ph
 * [Dark Matter Candidates of a Very Low Mass](https://inspirehep.net/literature/2744331)
@@ -204,6 +228,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2007.11931 | 2020-07-24 | hep-ph
 * [String Fragmentation in Supercooled Confinement and Implications for Dark Matter](https://inspirehep.net/literature/1807466)
   * arXiv:2007.08440 | 2020-07-17 | hep-ph
+* [Stealth dark matter confinement transition and gravitational waves](https://inspirehep.net/literature/1804403)
+  * arXiv:2006.16429 | 2020-07-01 | hep-lat
 * [Composite dark matter phenomenology in the presence of lighter degrees of freedom](https://inspirehep.net/literature/1773010)
   * arXiv:1912.11061 | 2019-12-25 | hep-ph
 * [Cosmoparticle physics of dark matter](https://inspirehep.net/literature/1762019)
@@ -274,6 +300,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:1512.05779 | 2015-12-18 | hep-ph
 * [10 years of dark atoms of composite dark matter](https://inspirehep.net/literature/1407931)
   * arXiv:1512.01081 | 2015-12-04 | hep-ph
+* [Template Composite Dark Matter: $SU(2)$ gauge theory with 2 fundamental flavours](https://inspirehep.net/literature/1404696)
+  * arXiv:1511.04370 | 2015-11-16 | hep-lat
 * [Magnetic dipole moments for composite dark matter](https://inspirehep.net/literature/1403520)
   * arXiv:1511.02805 | 2015-11-10 | hep-ph
 * [Models for SIMP dark matter and dark photon](https://inspirehep.net/literature/1398534)
@@ -298,6 +326,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:1406.6374 | 2014-06-26 | hep-ph
 * [Composite Dark Matter and LHC Interplay](https://inspirehep.net/literature/1292992)
   * arXiv:1404.7419 | 2014-04-30 | hep-ph
+* [Composite bosonic baryon dark matter on the lattice: SU(4) baryon spectrum and the effective Higgs interaction](https://inspirehep.net/literature/1282609)
+  * arXiv:1402.6656 | 2014-02-27 | hep-lat
 * [Gravity-mediated (or Composite) Dark Matter Confronts Astrophysical Data](https://inspirehep.net/literature/1278318)
   * arXiv:1401.5301 | 2014-01-22 | hep-ph
 * [Composite strongly interacting dark matter](https://inspirehep.net/literature/1268929)
@@ -312,6 +342,10 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:1304.7476 | 2013-04-30 | hep-ph
 * [Lattice Calculation of Composite Dark Matter Form Factors](https://inspirehep.net/literature/1209894)
   * arXiv:1301.1693 | 2013-01-09 | hep-ph
+* [Isotriplet Dark Matter on the Lattice: SO(4)-gauge theory with two Vector Wilson fermions](https://inspirehep.net/literature/1197514)
+  * arXiv:1211.0142 | 2012-11-01 | hep-lat
+* [Dilaton stabilization and composite dark matter in the string frame of heterotic-M-theory](https://inspirehep.net/literature/1191007)
+  * arXiv:1210.4615 | 2012-10-17 | hep-th
 * [Thermal Dark Matter from a Confining Sector](https://inspirehep.net/literature/1188224)
   * arXiv:1209.6054 | 2012-09-27 | hep-ph
 * [Interfering Composite Asymmetric Dark Matter for DAMA and CoGeNT](https://inspirehep.net/literature/901794)
@@ -489,6 +523,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2502.18566 | 2025-02-27 | hep-ph
 * [Dark baryon black holes](https://inspirehep.net/literature/2893817)
   * arXiv:2502.16439 | 2025-02-25 | hep-ph
+* [Scattering of SIMPlectic Dark Pions](https://inspirehep.net/literature/2874157)
+  * arXiv:2501.18368 | 2025-01-31 | hep-lat
 * [Dark chiral phase transition driven by chemical potential and its gravitational wave test](https://inspirehep.net/literature/2872593)
   * arXiv:2501.15242 | 2025-01-28 | hep-ph
 * [Flavor physics at the CEPC: a general perspective*](https://inspirehep.net/literature/2863363)
@@ -553,12 +589,16 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2303.16253 | 2023-03-30 | hep-ph
 * [Recent results from DEAP-3600](https://inspirehep.net/literature/2637217)
   * arXiv:2302.14484 | 2023-03-01 | hep-ex
+* [Advances in using density of states for large-N Yang–Mills](https://inspirehep.net/literature/2634419)
+  * arXiv:2303.01149 | 2023-02-20 | hep-lat
 * [Dark sector showers in the Lund jet plane](https://inspirehep.net/literature/2624660)
   * arXiv:2301.07732 | 2023-01-20 | hep-ph
 * [SIMPly add a dark photon](https://inspirehep.net/literature/2622298)
   * arXiv:2301.04513 | 2023-01-12 | hep-ph
 * [Uncovering tau leptons-enriched semi-visible jets at the LHC](https://inspirehep.net/literature/2617439)
   * arXiv:2212.11523 | 2022-12-23 | hep-ph
+* [Progress applying density of states for gravitational waves](https://inspirehep.net/literature/2615944)
+  * arXiv:2212.09199 | 2022-12-20 | hep-lat
 * [Bubble nucleation and gravitational waves from holography in the probe approximation](https://inspirehep.net/literature/2614056)
   * arXiv:2212.06591 | 2022-12-14 | hep-ph
 * [Optimizing trigger-level track reconstruction for sensitivity to exotic signatures](https://inspirehep.net/literature/2180407)
@@ -589,6 +629,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:2203.05010 | 2022-03-11 | hep-ph
 * [Simulating glueball production in <math display="inline"><msub><mi>N</mi><mi>f</mi></msub><mo>=</mo><mn>0</mn></math> QCD](https://inspirehep.net/literature/2039371)
   * arXiv:2202.12899 | 2022-03-01 | hep-ph
+* [Density of states for gravitational waves](https://inspirehep.net/literature/1995798)
+  * arXiv:2112.11868 | 2021-12-23 | hep-lat
 * [Emerging jets displaced into the future](https://inspirehep.net/literature/1987829)
   * arXiv:2112.05690 | 2021-12-13 | hep-ph
 * [Autoencoders for semivisible jet detection](https://inspirehep.net/literature/1984807)
@@ -689,6 +731,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:1610.03848 | 2016-10-14 | hep-ph
 * [Light Chiral Dark Sector](https://inspirehep.net/literature/1427260)
   * arXiv:1603.03430 | 2016-03-14 | hep-ph
+* [Invisible QCD as Dark Energy](https://inspirehep.net/literature/1422752)
+  * arXiv:1602.06557 | 2016-02-23 | hep-th
 * [Unified Description of Quarks and Leptons in a Multi-spinor Field Formalism](https://inspirehep.net/literature/1411844)
   * arXiv:1512.09283 | 2016-01-01 | hep-ph
 * [SIMP Spectroscopy](https://inspirehep.net/literature/1411469)
@@ -723,6 +767,8 @@ The purpose of this note is to collect references for dark showers. A minimal nu
   * arXiv:1410.3818 | 2014-10-15 | hep-ph
 * [Probing Baryogenesis with Displaced Vertices at the LHC](https://inspirehep.net/literature/1318791)
   * arXiv:1409.6729 | 2014-09-25 | hep-ph
+* [Dark nuclei. II. Nuclear spectroscopy in two-color QCD](https://inspirehep.net/literature/1300660)
+  * arXiv:1406.4116 | 2014-06-17 | hep-lat
 * [Dark Nuclei I: Cosmology and Indirect Detection](https://inspirehep.net/literature/1299704)
   * arXiv:1406.2276 | 2014-06-10 | hep-ph
 * [Reach of threshold-corrected dark QCD](https://inspirehep.net/literature/1298475)

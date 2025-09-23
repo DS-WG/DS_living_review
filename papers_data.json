@@ -27,9 +27,11 @@
     ],
     "categories": [
       "hep-ph",
+      "hep-th",
+      "hep-lat",
       "hep-ex"
     ],
-    "generated_on": "2025-09-22T14:10:42.856384"
+    "generated_on": "2025-09-23T07:12:05.788109"
   },
   "papers": [
     {
@@ -175,6 +177,22 @@
       "date_created": "2025-02-18",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2885996"
+    },
+    {
+      "title": "Finite Temperature Transition in Hyper Stealth Dark Matter using M\u00f6bius Domain Wall Fermions",
+      "arxiv_id": "2502.00331",
+      "cite_key": "Ayyar:2025eim",
+      "date_created": "2025-02-04",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2874691"
+    },
+    {
+      "title": "Scattering of SIMPlectic Dark Pions",
+      "arxiv_id": "2501.18368",
+      "cite_key": "Dengler:2025ulb",
+      "date_created": "2025-01-31",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2874157"
     },
     {
       "title": "Dark chiral phase transition driven by chemical potential and its gravitational wave test",
@@ -377,6 +395,14 @@
       "inspire_url": "https://inspirehep.net/literature/2787890"
     },
     {
+      "title": "Scattering of dark pions in Sp(4) gauge theory",
+      "arxiv_id": "2405.06506",
+      "cite_key": "Dengler:2024maq",
+      "date_created": "2024-05-13",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2785259"
+    },
+    {
       "title": "A first-order deconfinement phase transition in the early universe and gravitational waves",
       "arxiv_id": "2405.00490",
       "cite_key": "Gao:2024pqm",
@@ -457,6 +483,14 @@
       "inspire_url": "https://inspirehep.net/literature/2759887"
     },
     {
+      "title": "Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor",
+      "arxiv_id": "2402.07362",
+      "cite_key": "Ayyar:2024dmt",
+      "date_created": "2024-02-13",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2757532"
+    },
+    {
       "title": "Low energy effective theories of composite dark matter with real representations",
       "arxiv_id": "2402.04176",
       "cite_key": "Pomper:2024otb",
@@ -535,6 +569,14 @@
       "date_created": "2023-12-07",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2731380"
+    },
+    {
+      "title": "Scattering of dark pions in an Sp(4)-gauge theory",
+      "arxiv_id": "2311.18549",
+      "cite_key": "Dengler:2023szi",
+      "date_created": "2023-12-01",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2728682"
     },
     {
       "title": "Dark matter relic density in strongly interacting dark sectors with light vector mesons",
@@ -729,6 +771,14 @@
       "inspire_url": "https://inspirehep.net/literature/2649630"
     },
     {
+      "title": "Sp(2N) Lattice Gauge Theories and Extensions of the Standard Model of Particle Physics",
+      "arxiv_id": "2304.01070",
+      "cite_key": "Bennett:2023wjw",
+      "date_created": "2023-04-04",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2648212"
+    },
+    {
       "title": "Optimal mass variables for semivisible jets",
       "arxiv_id": "2303.16253",
       "cite_key": "Pedro:2023sdp",
@@ -769,6 +819,14 @@
       "inspire_url": "https://inspirehep.net/literature/2634724"
     },
     {
+      "title": "Advances in using density of states for large-N Yang\u2013Mills",
+      "arxiv_id": "2303.01149",
+      "cite_key": "Springer:2023wok",
+      "date_created": "2023-02-20",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2634419"
+    },
+    {
       "title": "Dark sector showers in the Lund jet plane",
       "arxiv_id": "2301.07732",
       "cite_key": "Cohen:2023mya",
@@ -801,6 +859,14 @@
       "inspire_url": "https://inspirehep.net/literature/2617439"
     },
     {
+      "title": "Progress applying density of states for gravitational waves",
+      "arxiv_id": "2212.09199",
+      "cite_key": "Springer:2022qos",
+      "date_created": "2022-12-20",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2615944"
+    },
+    {
       "title": "Bubble nucleation and gravitational waves from holography in the probe approximation",
       "arxiv_id": "2212.06591",
       "cite_key": "Chen:2022cgj",
@@ -823,6 +889,14 @@
       "date_created": "2022-11-21",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2512172"
+    },
+    {
+      "title": "Composite dynamics in Sp(2N) gauge theories",
+      "arxiv_id": "2211.09262",
+      "cite_key": "Lee:2022xbp",
+      "date_created": "2022-11-18",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2183167"
     },
     {
       "title": "Gravitational Waves from dark composite dynamics",
@@ -863,6 +937,14 @@
       "date_created": "2022-10-21",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/2167948"
+    },
+    {
+      "title": "Spectroscopy of $Sp(4)$ lattice gauge theory with $n_f=3$ antisymmetric fermions",
+      "arxiv_id": "2210.08154",
+      "cite_key": "Hsiao:2022gju",
+      "date_created": "2022-10-18",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/2165940"
     },
     {
       "title": "Perturbative unitarity of strongly interacting massive particle models",
@@ -1071,6 +1153,14 @@
       "date_created": "2021-12-28",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1997029"
+    },
+    {
+      "title": "Density of states for gravitational waves",
+      "arxiv_id": "2112.11868",
+      "cite_key": "Springer:2021liy",
+      "date_created": "2021-12-23",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1995798"
     },
     {
       "title": "Dark matter freeze-out during SU(2)$_{L}$ confinement",
@@ -1529,6 +1619,14 @@
       "inspire_url": "https://inspirehep.net/literature/1805777"
     },
     {
+      "title": "Stealth dark matter confinement transition and gravitational waves",
+      "arxiv_id": "2006.16429",
+      "cite_key": "LatticeStrongDynamics:2020jwi",
+      "date_created": "2020-07-01",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1804403"
+    },
+    {
       "title": "Split SIMPs with Decays",
       "arxiv_id": "2006.15148",
       "cite_key": "Katz:2020ywn",
@@ -1567,6 +1665,14 @@
       "date_created": "2020-04-03",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1789421"
+    },
+    {
+      "title": "Effective Field Theory in AdS: Continuum Regime, Soft Bombs, and IR Emergence",
+      "arxiv_id": "2002.12335",
+      "cite_key": "Costantino:2020msc",
+      "date_created": "2020-02-28",
+      "category": "hep-th",
+      "inspire_url": "https://inspirehep.net/literature/1782671"
     },
     {
       "title": "Composite dark matter phenomenology in the presence of lighter degrees of freedom",
@@ -1711,6 +1817,14 @@
       "date_created": "2019-04-29",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1731565"
+    },
+    {
+      "title": "Lattice Gauge Theory for Physics Beyond the Standard Model",
+      "arxiv_id": "1904.09964",
+      "cite_key": "USQCD:2019hee",
+      "date_created": "2019-04-23",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1730601"
     },
     {
       "title": "Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider",
@@ -2113,6 +2227,14 @@
       "inspire_url": "https://inspirehep.net/literature/1485662"
     },
     {
+      "title": "$SU(2)$ Gauge Theory with Two Fundamental Flavours: Scalar and Pseudoscalar Spectrum",
+      "arxiv_id": "1607.06654",
+      "cite_key": "Arthur:2016ozw",
+      "date_created": "2016-07-25",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1477592"
+    },
+    {
       "title": "Optical dispersion of composite particles consisting of millicharged constituents",
       "arxiv_id": "1607.04577",
       "cite_key": "Kvam:2016plz",
@@ -2169,12 +2291,36 @@
       "inspire_url": "https://inspirehep.net/literature/1427260"
     },
     {
+      "title": "Invisible QCD as Dark Energy",
+      "arxiv_id": "1602.06557",
+      "cite_key": "Alexander:2016xbm",
+      "date_created": "2016-02-23",
+      "category": "hep-th",
+      "inspire_url": "https://inspirehep.net/literature/1422752"
+    },
+    {
+      "title": "SU(2) gauge theory with two fundamental flavors: A minimal template for model building",
+      "arxiv_id": "1602.06559",
+      "cite_key": "Arthur:2016dir",
+      "date_created": "2016-02-23",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1422783"
+    },
+    {
       "title": "Gamma-rays from Dark Showers with Twin Higgs Models",
       "arxiv_id": "1601.07556",
       "cite_key": "Freytsis:2016dgf",
       "date_created": "2016-01-29",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1418186"
+    },
+    {
+      "title": "Electroweak interactions and dark baryons in the sextet BSM model with a composite Higgs particle",
+      "arxiv_id": "1601.03302",
+      "cite_key": "Fodor:2016wal",
+      "date_created": "2016-01-14",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1415123"
     },
     {
       "title": "Unified Description of Quarks and Leptons in a Multi-spinor Field Formalism",
@@ -2239,6 +2385,14 @@
       "date_created": "2015-12-04",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1407931"
+    },
+    {
+      "title": "Template Composite Dark Matter: $SU(2)$ gauge theory with 2 fundamental flavours",
+      "arxiv_id": "1511.04370",
+      "cite_key": "Drach:2015epq",
+      "date_created": "2015-11-16",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1404696"
     },
     {
       "title": "Magnetic dipole moments for composite dark matter",
@@ -2529,6 +2683,14 @@
       "inspire_url": "https://inspirehep.net/literature/1303116"
     },
     {
+      "title": "Dark nuclei. II. Nuclear spectroscopy in two-color QCD",
+      "arxiv_id": "1406.4116",
+      "cite_key": "Detmold:2014kba",
+      "date_created": "2014-06-17",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1300660"
+    },
+    {
       "title": "Dark Nuclei I: Cosmology and Indirect Detection",
       "arxiv_id": "1406.2276",
       "cite_key": "Detmold:2014qqa",
@@ -2551,6 +2713,14 @@
       "date_created": "2014-04-30",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1292992"
+    },
+    {
+      "title": "Composite bosonic baryon dark matter on the lattice: SU(4) baryon spectrum and the effective Higgs interaction",
+      "arxiv_id": "1402.6656",
+      "cite_key": "LSD:2014obp",
+      "date_created": "2014-02-27",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1282609"
     },
     {
       "title": "Probes for 4th generation constituents of dark atoms in Higgs boson studies at the LHC",
@@ -2673,6 +2843,14 @@
       "inspire_url": "https://inspirehep.net/literature/1207878"
     },
     {
+      "title": "Isotriplet Dark Matter on the Lattice: SO(4)-gauge theory with two Vector Wilson fermions",
+      "arxiv_id": "1211.0142",
+      "cite_key": "Hietanen:2012qd",
+      "date_created": "2012-11-01",
+      "category": "hep-lat",
+      "inspire_url": "https://inspirehep.net/literature/1197514"
+    },
+    {
       "title": "Search for a Non-Standard-Model Higgs Boson Decaying to a Pair of New Light Bosons in Four-Muon Final States",
       "arxiv_id": "1210.7619",
       "cite_key": "CMS:2012qms",
@@ -2687,6 +2865,14 @@
       "date_created": "2012-10-21",
       "category": "hep-ph",
       "inspire_url": "https://inspirehep.net/literature/1191904"
+    },
+    {
+      "title": "Dilaton stabilization and composite dark matter in the string frame of heterotic-M-theory",
+      "arxiv_id": "1210.4615",
+      "cite_key": "Zanzi:2012bf",
+      "date_created": "2012-10-17",
+      "category": "hep-th",
+      "inspire_url": "https://inspirehep.net/literature/1191007"
     },
     {
       "title": "Thermal Dark Matter from a Confining Sector",

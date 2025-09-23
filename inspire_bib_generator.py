@@ -9,13 +9,14 @@ import datetime
 from datetime import date
 import requests
 import argparse
+from collections import defaultdict
 
 
 class InspireBibGenerator:
     def __init__(self, starting_date=None, output_dir="results"):
         self.starting_date = starting_date or date.today().replace(year=date.today().year - 1)
         self.output_dir = output_dir
-        self.categories = ['hep-ph', 'hep-ex']
+        self.categories = ['hep-ph', 'hep-th','hep-lat', 'hep-ex']
         self.keywords = [
             'dark showers', 'dark shower', 'hidden valley', 'hidden valleys',
             'dark pion', 'dark pions', 'dark baryons', 'SUEP','soft-bombs',
@@ -56,8 +57,9 @@ class InspireBibGenerator:
         print(f"Scanning papers with keywords: {self.keywords}")
         
         # Format keywords for URL
-        keyword_str = f'("{self.keywords}")'.replace("', '", '"%20OR%20"').replace("['", '').replace("']", "")
-        keyword_str = keyword_str.replace(" ", "%20")
+        #keyword_str = f'("{self.keywords}")'.replace("', '", '"%20OR%20"').replace("['", '').replace("']", "")
+        #keyword_str = keyword_str.replace(" ", "%20")
+        keyword_str = ' OR '.join([f'"{keyword}"' for keyword in self.keywords])
         
         all_papers = []
         
