@@ -1,0 +1,33 @@
+# Site configuration for Dark Showers Papers
+title: "Dark Showers Papers - Living Review"
+description: "A comprehensive collection of papers on dark showers and related BSM physics"
+url: "https://yourusername.github.io"
+baseurl: "/your-repo-name"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections for papers
+collections:
+  papers:
+    output: false
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude files from processing
+exclude:
+  - results/
+  - "*.py"
+  - README.md
