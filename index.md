@@ -89,7 +89,7 @@ img {
 
 ---
 
-## 📊 Plots & Visualizations
+## Plots & Visualizations
 
 {% assign plots = site.static_files | where_exp: "file", "file.path contains 'results'" | where_exp: "file", "file.extname == '.png'" %}
 {% if plots.size > 0 %}
@@ -105,7 +105,7 @@ img {
 
 ---
 
-## 📚 Paper Categories
+## Paper Categories
 
 <div id="papers-container">
 <p><em>Loading papers...</em></p>
