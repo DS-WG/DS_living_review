@@ -1,8 +1,8 @@
 # Site configuration for Dark Showers Papers
 title: "Dark Showers Papers - Living Review"
 description: "A comprehensive collection of papers on dark showers and related BSM physics"
-url: "https://github.com/DS-WG/DS_living_review"
-baseurl: ""
+url: "https://ds-wg.github.io"
+baseurl: "/DS_living_review/"
 
 # Build settings
 markdown: kramdown
