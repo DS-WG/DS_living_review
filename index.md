@@ -177,15 +177,49 @@ fetch('{{ "/results/README.md" | relative_url }}')
       html += categoryContent + `</div></details>`;
     }
     
-    // Convert markdown links and formatting in the accumulated HTML
-    html = html
-      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2">$1</a>')
-      .replace(/\* /g, '<li>')
-      .replace(/\n\n/g, '</li>\n<li>');
-    
-    // Wrap list items
-    html = html.replace(/(<li>.*?<\/li>)/gs, '<ul style="list-style: none; padding-left: 0;">$1</ul>');
+    // Process the categoryContent for each section
+    html = html.replace(/<div class="paper-content">([\s\S]*?)<\/div>/g, function(match, content) {
+      // Split into lines
+      let lines = content.split('\n');
+      let processedLines = [];
+      let inList = false;
+      
+      lines.forEach(line => {
+        line = line.trim();
+        if (!line) return;
+        
+        // Check if line starts with bullet point
+        if (line.startsWith('* ')) {
+          if (!inList) {
+            processedLines.push('<ul style="list-style: none; padding-left: 0; margin: 10px 0;">');
+            inList = true;
+          }
+          
+          // Remove the bullet and process markdown
+          let content = line.substring(2);
+          
+          // Convert markdown bold
+          content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+          
+          // Convert markdown links
+          content = content.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+          
+          processedLines.push('<li style="margin-bottom: 8px; padding: 8px; background: #f9f9f9; border-left: 3px solid #0366d6;">' + content + '</li>');
+        } else {
+          if (inList) {
+            processedLines.push('</ul>');
+            inList = false;
+          }
+          processedLines.push('<p>' + line + '</p>');
+        }
+      });
+      
+      if (inList) {
+        processedLines.push('</ul>');
+      }
+      
+      return '<div class="paper-content">' + processedLines.join('\n') + '</div>';
+    });
     
     container.innerHTML = html || '<div class="no-papers"><strong>No papers found.</strong> Run the update workflow to populate the paper database.</div>';
   })
