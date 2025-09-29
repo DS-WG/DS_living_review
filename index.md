@@ -6,32 +6,47 @@ title: Dark Showers Papers - Living Review
 <style>
 details {
   margin: 20px 0;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 10px;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 0;
 }
 
 summary {
   cursor: pointer;
   font-weight: bold;
-  font-size: 1.2em;
-  padding: 10px;
-  background-color: #f5f5f5;
-  border-radius: 4px;
+  font-size: 1.3em;
+  padding: 16px;
+  background-color: #f6f8fa;
+  border-radius: 6px;
   user-select: none;
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:before {
+  content: "▶ ";
+  display: inline-block;
+  transition: transform 0.2s;
+}
+
+details[open] summary:before {
+  transform: rotate(90deg);
 }
 
 summary:hover {
-  background-color: #e0e0e0;
+  background-color: #e1e4e8;
 }
 
 details[open] summary {
-  margin-bottom: 15px;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #e1e4e8;
+  border-radius: 6px 6px 0 0;
 }
 
-.paper-list {
-  margin-left: 20px;
+.paper-content {
+  padding: 16px;
 }
 
 img {
@@ -42,13 +57,23 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
+  background: white;
 }
 
 .stats-box {
-  background-color: #f8f9fa;
+  background-color: #f6f8fa;
   border-left: 4px solid #0366d6;
-  padding: 15px;
+  padding: 16px;
   margin: 20px 0;
+  border-radius: 6px;
+}
+
+.no-papers {
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 16px;
+  margin: 20px 0;
+  border-radius: 6px;
 }
 </style>
 
@@ -56,75 +81,126 @@ img {
 
 *Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. They connect different areas of theoretical physics with each other and arise from well motivated theoretical scenarios. Below is a list of papers concerning dark showers.*
 
-The purpose of this site is to collect references for dark showers. Papers are automatically categorized using keyword matching on titles and abstracts. Papers may appear in multiple categories if relevant.
-
 <div class="stats-box">
-<strong>Last updated:</strong> {{ site.time | date: "%B %d, %Y" }}<br>
-<strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">GitHub</a>
+<strong>Purpose:</strong> Collect and categorize dark showers references automatically<br>
+<strong>Last updated:</strong> {{ site.time | date: "%B %d, %Y at %H:%M UTC" }}<br>
+<strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">ds-wg/DS_living_review</a>
 </div>
 
 ---
 
-## Plots & Visualizations
+## 📊 Plots & Visualizations
 
-{% assign image_files = site.static_files | where_exp: "file", "file.extname == '.png'" %}
-{% if image_files.size > 0 %}
-{% for image in image_files %}
-### {{ image.basename | replace: "_", " " | replace: "-", " " | capitalize }}
-![{{ image.basename }}]({{ image.path | relative_url }})
+{% assign plots = site.static_files | where_exp: "file", "file.path contains 'results'" | where_exp: "file", "file.extname == '.png'" %}
+{% if plots.size > 0 %}
+{% for plot in plots %}
+<h3>{{ plot.name | remove: ".png" | replace: "_", " " | replace: "-", " " | capitalize }}</h3>
+![{{ plot.name }}]({{ plot.path | relative_url }})
 {% endfor %}
 {% else %}
-*Plots will appear here after the first data update runs.*
+<div class="no-papers">
+<strong>No plots available yet.</strong> Run the workflow or scripts locally to generate visualizations.
+</div>
 {% endif %}
 
 ---
 
-## Paper Categories
+## 📚 Paper Categories
 
-{% capture readme_path %}{{ site.baseurl }}/results/README.md{% endcapture %}
-
-<!-- Include README content directly -->
-{% if site.data.readme %}
-{{ site.data.readme }}
-{% else %}
-
-<!-- Fallback: Load from file using JavaScript -->
-<div id="paper-content">
-<p><em>Loading paper categories...</em></p>
+<div id="papers-container">
+<p><em>Loading papers...</em></p>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-fetch('{{ site.baseurl }}/results/README.md')
+// Fetch and parse the README
+fetch('{{ "/results/README.md" | relative_url }}')
   .then(response => {
-    if (!response.ok) throw new Error('README not found');
+    if (!response.ok) {
+      throw new Error('README not found at: {{ "/results/README.md" | relative_url }}');
+    }
     return response.text();
   })
-  .then(text => {
-    // Parse markdown
-    const html = marked.parse(text);
+  .then(markdown => {
+    const container = document.getElementById('papers-container');
     
-    // Convert H2 headers to collapsible details/summary
-    const modifiedHtml = html.replace(
-      /<h2>(.*?)<\/h2>/g, 
-      '</details><details open><summary>$1</summary>'
-    );
+    // Split by H1 and H2 headers
+    const lines = markdown.split('\n');
+    let html = '';
+    let inCategory = false;
+    let categoryContent = '';
+    let currentCategory = '';
     
-    document.getElementById('paper-content').innerHTML = 
-      modifiedHtml + '</details>';
+    lines.forEach(line => {
+      // Skip the title and metadata at the beginning
+      if (line.startsWith('# **A Living Review')) return;
+      if (line.startsWith('*Dark showers sit')) return;
+      if (line.startsWith('The purpose of this note')) return;
+      if (line.startsWith('**Last updated:')) return;
+      if (line.startsWith('**Search period:')) return;
+      if (line.startsWith('**Total papers found:')) return;
+      if (line.startsWith('**Search categories:')) return;
+      
+      // Detect major sections (H1)
+      if (line.match(/^# [^*]/)) {
+        if (inCategory && categoryContent) {
+          html += `</div></details>`;
+        }
+        const sectionTitle = line.replace(/^# /, '');
+        html += `<h2 style="margin-top: 2em; border-bottom: 2px solid #e1e4e8; padding-bottom: 10px;">${sectionTitle}</h2>`;
+        inCategory = false;
+        return;
+      }
+      
+      // Detect category headers (H2)
+      if (line.match(/^## /)) {
+        // Close previous category if open
+        if (inCategory && categoryContent) {
+          html += categoryContent + `</div></details>`;
+        }
+        
+        // Extract category name and paper count
+        currentCategory = line.replace(/^## /, '');
+        html += `<details open><summary>${currentCategory}</summary><div class="paper-content">`;
+        categoryContent = '';
+        inCategory = true;
+        return;
+      }
+      
+      // Add content to current category
+      if (inCategory) {
+        categoryContent += line + '\n';
+      }
+    });
     
-    // Remove the first closing tag
-    const content = document.getElementById('paper-content');
-    if (content.firstChild && content.firstChild.tagName === 'DETAILS') {
-      content.firstChild.remove();
+    // Close last category
+    if (inCategory && categoryContent) {
+      html += categoryContent + `</div></details>`;
     }
+    
+    // Convert markdown links and formatting in the accumulated HTML
+    html = html
+      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2">$1</a>')
+      .replace(/\* /g, '<li>')
+      .replace(/\n\n/g, '</li>\n<li>');
+    
+    // Wrap list items
+    html = html.replace(/(<li>.*?<\/li>)/gs, '<ul style="list-style: none; padding-left: 0;">$1</ul>');
+    
+    container.innerHTML = html || '<div class="no-papers"><strong>No papers found.</strong> Run the update workflow to populate the paper database.</div>';
   })
   .catch(error => {
     console.error('Error loading papers:', error);
-    document.getElementById('paper-content').innerHTML = 
-      '<p><strong>No paper data available yet.</strong> Run the update workflow to generate paper listings.</p>' +
-      '<p>Go to: <a href="https://github.com/ds-wg/DS_living_review/actions">Actions</a> → ' +
-      'Update Dark Showers Papers → Run workflow</p>';
+    document.getElementById('papers-container').innerHTML = 
+      `<div class="no-papers">
+        <strong>Unable to load paper data.</strong><br>
+        Error: ${error.message}<br><br>
+        <strong>Next steps:</strong>
+        <ol>
+          <li>Verify that <code>results/README.md</code> exists in your repository</li>
+          <li>Check that <code>_config.yml</code> includes <code>results/</code> folder</li>
+          <li>Run the update workflow from <a href="https://github.com/ds-wg/DS_living_review/actions">GitHub Actions</a></li>
+        </ol>
+      </div>`;
   });
 </script>
-{% endif %}
