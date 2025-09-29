@@ -1,35 +1,31 @@
 Dark Showers Publication Analysis Summary
 ==================================================
 
-Generated on: 2025-09-23 07:12:48
-Total papers analyzed: 403
-Years covered: 2006 - 2025
+Generated on: 2025-09-29 07:22:14
+Total papers analyzed: 377
+Years covered: 2010 - 2025
 
 Publication Statistics:
 -------------------------
 Peak year: 2024 (176 papers)
-Average papers per year: 80.6
-Total citations needed: 403
+Average papers per year: 94.2
+Total citations needed: 377
 
 Top Keywords:
 ---------------
-composite dark matter: 364 papers
-hidden valley: 304 papers
+composite dark matter: 348 papers
+hidden valley: 224 papers
 dark pion: 204 papers
 dark pions: 136 papers
 dark QCD: 136 papers
 dark baryons: 112 papers
 dark mesons: 112 papers
-hidden valleys: 96 papers
 dark shower: 92 papers
 dark hadron: 84 papers
+dark hadrons: 72 papers
 
 Papers by Year:
 ----------------
-2006: 12 papers
-2007: 4 papers
-2008: 40 papers
-2009: 52 papers
 2010: 44 papers
 2011: 28 papers
 2012: 36 papers
@@ -45,4 +41,4 @@ Papers by Year:
 2022: 148 papers
 2023: 144 papers
 2024: 176 papers
-2025: 84 papers
+2025: 88 papers
