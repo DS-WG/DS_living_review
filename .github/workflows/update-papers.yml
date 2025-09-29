@@ -1,0 +1,64 @@
+name: Update Dark Showers Papers
+
+on:
+  schedule:
+    # Run monthly on the 1st at 2 AM UTC
+    - cron: '0 2 1 * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-papers:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests matplotlib pandas numpy python-dateutil
+        
+    - name: Run paper search and analysis
+      run: |
+        python improved_inspire_bib_generator_v2.py
+        python bsm_darkshowers_plotter_v1.py --single-plot
+        
+    - name: Process results for Jekyll
+      run: |
+        # Create _data directory for Jekyll data files
+        mkdir -p _data
+        
+        # Convert README.md to Jekyll data (if needed)
+        if [ -f "results/README.md" ]; then
+          echo "papers_content: |" > _data/papers.yml
+          sed 's/^/  /' results/README.md >> _data/papers.yml
+        fi
+        
+        # Create stats data file
+        echo "last_updated: '$(date -Iseconds)'" > _data/stats.yml
+        if [ -f "results/papers_data.json" ]; then
+          python -c "
+import json
+with open('results/papers_data.json', 'r') as f:
+    data = json.load(f)
+    print(f'total_papers: {len(data.get(\"papers\", []))}')
+" >> _data/stats.yml
+        fi
+        
+        # Copy plots to assets directory
+        mkdir -p assets/images
+        cp results/*.png assets/images/ 2>/dev/null || true
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update papers data and plots $(date +'%Y-%m-%d')" || exit 0
+        git push
