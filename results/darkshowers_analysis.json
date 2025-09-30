@@ -30,53 +30,475 @@
       "composite dark matter",
       "dark confinement"
     ],
-    "generated_on": "2025-09-29T07:57:56.013288"
+    "generated_on": "2025-09-30T09:44:52.030868"
   },
   "summary_statistics": {
-    "total_papers": 377,
-    "years_covered": "2010 - 2025",
+    "total_papers": 404,
+    "years_covered": "2006 - 2025",
     "papers_by_year": {
-      "2010": 22,
-      "2011": 14,
-      "2012": 18,
-      "2013": 20,
-      "2014": 40,
-      "2015": 66,
-      "2016": 36,
-      "2017": 34,
-      "2018": 46,
-      "2019": 46,
-      "2020": 66,
-      "2021": 68,
-      "2022": 74,
-      "2023": 72,
-      "2024": 88,
-      "2025": 44
+      "2006": 9,
+      "2007": 3,
+      "2008": 30,
+      "2009": 39,
+      "2010": 33,
+      "2011": 21,
+      "2012": 27,
+      "2013": 30,
+      "2014": 60,
+      "2015": 99,
+      "2016": 54,
+      "2017": 51,
+      "2018": 69,
+      "2019": 69,
+      "2020": 99,
+      "2021": 102,
+      "2022": 111,
+      "2023": 108,
+      "2024": 132,
+      "2025": 66
     },
     "keyword_counts": {
-      "hidden valley": 112,
-      "hidden valleys": 28,
-      "dark baryons": 56,
-      "composite dark matter": 174,
-      "dark mesons": 56,
-      "dark pion": 102,
-      "dark pions": 68,
-      "dark QCD": 68,
-      "confining dark sector": 28,
-      "dark shower": 46,
-      "dark hadron": 42,
-      "dark confinement": 20,
-      "emerging jets": 26,
-      "soft bombs": 8,
-      "soft bomb": 8,
-      "dark showers": 32,
-      "semi-visible jets": 32,
-      "dark hadrons": 36,
-      "SUEP": 10,
-      "soft unclustered energy": 10
+      "hidden valley": 228,
+      "hidden valleys": 72,
+      "composite dark matter": 273,
+      "soft unclustered energy": 18,
+      "dark baryons": 84,
+      "dark mesons": 84,
+      "dark pion": 153,
+      "dark pions": 102,
+      "dark QCD": 102,
+      "confining dark sector": 42,
+      "dark shower": 69,
+      "dark hadron": 63,
+      "dark confinement": 30,
+      "emerging jets": 39,
+      "soft bombs": 12,
+      "soft bomb": 12,
+      "dark showers": 48,
+      "semi-visible jets": 48,
+      "dark hadrons": 54,
+      "SUEP": 15
     }
   },
   "papers": [
+    {
+      "title": "Possible effects of a hidden valley on supersymmetric phenomenology",
+      "arxiv_id": "hep-ph/0607160",
+      "inspire_id": "721604",
+      "year": 2006,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/721604"
+    },
+    {
+      "title": "Discovering the Higgs through highly-displaced vertices",
+      "arxiv_id": "hep-ph/0605193",
+      "inspire_id": "717210",
+      "year": 2006,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J.",
+        "Zurek, Kathryn M."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/717210"
+    },
+    {
+      "title": "Echoes of a hidden valley at hadron colliders",
+      "arxiv_id": "hep-ph/0604261",
+      "inspire_id": "715541",
+      "year": 2006,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J.",
+        "Zurek, Kathryn M."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/715541"
+    },
+    {
+      "title": "Phenomenology of hidden valleys at hadron colliders",
+      "arxiv_id": "0712.2041",
+      "inspire_id": "770390",
+      "year": 2007,
+      "category": "hep-ph",
+      "authors": [
+        "Han, Tao",
+        "Si, Zongguo",
+        "Zurek, Kathryn M."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/770390"
+    },
+    {
+      "title": "Proceedings, 11th Workshop on What Comes Beyond the Standard Models?",
+      "arxiv_id": "0812.0510",
+      "inspire_id": "804131",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Bregar, G.",
+        "Dvoeglazov, V.V.",
+        "Filippini, J."
+      ],
+      "matched_keywords": [
+        "composite dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/804131"
+    },
+    {
+      "title": "Muon Excess in Cosmic Rays and at CDF: Signs for a Hidden Sector?",
+      "arxiv_id": "0812.4240",
+      "inspire_id": "805979",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Gehrmann, Thomas",
+        "Greiner, Nicolas",
+        "Schwaller, Pedro"
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/805979"
+    },
+    {
+      "title": "Flesh and Blood, or Merely Ghosts? Some Comments on the Multi-Muon Study at CDF",
+      "arxiv_id": "0811.1560",
+      "inspire_id": "802019",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/802019"
+    },
+    {
+      "title": "Signals of New Physics in the Underlying Event",
+      "arxiv_id": "0810.3948",
+      "inspire_id": "800288",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Harnik, Roni",
+        "Wizansky, Tommer"
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys",
+        "soft unclustered energy"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/800288"
+    },
+    {
+      "title": "Discovering hidden sectors with mono-photon $Z^\\prime$o searches",
+      "arxiv_id": "0809.2849",
+      "inspire_id": "796824",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Gershtein, Yuri",
+        "Petriello, Frank",
+        "Quackenbush, Seth"
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/796824"
+    },
+    {
+      "title": "On the Phenomenology of Hidden Valleys with Heavy Flavor",
+      "arxiv_id": "0806.2385",
+      "inspire_id": "788326",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/788326"
+    },
+    {
+      "title": "A Hidden Valley model of cold dark matter with photonic portal",
+      "arxiv_id": "0803.2977",
+      "inspire_id": "781765",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Krolikowski, Wojciech"
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/781765"
+    },
+    {
+      "title": "Why Unparticle Models with Mass Gaps are Examples of Hidden Valleys",
+      "arxiv_id": "0801.0629",
+      "inspire_id": "776786",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "Strassler, Matthew J."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/776786"
+    },
+    {
+      "title": "Heavy Dark Matter Through the Higgs Portal",
+      "arxiv_id": "0801.3440",
+      "inspire_id": "777927",
+      "year": 2008,
+      "category": "hep-ph",
+      "authors": [
+        "March-Russell, John",
+        "West, Stephen M.",
+        "Cumberbatch, Daniel"
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/777927"
+    },
+    {
+      "title": "Search for long-lived particles decaying into electron or photon pairs with the D0 detector",
+      "arxiv_id": "0806.2223",
+      "inspire_id": "788206",
+      "year": 2008,
+      "category": "hep-ex",
+      "authors": [
+        "Abazov, V.M.",
+        "Abbott, B.",
+        "Abolins, M."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/788206"
+    },
+    {
+      "title": "Physics searches at the LHC",
+      "arxiv_id": "0912.3259",
+      "inspire_id": "840434",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Morrissey, David E.",
+        "Plehn, Tilman",
+        "Tait, Tim M.P."
+      ],
+      "matched_keywords": [],
+      "inspire_url": "https://inspirehep.net/literature/840434"
+    },
+    {
+      "title": "The INTEGRAL/SPI 511 keV Signal from Hidden Valleys in Type Ia and Core Collapse Supernova Explosions",
+      "arxiv_id": "0912.3320",
+      "inspire_id": "840456",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Davoudiasl, Hooman",
+        "Perez, Gilad"
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/840456"
+    },
+    {
+      "title": "Proceedings, 12th Workshop on What Comes Beyond the Standard Models?",
+      "arxiv_id": "0912.4532",
+      "inspire_id": "841034",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Norma, Susanna",
+        "Mankov, Barstnik",
+        "Nielsen, Holger Bech"
+      ],
+      "matched_keywords": [
+        "composite dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/841034"
+    },
+    {
+      "title": "Pure-glue hidden valleys through the Higgs portal",
+      "arxiv_id": "0911.5616",
+      "inspire_id": "838413",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Juknevich, Jose E."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/838413"
+    },
+    {
+      "title": "Quirky Composite Dark Matter",
+      "arxiv_id": "0909.2034",
+      "inspire_id": "830917",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Kribs, Graham D.",
+        "Roy, Tuhin S.",
+        "Terning, John"
+      ],
+      "matched_keywords": [
+        "composite dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/830917"
+    },
+    {
+      "title": "Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC",
+      "arxiv_id": "0908.3319",
+      "inspire_id": "829343",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Sanchis-Lozano, Miguel-Angel"
+      ],
+      "matched_keywords": [],
+      "inspire_url": "https://inspirehep.net/literature/829343"
+    },
+    {
+      "title": "Protecting unparticles from the MSSM Higgs sector",
+      "arxiv_id": "0905.0503",
+      "inspire_id": "819413",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Nelson, Ann E.",
+        "Piai, Maurizio",
+        "Spitzer, Christopher"
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/819413"
+    },
+    {
+      "title": "A Pure-Glue Hidden Valley I. States and Decays",
+      "arxiv_id": "0903.0883",
+      "inspire_id": "814771",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Juknevich, Jose E.",
+        "Melnikov, Dmitry",
+        "Strassler, Matthew J."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/814771"
+    },
+    {
+      "title": "Electroweak and Dark Matter Constraints on a Z-prime in Models with a Hidden Valley",
+      "arxiv_id": "0903.1118",
+      "inspire_id": "814853",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Cassel, S.",
+        "Ghilencea, D.M.",
+        "Ross, G.G."
+      ],
+      "matched_keywords": [
+        "hidden valley"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/814853"
+    },
+    {
+      "title": "Composite Inelastic Dark Matter",
+      "arxiv_id": "0903.3945",
+      "inspire_id": "816072",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Alves, Daniele S.M.",
+        "Behbahani, Siavosh R.",
+        "Schuster, Philip"
+      ],
+      "matched_keywords": [
+        "composite dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/816072"
+    },
+    {
+      "title": "Gauge Extensions of Supersymmetric Models and Hidden Valleys",
+      "arxiv_id": "0901.2613",
+      "inspire_id": "811237",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Luo, Mingxing",
+        "Zheng, Sibo"
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/811237"
+    },
+    {
+      "title": "Search for Resonant Pair Production of long-lived particles decaying to b anti-b in p anti-p collisions at s**(1/2) = 1.96-TeV",
+      "arxiv_id": "0906.1787",
+      "inspire_id": "822614",
+      "year": 2009,
+      "category": "hep-ex",
+      "authors": [
+        "Abazov, V.M.",
+        "Abbott, B.",
+        "Abolins, M."
+      ],
+      "matched_keywords": [],
+      "inspire_url": "https://inspirehep.net/literature/822614"
+    },
+    {
+      "title": "Search for dark photons from supersymmetric hidden valleys",
+      "arxiv_id": "0905.1478",
+      "inspire_id": "819905",
+      "year": 2009,
+      "category": "hep-ex",
+      "authors": [
+        "Abazov, V.M.",
+        "Abbott, B.",
+        "Abolins, M."
+      ],
+      "matched_keywords": [
+        "hidden valley",
+        "hidden valleys"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/819905"
+    },
     {
       "title": "Black Hole Portal into Hidden Valleys",
       "arxiv_id": "1012.2893",
