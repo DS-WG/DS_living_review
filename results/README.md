@@ -4,8 +4,8 @@
 
 The purpose of this note is to collect references for dark showers. Papers are automatically categorized using keyword matching on titles and abstracts. Papers may appear in multiple categories if relevant.
 
-**Last updated:** 2025-09-30
-**Search period:** 2004-01-01 to present
+**Last updated:** 2025-10-08
+**Search period:** 2006-01-01 to present
 **Total papers found:** 404
 **Search categories:** hep-ph, hep-ex, hep-th, hep-lat
 
@@ -82,7 +82,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor** ([arXiv:2402.07362](https://arxiv.org/abs/2402.07362)), 2024, [hep-lat]
 
-* **Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
+* **Exploring Hidden Sectors with Two-Particle Angular Correlations at Future e$^{+}$e$^{−}$ Colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
 
 * **Scattering of dark pions in an Sp(4)-gauge theory** ([arXiv:2311.18549](https://arxiv.org/abs/2311.18549)), 2023, [hep-lat]
 
@@ -301,7 +301,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Low energy effective theories of composite dark matter with real representations** ([arXiv:2402.04176](https://arxiv.org/abs/2402.04176)), 2024, [hep-ph]
 
-* **Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
+* **Exploring Hidden Sectors with Two-Particle Angular Correlations at Future e$^{+}$e$^{−}$ Colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
 
 * **<math display="inline"><mrow><mi>π</mi></mrow></math>-axion and <math display="inline"><mi>π</mi></math>-axiverse of dark QCD** ([arXiv:2304.11176](https://arxiv.org/abs/2304.11176)), 2023, [hep-ph]
 
@@ -1323,7 +1323,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Two coincidences are a clue: Probing a GeV-scale dark QCD sector** ([arXiv:2506.10928](https://arxiv.org/abs/2506.10928)), 2025, [hep-ph]
 
-* **Hidden Valleys in the CMS muon endcap detector** ([arXiv:2505.03058](https://arxiv.org/abs/2505.03058)), 2025, [hep-ph]
+* **Hidden valley scenario sensitivity in the CMS muon endcap detector** ([arXiv:2505.03058](https://arxiv.org/abs/2505.03058)), 2025, [hep-ph]
 
 * **Probing the sensitivity of semi-visible jets to current LHC measurements using the CONTUR toolkit** ([arXiv:2502.11237](https://arxiv.org/abs/2502.11237)), 2025, [hep-ph]
 
@@ -1477,7 +1477,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **New Physics Search at the CEPC: a General Perspective** ([arXiv:2505.24810](https://arxiv.org/abs/2505.24810)), 2025, [hep-ex]
 
-* **Hidden Valleys in the CMS muon endcap detector** ([arXiv:2505.03058](https://arxiv.org/abs/2505.03058)), 2025, [hep-ph]
+* **Hidden valley scenario sensitivity in the CMS muon endcap detector** ([arXiv:2505.03058](https://arxiv.org/abs/2505.03058)), 2025, [hep-ph]
 
 * **Search for new physics in final states with semivisible jets or anomalous signatures using the ATLAS detector** ([arXiv:2505.01634](https://arxiv.org/abs/2505.01634)), 2025, [hep-ex]
 
@@ -1563,7 +1563,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Gravitational wave footprints from Higgs-portal scalegenesis with multiple dark chiral scalars*** ([arXiv:2401.00771](https://arxiv.org/abs/2401.00771)), 2024, [hep-ph]
 
-* **Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
+* **Exploring Hidden Sectors with Two-Particle Angular Correlations at Future e$^{+}$e$^{−}$ Colliders** ([arXiv:2312.06526](https://arxiv.org/abs/2312.06526)), 2023, [hep-ph]
 
 * **Semi-visible jets, energy-based models, and self-supervision** ([arXiv:2312.03067](https://arxiv.org/abs/2312.03067)), 2023, [hep-ph]
 

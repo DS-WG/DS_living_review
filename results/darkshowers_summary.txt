@@ -1,7 +1,7 @@
 Dark Showers Publication Analysis Summary
 ==================================================
 
-Generated on: 2025-09-30 09:44:52
+Generated on: 2025-10-08 17:19:56
 Total papers analyzed: 404
 Years covered: 2006 - 2025
 
@@ -20,7 +20,7 @@ dark pions: 136 papers
 dark QCD: 136 papers
 dark baryons: 112 papers
 dark mesons: 112 papers
-hidden valleys: 96 papers
+hidden valleys: 92 papers
 dark shower: 92 papers
 dark hadron: 84 papers
 

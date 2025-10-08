@@ -30,7 +30,7 @@
       "composite dark matter",
       "dark confinement"
     ],
-    "generated_on": "2025-09-30T09:44:52.030868"
+    "generated_on": "2025-10-08T17:19:56.651683"
   },
   "summary_statistics": {
     "total_papers": 404,
@@ -59,7 +59,7 @@
     },
     "keyword_counts": {
       "hidden valley": 228,
-      "hidden valleys": 72,
+      "hidden valleys": 69,
       "composite dark matter": 273,
       "soft unclustered energy": 18,
       "dark baryons": 84,
@@ -4757,15 +4757,15 @@
       "inspire_url": "https://inspirehep.net/literature/2051243"
     },
     {
-      "title": "Exploring hidden sectors with two-particle angular correlations at future $e^{+}e^{-}$ colliders",
+      "title": "Exploring Hidden Sectors with Two-Particle Angular Correlations at Future e$^{+}$e$^{\u2212}$ Colliders",
       "arxiv_id": "2312.06526",
       "inspire_id": "2734725",
       "year": 2023,
       "category": "hep-ph",
       "authors": [
-        "Musumeci, E.",
-        "Irles, A.",
-        "Perez-Ramos, R."
+        "Musumeci, Emanuela",
+        "Irles, Adri\u00e1n",
+        "P\u00e9rez-Ramos, Redamy"
       ],
       "matched_keywords": [
         "hidden valley"
@@ -6203,7 +6203,7 @@
       "inspire_url": "https://inspirehep.net/literature/2929942"
     },
     {
-      "title": "Hidden Valleys in the CMS muon endcap detector",
+      "title": "Hidden valley scenario sensitivity in the CMS muon endcap detector",
       "arxiv_id": "2505.03058",
       "inspire_id": "2918574",
       "year": 2025,
@@ -6214,8 +6214,7 @@
         "Kulkarni, Suchita"
       ],
       "matched_keywords": [
-        "hidden valley",
-        "hidden valleys"
+        "hidden valley"
       ],
       "inspire_url": "https://inspirehep.net/literature/2918574"
     },
