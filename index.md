@@ -152,20 +152,20 @@ fetch('{{ "/results/papers.txt" | relative_url }}')
       }
       
       // H1 sections (like "# General")
-      if (line.match(/^# [^*]/) && !line.startsWith('# **')) {
+      //if (line.match(/^# [^*]/) && !line.startsWith('# **')) {
         // Close previous category
-        if (currentCategory && paperItems.length > 0) {
-          html += '<ul>\n' + paperItems.join('\n') + '\n</ul>\n';
-          html += '</div></details>\n\n';
-          paperItems = [];
-          currentCategory = null;
-        }
+      //  if (currentCategory && paperItems.length > 0) {
+      //    html += '<ul>\n' + paperItems.join('\n') + '\n</ul>\n';
+      //    html += '</div></details>\n\n';
+      //    paperItems = [];
+      //    currentCategory = null;
+      //  }
         
-        const sectionTitle = line.substring(2).trim();
-        html += `<h2 class="section-header">${sectionTitle}</h2>\n\n`;
-        currentSection = sectionTitle;
-        continue;
-      }
+      //  const sectionTitle = line.substring(2).trim();
+      //  html += `<h2 class="section-header">${sectionTitle}</h2>\n\n`;
+      //  currentSection = sectionTitle;
+      //  continue;
+      //}
       
       // H2 categories (like "## Model Building - SU(N) (5 papers)")
       if (line.startsWith('## ')) {
