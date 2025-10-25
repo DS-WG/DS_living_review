@@ -185,7 +185,7 @@ fetch('{{ "/results/papers.txt" | relative_url }}')
         }
         
         const categoryTitle = line.substring(3).trim();
-        html += `<details open>\n<summary>${categoryTitle}</summary>\n<div class="paper-content">\n`;
+        html += `<details>\n<summary>${categoryTitle}</summary>\n<div class="paper-content">\n`;
         currentCategory = categoryTitle;
         continue;
       }
