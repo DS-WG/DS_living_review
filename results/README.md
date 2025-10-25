@@ -1,8 +1,3 @@
----
-layout: none
-sitemap: false
----
-
 # **A Living Review of Dark Showers**
 
 *Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. They connect different areas of theoretical physics with each other and arise from well motivated theoretical scenarios. Below is a list of papers concerning dark showers.*
