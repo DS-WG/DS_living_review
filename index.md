@@ -99,18 +99,10 @@ h2.section-header {
 <strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">ds-wg/DS_living_review</a>
 </div>
 
----
+**Navigation:** [View Plots & Visualizations]({{ "/plots" | relative_url }})
 
-## Plots & Visualizations
-
-{% assign plots = site.static_files | where_exp: "file", "file.path contains 'results'" | where_exp: "file", "file.extname == '.png'" %}
-{% for plot in plots %}
-<h3>{{ plot.name | remove: ".png" | replace: "_", " " | replace: "-", " " | capitalize }}</h3>
-![{{ plot.name }}]({{ plot.path | relative_url }})
-{% endfor %}
 
 ---
-
 ## Paper Categories
 
 <div id="papers-container">
