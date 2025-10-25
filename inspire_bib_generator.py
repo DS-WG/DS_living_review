@@ -638,7 +638,7 @@ class InspireBibGenerator:
         
         return categories
 
-    def generate_readme(self, filename="README.md"):
+    def generate_readme(self, filename="papers.txt"):
         """Generate a README file with improved categorization"""
         output_path = os.path.join(self.output_dir, filename)
         categories = self.categorize_papers()

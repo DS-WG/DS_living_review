@@ -32,6 +32,7 @@ include:
 
 # Exclude files from processing
 exclude:
+  - "results/README.md"
   - "results/*.json"
   - "results/*.bib"
   - "*.py"

@@ -126,7 +126,7 @@ function parseMarkdownLine(line) {
   return line;
 }
 
-fetch('{{ "/results/README.md" | relative_url }}')
+fetch('{{ "/results/papers.txt" | relative_url }}')
   .then(response => {
     if (!response.ok) {
       throw new Error('README not found');
