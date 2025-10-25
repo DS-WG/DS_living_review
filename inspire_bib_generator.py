@@ -644,6 +644,10 @@ class InspireBibGenerator:
         categories = self.categorize_papers()
         
         with open(output_path, 'w') as f:
+            f.write("---\n")
+            f.write("layout: none\n")
+            f.write("sitemap: false\n")
+            f.write("---\n\n")
             f.write("# **A Living Review of Dark Showers**\n\n")
             f.write("*Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. ")
             f.write("They connect different areas of theoretical physics with each other and arise from well motivated ")
