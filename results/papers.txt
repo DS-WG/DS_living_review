@@ -6,7 +6,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 **Last updated:** 2025-10-26
 **Search period:** 2006-01-01 to present
-**Total papers found:** 528
+**Total papers found:** 560
 **Search categories:** hep-ph, hep-ex, hep-th, hep-lat
 
 # General
@@ -68,7 +68,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Lattice QCD
 
-## Lattice (354 papers)
+## Lattice (377 papers)
 
 * **Probing the Higgs Portal to a Strongly-Interacting Dark Sector at the FCC-ee** ([arXiv:2510.17675](https://arxiv.org/abs/2510.17675)), 2025, [hep-ph]
 
@@ -106,11 +106,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark chiral phase transition driven by chemical potential and its gravitational wave test** ([arXiv:2501.15242](https://arxiv.org/abs/2501.15242)), 2025, [hep-ph]
 
+* **Hyperstealth dark matter and long-lived particles** ([arXiv:2412.14540](https://arxiv.org/abs/2412.14540)), 2024, [hep-ph]
+
 * **Noble dark matter: Surprising elusiveness of dark baryons** ([arXiv:2412.14240](https://arxiv.org/abs/2412.14240)), 2024, [hep-ph]
 
 * **Dark showers from sneaky dark matter** ([arXiv:2411.15073](https://arxiv.org/abs/2411.15073)), 2024, [hep-ph]
 
 * **Pseudo-FIMP dark matter in presence of a SIMP** ([arXiv:2411.15108](https://arxiv.org/abs/2411.15108)), 2024, [hep-ph]
+
+* **Glueball Axion-Like Particles** ([arXiv:2411.11716](https://arxiv.org/abs/2411.11716)), 2024, [hep-ph]
 
 * **Quantum similarity learning for anomaly detection** ([arXiv:2411.09927](https://arxiv.org/abs/2411.09927)), 2024, [hep-ph]
 
@@ -152,6 +156,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor** ([arXiv:2402.07362](https://arxiv.org/abs/2402.07362)), 2024, [hep-lat]
 
+* **A comparative lattice analysis of $SU(2)$ dark glueballs** ([arXiv:2402.03959](https://arxiv.org/abs/2402.03959)), 2024, [hep-lat]
+
 * **Early matter domination at colliders: Long live the glueball!** ([arXiv:2401.12278](https://arxiv.org/abs/2401.12278)), 2024, [hep-ph]
 
 * **Even SIMP miracles are possible** ([arXiv:2401.12283](https://arxiv.org/abs/2401.12283)), 2024, [hep-ph]
@@ -178,6 +184,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Heavy Neutral Leptons via Axionlike Particles at Neutrino Facilities** ([arXiv:2311.07713](https://arxiv.org/abs/2311.07713)), 2023, [hep-ph]
 
+* **Dark sector glueballs at the LHC** ([arXiv:2310.13731](https://arxiv.org/abs/2310.13731)), 2023, [hep-ph]
+
 * **Di-Higgs Signatures in Neutral Naturalness** ([arXiv:2310.02317](https://arxiv.org/abs/2310.02317)), 2023, [hep-ph]
 
 * **Experimental evidence of dark matter axions identical to solar axions and the absence of the "fifth" carrier force for the Higgs field** ([arXiv:2308.07943](https://arxiv.org/abs/2308.07943)), 2023, [hep-ph]
@@ -193,6 +201,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Emerging jet probes of strongly interacting dark sectors** ([arXiv:2307.04847](https://arxiv.org/abs/2307.04847)), 2023, [hep-ph]
 
 * **Spin-1 thermal targets for dark matter searches at beam dump and fixed target experiments** ([arXiv:2307.02207](https://arxiv.org/abs/2307.02207)), 2023, [hep-ph]
+
+* **NANOGrav signal from a dark conformal phase transition** ([arXiv:2306.17086](https://arxiv.org/abs/2306.17086)), 2023, [hep-ph]
 
 * **The influence of supersymmetric quirk particles on the W mass increment and the muon g-2 anomaly** ([arXiv:2306.02542](https://arxiv.org/abs/2306.02542)), 2023, [hep-ph]
 
@@ -246,6 +256,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Friction on ALP domain walls and gravitational waves** ([arXiv:2210.14246](https://arxiv.org/abs/2210.14246)), 2022, [hep-ph]
 
+* **Axion dark matter from first-order phase transition, and very high energy photons from GRB 221009A** ([arXiv:2210.10022](https://arxiv.org/abs/2210.10022)), 2022, [hep-ph]
+
 * **Spectroscopy of $Sp(4)$ lattice gauge theory with $n_f=3$ antisymmetric fermions** ([arXiv:2210.08154](https://arxiv.org/abs/2210.08154)), 2022, [hep-lat]
 
 * **Perturbative unitarity of strongly interacting massive particle models** ([arXiv:2210.01393](https://arxiv.org/abs/2210.01393)), 2022, [hep-ph]
@@ -265,6 +277,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Fate of the first-order chiral phase transition in QCD: Implications for dark QCD studied via a Nambu–Jona-Lasinio model** ([arXiv:2208.03975](https://arxiv.org/abs/2208.03975)), 2022, [hep-ph]
 
 * **An asymmetric SIMP dark matter model** ([arXiv:2207.13373](https://arxiv.org/abs/2207.13373)), 2022, [hep-ph]
+
+* **Glueball Dark Matter Revisited** ([arXiv:2207.13716](https://arxiv.org/abs/2207.13716)), 2022, [hep-ph]
 
 * **Dark matter from a conformal Dark Sector** ([arXiv:2207.10093](https://arxiv.org/abs/2207.10093)), 2022, [hep-ph]
 
@@ -364,11 +378,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark confinement-deconfinement phase transition: a roadmap from Polyakov loop models to gravitational waves** ([arXiv:2101.03795](https://arxiv.org/abs/2101.03795)), 2021, [hep-ph]
 
+* **Gravitational Vector Dark Matter** ([arXiv:2012.12087](https://arxiv.org/abs/2012.12087)), 2020, [hep-ph]
+
 * **Nuclear fusion inside dark matter** ([arXiv:2012.10998](https://arxiv.org/abs/2012.10998)), 2020, [hep-ph]
 
 * **Gravitational waves from dark Yang-Mills sectors** ([arXiv:2012.04071](https://arxiv.org/abs/2012.04071)), 2020, [hep-ph]
 
 * **Exothermic dark mesons in light of electron recoil excess at XENON1T** ([arXiv:2012.03713](https://arxiv.org/abs/2012.03713)), 2020, [hep-ph]
+
+* **Gravitational Production of a Conformal Dark Sector** ([arXiv:2011.10565](https://arxiv.org/abs/2011.10565)), 2020, [hep-ph]
 
 * **On the challenges of searching for GeV-scale long-lived particles at the LHC** ([arXiv:2011.06604](https://arxiv.org/abs/2011.06604)), 2020, [hep-ph]
 
@@ -405,6 +423,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Producing and detecting long-lived particles at different experiments at the LHC** ([arXiv:2004.08820](https://arxiv.org/abs/2004.08820)), 2020, [hep-ph]
 
 * **A Robust Measure of Event Isotropy at Colliders** ([arXiv:2004.06125](https://arxiv.org/abs/2004.06125)), 2020, [hep-ph]
+
+* **Dark Matter in scalar Sp($ \mathcal{N} $) gauge dynamics** ([arXiv:2004.03299](https://arxiv.org/abs/2004.03299)), 2020, [hep-ph]
 
 * **Jet Substructure from Dark Sector Showers** ([arXiv:2004.00631](https://arxiv.org/abs/2004.00631)), 2020, [hep-ph]
 
@@ -486,11 +506,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Twin Higgs model with strongly interacting massive particle dark matter** ([arXiv:1805.09345](https://arxiv.org/abs/1805.09345)), 2018, [hep-ph]
 
+* **Dark Glueballs and their Ultralight Axions** ([arXiv:1805.06011](https://arxiv.org/abs/1805.06011)), 2018, [hep-ph]
+
 * **Phenomenology of Self-Interacting Dark Matter in a Matter-Dominated Universe** ([arXiv:1803.08064](https://arxiv.org/abs/1803.08064)), 2018, [hep-ph]
 
 * **Hidden strongly interacting massive particles** ([arXiv:1803.07518](https://arxiv.org/abs/1803.07518)), 2018, [hep-ph]
 
 * **Singlet Scalar Top Partners from Accidental Supersymmetry** ([arXiv:1803.03651](https://arxiv.org/abs/1803.03651)), 2018, [hep-ph]
+
+* **The extended minimal geometric deformation of SU($N$) dark glueball condensates** ([arXiv:1803.03336](https://arxiv.org/abs/1803.03336)), 2018, [hep-th]
 
 * **Searching for new physics with three-particle correlations in $pp$ collisions at the LHC** ([arXiv:1802.06703](https://arxiv.org/abs/1802.06703)), 2018, [hep-ph]
 
@@ -540,6 +564,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Axionlike particle assisted strongly interacting massive particle** ([arXiv:1704.04505](https://arxiv.org/abs/1704.04505)), 2017, [hep-ph]
 
+* **Cosmic selection rule for the glueball dark matter relic density** ([arXiv:1704.02347](https://arxiv.org/abs/1704.02347)), 2017, [hep-ph]
+
 * **Dark Kinetic Heating of Neutron Stars and An Infrared Window On WIMPs, SIMPs, and Pure Higgsinos** ([arXiv:1704.01577](https://arxiv.org/abs/1704.01577)), 2017, [hep-ph]
 
 * **Constraining Quirky Tracks with Conventional Searches** ([arXiv:1703.00912](https://arxiv.org/abs/1703.00912)), 2017, [hep-ph]
@@ -550,11 +576,19 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Composite Higgs Dynamics on the Lattice** ([arXiv:1612.09336](https://arxiv.org/abs/1612.09336)), 2016, [hep-lat]
 
+* **A Sommerfeld Toolbox for Colored Dark Sectors** ([arXiv:1612.02825](https://arxiv.org/abs/1612.02825)), 2016, [hep-ph]
+
 * **Triggering Soft Bombs at the LHC** ([arXiv:1612.00850](https://arxiv.org/abs/1612.00850)), 2016, [hep-ph]
+
+* **Gravitational Waves From SU(N) Glueball Dark Matter** ([arXiv:1610.06931](https://arxiv.org/abs/1610.06931)), 2016, [hep-ph]
+
+* **Neutral Naturalness with Bifundamental Gluinos** ([arXiv:1610.00342](https://arxiv.org/abs/1610.00342)), 2016, [hep-ph]
 
 * **Unified composite scenario for inflation and dark matter in the Nambu–Jona-Lasinio model** ([arXiv:1609.04698](https://arxiv.org/abs/1609.04698)), 2016, [hep-ph]
 
 * **Impeded Dark Matter** ([arXiv:1609.02147](https://arxiv.org/abs/1609.02147)), 2016, [hep-ph]
+
+* **String Theory and the Dark Glueball Problem** ([arXiv:1609.02151](https://arxiv.org/abs/1609.02151)), 2016, [hep-ph]
 
 * **Dark Sectors 2016 Workshop: Community Report** ([arXiv:1608.08632](https://arxiv.org/abs/1608.08632)), 2016, [hep-ph]
 
@@ -568,6 +602,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **LHC Signatures of WIMP-triggered Baryogenesis** ([arXiv:1605.08736](https://arxiv.org/abs/1605.08736)), 2016, [hep-ph]
 
+* **Non-Abelian Dark Forces and the Relic Densities of Dark Glueballs** ([arXiv:1605.08048](https://arxiv.org/abs/1605.08048)), 2016, [hep-ph]
+
 * **Explaining the 750 GeV diphoton excess with a colored scalar charged under a new confining gauge interaction** ([arXiv:1604.06180](https://arxiv.org/abs/1604.06180)), 2016, [hep-ph]
 
 * **Review of strongly-coupled composite dark matter models and lattice simulations** ([arXiv:1604.04627](https://arxiv.org/abs/1604.04627)), 2016, [hep-ph]
@@ -575,6 +611,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Invisible QCD as Dark Energy** ([arXiv:1602.06557](https://arxiv.org/abs/1602.06557)), 2016, [hep-th]
 
 * **SU(2) gauge theory with two fundamental flavors: A minimal template for model building** ([arXiv:1602.06559](https://arxiv.org/abs/1602.06559)), 2016, [hep-lat]
+
+* **Hidden SU(N) Glueball Dark Matter** ([arXiv:1602.00714](https://arxiv.org/abs/1602.00714)), 2016, [hep-ph]
 
 * **Gamma-rays from Dark Showers with Twin Higgs Models** ([arXiv:1601.07556](https://arxiv.org/abs/1601.07556)), 2016, [hep-ph]
 
@@ -656,6 +694,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Galactic Centre GeV Photons from Dark Technicolor** ([arXiv:1410.4842](https://arxiv.org/abs/1410.4842)), 2014, [hep-ph]
 
+* **Strongly interacting dark matter: Self-interactions and keV lines** ([arXiv:1408.6532](https://arxiv.org/abs/1408.6532)), 2014, [hep-ph]
+
 * **Grand unified hidden-sector dark matter** ([arXiv:1407.4192](https://arxiv.org/abs/1407.4192)), 2014, [hep-ph]
 
 * **Partially Composite Dark Matter** ([arXiv:1406.6374](https://arxiv.org/abs/1406.6374)), 2014, [hep-ph]
@@ -671,6 +711,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Composite bosonic baryon dark matter on the lattice: SU(4) baryon spectrum and the effective Higgs interaction** ([arXiv:1402.6656](https://arxiv.org/abs/1402.6656)), 2014, [hep-lat]
 
 * **Mechanism for Thermal Relic Dark Matter of Strongly Interacting Massive Particles** ([arXiv:1402.5143](https://arxiv.org/abs/1402.5143)), 2014, [hep-ph]
+
+* **Self-Interacting Dark Matter from a Non-Abelian Hidden Sector** ([arXiv:1402.3629](https://arxiv.org/abs/1402.3629)), 2014, [hep-ph]
 
 * **Probes for 4th generation constituents of dark atoms in Higgs boson studies at the LHC** ([arXiv:1402.0180](https://arxiv.org/abs/1402.0180)), 2014, [hep-ph]
 
@@ -699,6 +741,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **LHC Signatures of a Minimal Supersymmetric Hidden Valley** ([arXiv:1112.2705](https://arxiv.org/abs/1112.2705)), 2011, [hep-ph]
 
 * **Exotic Spectroscopy and Decays: Prospects for Colliders** ([arXiv:1112.4629](https://arxiv.org/abs/1112.4629)), 2011, [hep-ph]
+
+* **A Solution to the mu/Bmu Problem in Gauge Mediation with Hidden Gauge Symmetry** ([arXiv:1111.1601](https://arxiv.org/abs/1111.1601)), 2011, [hep-ph]
 
 * **Recent Results from Indirect and Direct Dark Matter Searches: Theoretical Scenarios** ([arXiv:1111.1563](https://arxiv.org/abs/1111.1563)), 2011, [hep-ph]
 
@@ -737,6 +781,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Pure-glue hidden valleys through the Higgs portal** ([arXiv:0911.5616](https://arxiv.org/abs/0911.5616)), 2009, [hep-ph]
 
 * **Quirky Composite Dark Matter** ([arXiv:0909.2034](https://arxiv.org/abs/0909.2034)), 2009, [hep-ph]
+
+* **Dark Matter Through the Neutrino Portal** ([arXiv:0908.1790](https://arxiv.org/abs/0908.1790)), 2009, [hep-ph]
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
@@ -781,7 +827,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Model Building
 
-## Model Building - SU(N) Gauge Groups (32 papers)
+## Model Building - SU(N) Gauge Groups (34 papers)
 
 * **Finite Temperature Transition in Hyper Stealth Dark Matter using Möbius Domain Wall Fermions** ([arXiv:2502.00331](https://arxiv.org/abs/2502.00331)), 2025, [hep-lat]
 
@@ -790,6 +836,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark sector showers and hadronisation in Herwig 7** ([arXiv:2408.10044](https://arxiv.org/abs/2408.10044)), 2024, [hep-ph]
 
 * **A first-order deconfinement phase transition in the early universe and gravitational waves** ([arXiv:2405.00490](https://arxiv.org/abs/2405.00490)), 2024, [hep-ph]
+
+* **NANOGrav signal from a dark conformal phase transition** ([arXiv:2306.17086](https://arxiv.org/abs/2306.17086)), 2023, [hep-ph]
 
 * **Large <math display="inline"><mo stretchy="false">|</mo><mi>η</mi><mo stretchy="false">|</mo></math> approach to single field inflation** ([arXiv:2305.11568](https://arxiv.org/abs/2305.11568)), 2023, [hep-th]
 
@@ -820,6 +868,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark Matter from self-dual gauge/Higgs dynamics** ([arXiv:1907.11228](https://arxiv.org/abs/1907.11228)), 2019, [hep-ph]
 
 * **Coset Cosmology** ([arXiv:1902.05933](https://arxiv.org/abs/1902.05933)), 2019, [hep-ph]
+
+* **Gravitational Waves From SU(N) Glueball Dark Matter** ([arXiv:1610.06931](https://arxiv.org/abs/1610.06931)), 2016, [hep-ph]
 
 * **$SU(2)$ Gauge Theory with Two Fundamental Flavours: Scalar and Pseudoscalar Spectrum** ([arXiv:1607.06654](https://arxiv.org/abs/1607.06654)), 2016, [hep-lat]
 
@@ -867,7 +917,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Gauge Extensions of Supersymmetric Models and Hidden Valleys** ([arXiv:0901.2613](https://arxiv.org/abs/0901.2613)), 2009, [hep-ph]
 
-## Model Building - General (38 papers)
+## Model Building - General (40 papers)
 
 * **On the simulation of hidden parton showers in the conformal window** ([arXiv:2502.18566](https://arxiv.org/abs/2502.18566)), 2025, [hep-ph]
 
@@ -905,7 +955,11 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Lattice Gauge Theory for Physics Beyond the Standard Model** ([arXiv:1904.09964](https://arxiv.org/abs/1904.09964)), 2019, [hep-lat]
 
+* **Slightly Ultra-violet Freeze-in a Hidden Gluonic Sector** ([arXiv:1901.10934](https://arxiv.org/abs/1901.10934)), 2019, [hep-ph]
+
 * **Hidden strongly interacting massive particles** ([arXiv:1803.07518](https://arxiv.org/abs/1803.07518)), 2018, [hep-ph]
+
+* **The extended minimal geometric deformation of SU($N$) dark glueball condensates** ([arXiv:1803.03336](https://arxiv.org/abs/1803.03336)), 2018, [hep-th]
 
 * **Asymmetric Dark Matter and the hadronic spectra of hidden QCD** ([arXiv:1704.05213](https://arxiv.org/abs/1704.05213)), 2017, [hep-ph]
 
@@ -948,7 +1002,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Dark Matter
 
-## Dark Matter - Pion (69 papers)
+## Dark Matter - Pion (71 papers)
 
 * **Search for emerging jets in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS experiment** ([arXiv:2510.12347](https://arxiv.org/abs/2510.12347)), 2025, [hep-ex]
 
@@ -1028,6 +1082,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Softly shifting away from dark matter direct detection** ([arXiv:2011.06264](https://arxiv.org/abs/2011.06264)), 2020, [hep-ph]
 
+* **Exploring the Universe with dark light scalars** ([arXiv:2010.10880](https://arxiv.org/abs/2010.10880)), 2020, [hep-ph]
+
 * **Composite Dark Matter from Strongly-Interacting Chiral Dynamics** ([arXiv:2008.10607](https://arxiv.org/abs/2008.10607)), 2020, [hep-ph]
 
 * **A Minimal Model for Neutral Naturalness and pseudo-Nambu-Goldstone Dark Matter** ([arXiv:2003.08947](https://arxiv.org/abs/2003.08947)), 2020, [hep-ph]
@@ -1043,6 +1099,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Effective Theories of Dark Mesons with Custodial Symmetry** ([arXiv:1809.10183](https://arxiv.org/abs/1809.10183)), 2018, [hep-ph]
 
 * **Dark Mesons at the LHC** ([arXiv:1809.10184](https://arxiv.org/abs/1809.10184)), 2018, [hep-ph]
+
+* **Composite Higgs Models with a Hidden Sector** ([arXiv:1809.09667](https://arxiv.org/abs/1809.09667)), 2018, [hep-ph]
 
 * **A flavoured dark sector** ([arXiv:1803.08080](https://arxiv.org/abs/1803.08080)), 2018, [hep-ph]
 
@@ -1164,7 +1222,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Direct Detection of Dark Matter Electromagnetic Dipole Moments** ([arXiv:1007.5515](https://arxiv.org/abs/1007.5515)), 2010, [hep-ph]
 
-## Dark Matter - Other (327 papers)
+## Dark Matter - Other (353 papers)
 
 * **Searching for leptophilic composite asymmetric dark sector at $e^+e^-$ colliders** ([arXiv:2509.12504](https://arxiv.org/abs/2509.12504)), 2025, [hep-ph]
 
@@ -1200,6 +1258,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Composite asymmetric dark matter with a dark photon portal: Multimessenger tests** ([arXiv:2412.15641](https://arxiv.org/abs/2412.15641)), 2024, [hep-ph]
 
+* **Hyperstealth dark matter and long-lived particles** ([arXiv:2412.14540](https://arxiv.org/abs/2412.14540)), 2024, [hep-ph]
+
 * **Noble dark matter: Surprising elusiveness of dark baryons** ([arXiv:2412.14240](https://arxiv.org/abs/2412.14240)), 2024, [hep-ph]
 
 * **Prompt searches for feebly interacting particles at the LHC** ([arXiv:2412.06297](https://arxiv.org/abs/2412.06297)), 2024, [hep-ex]
@@ -1211,6 +1271,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark showers from sneaky dark matter** ([arXiv:2411.15073](https://arxiv.org/abs/2411.15073)), 2024, [hep-ph]
 
 * **Pseudo-FIMP dark matter in presence of a SIMP** ([arXiv:2411.15108](https://arxiv.org/abs/2411.15108)), 2024, [hep-ph]
+
+* **Glueball Axion-Like Particles** ([arXiv:2411.11716](https://arxiv.org/abs/2411.11716)), 2024, [hep-ph]
 
 * **Scientific program for the Forward Physics Facility** ([arXiv:2411.04175](https://arxiv.org/abs/2411.04175)), 2024, [hep-ex]
 
@@ -1227,6 +1289,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Loosely bound composite dark matter** ([arXiv:2408.03983](https://arxiv.org/abs/2408.03983)), 2024, [hep-ph]
 
 * **Grand unified theory framework for accidental composite dark matter** ([arXiv:2407.20591](https://arxiv.org/abs/2407.20591)), 2024, [hep-ph]
+
+* **Dark matter from dark glueball dominance** ([arXiv:2406.18635](https://arxiv.org/abs/2406.18635)), 2024, [hep-ph]
 
 * **Thermal dark matter with low-temperature reheating** ([arXiv:2406.17039](https://arxiv.org/abs/2406.17039)), 2024, [hep-ph]
 
@@ -1258,6 +1322,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Low energy effective theories of composite dark matter with real representations** ([arXiv:2402.04176](https://arxiv.org/abs/2402.04176)), 2024, [hep-ph]
 
+* **A comparative lattice analysis of $SU(2)$ dark glueballs** ([arXiv:2402.03959](https://arxiv.org/abs/2402.03959)), 2024, [hep-lat]
+
 * **Early matter domination at colliders: Long live the glueball!** ([arXiv:2401.12278](https://arxiv.org/abs/2401.12278)), 2024, [hep-ph]
 
 * **Even SIMP miracles are possible** ([arXiv:2401.12283](https://arxiv.org/abs/2401.12283)), 2024, [hep-ph]
@@ -1269,6 +1335,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Bridging the μHz gap in the gravitational-wave landscape: unveiling dark baryons** ([arXiv:2311.10449](https://arxiv.org/abs/2311.10449)), 2023, [hep-ph]
 
 * **Heavy baryon dark matter from <math display="inline"><mrow><mi>S</mi><mi>U</mi><mo stretchy="false">(</mo><mi>N</mi><mo stretchy="false">)</mo></mrow></math> confinement: Bubble wall velocity and boundary effects** ([arXiv:2311.00029](https://arxiv.org/abs/2311.00029)), 2023, [hep-ph]
+
+* **Dark sector glueballs at the LHC** ([arXiv:2310.13731](https://arxiv.org/abs/2310.13731)), 2023, [hep-ph]
 
 * **Nonabelian kinetic mixing in a confining phase: a framework for composite dark photons** ([arXiv:2309.13105](https://arxiv.org/abs/2309.13105)), 2023, [hep-ph]
 
@@ -1324,6 +1392,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring the cosmological dark matter coincidence using infrared fixed points** ([arXiv:2210.11011](https://arxiv.org/abs/2210.11011)), 2022, [hep-ph]
 
+* **Axion dark matter from first-order phase transition, and very high energy photons from GRB 221009A** ([arXiv:2210.10022](https://arxiv.org/abs/2210.10022)), 2022, [hep-ph]
+
 * **Perturbative unitarity of strongly interacting massive particle models** ([arXiv:2210.01393](https://arxiv.org/abs/2210.01393)), 2022, [hep-ph]
 
 * **Towards better discrimination and improved modelling of dark-sector showers** ([arXiv:2209.14964](https://arxiv.org/abs/2209.14964)), 2022, [hep-ph]
@@ -1339,6 +1409,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark Grand Unification in the axiverse: decaying axion dark matter and spontaneous baryogenesis** ([arXiv:2208.10504](https://arxiv.org/abs/2208.10504)), 2022, [hep-ph]
 
 * **An asymmetric SIMP dark matter model** ([arXiv:2207.13373](https://arxiv.org/abs/2207.13373)), 2022, [hep-ph]
+
+* **Glueball Dark Matter Revisited** ([arXiv:2207.13716](https://arxiv.org/abs/2207.13716)), 2022, [hep-ph]
 
 * **Dark matter from a conformal Dark Sector** ([arXiv:2207.10093](https://arxiv.org/abs/2207.10093)), 2022, [hep-ph]
 
@@ -1400,6 +1472,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Asymmetric dark matter may not be light** ([arXiv:2107.03398](https://arxiv.org/abs/2107.03398)), 2021, [hep-ph]
 
+* **Hidden dark matter from Starobinsky inflation** ([arXiv:2105.13358](https://arxiv.org/abs/2105.13358)), 2021, [hep-ph]
+
 * **Search for strongly interacting massive particles generating trackless jets in proton–proton collisions at $\sqrt{s} = 13\,\text {TeV} $** ([arXiv:2105.09178](https://arxiv.org/abs/2105.09178)), 2021, [hep-ex]
 
 * **New sensitivity of LHC measurements to composite dark matter models** ([arXiv:2105.08494](https://arxiv.org/abs/2105.08494)), 2021, [hep-ph]
@@ -1430,6 +1504,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark Matter Freeze-Out via Catalyzed Annihilation** ([arXiv:2102.02447](https://arxiv.org/abs/2102.02447)), 2021, [hep-ph]
 
+* **Gravitational Vector Dark Matter** ([arXiv:2012.12087](https://arxiv.org/abs/2012.12087)), 2020, [hep-ph]
+
 * **Nuclear fusion inside dark matter** ([arXiv:2012.10998](https://arxiv.org/abs/2012.10998)), 2020, [hep-ph]
 
 * **Cosmological and astrophysical probes of dark baryons** ([arXiv:2012.09865](https://arxiv.org/abs/2012.09865)), 2020, [hep-ph]
@@ -1440,11 +1516,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Collider constraints on dark mediators** ([arXiv:2011.13990](https://arxiv.org/abs/2011.13990)), 2020, [hep-ph]
 
+* **Gravitational Production of a Conformal Dark Sector** ([arXiv:2011.10565](https://arxiv.org/abs/2011.10565)), 2020, [hep-ph]
+
 * **Softly shifting away from dark matter direct detection** ([arXiv:2011.06264](https://arxiv.org/abs/2011.06264)), 2020, [hep-ph]
 
 * **On the challenges of searching for GeV-scale long-lived particles at the LHC** ([arXiv:2011.06604](https://arxiv.org/abs/2011.06604)), 2020, [hep-ph]
 
 * **Multi-messenger cosmology of new physics** ([arXiv:2010.14581](https://arxiv.org/abs/2010.14581)), 2020, [hep-ph]
+
+* **Exploring the Universe with dark light scalars** ([arXiv:2010.10880](https://arxiv.org/abs/2010.10880)), 2020, [hep-ph]
 
 * **Detecting composite dark matter with long-range and contact interactions in gas clouds** ([arXiv:2010.07240](https://arxiv.org/abs/2010.07240)), 2020, [hep-ph]
 
@@ -1477,6 +1557,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Casting a graph net to catch dark showers** ([arXiv:2006.08639](https://arxiv.org/abs/2006.08639)), 2020, [hep-ph]
 
 * **Strongly-interacting massive particle and dark photon in the era of the intensity frontier** ([arXiv:2004.13966](https://arxiv.org/abs/2004.13966)), 2020, [hep-ph]
+
+* **Dark Matter in scalar Sp($ \mathcal{N} $) gauge dynamics** ([arXiv:2004.03299](https://arxiv.org/abs/2004.03299)), 2020, [hep-ph]
 
 * **Connecting between inflation and dark matter in models with gauged Z$_{3}$ symmetry** ([arXiv:2003.11823](https://arxiv.org/abs/2003.11823)), 2020, [hep-ph]
 
@@ -1524,6 +1606,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Strongly interacting dark matter and the DAMA signal** ([arXiv:1903.04637](https://arxiv.org/abs/1903.04637)), 2019, [hep-ph]
 
+* **Slightly Ultra-violet Freeze-in a Hidden Gluonic Sector** ([arXiv:1901.10934](https://arxiv.org/abs/1901.10934)), 2019, [hep-ph]
+
 * **Gluequark Dark Matter** ([arXiv:1811.06975](https://arxiv.org/abs/1811.06975)), 2018, [hep-ph]
 
 * **Unitarizing SIMP scenario with dark vector resonances** ([arXiv:1811.02751](https://arxiv.org/abs/1811.02751)), 2018, [hep-ph]
@@ -1554,9 +1638,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Twin Higgs model with strongly interacting massive particle dark matter** ([arXiv:1805.09345](https://arxiv.org/abs/1805.09345)), 2018, [hep-ph]
 
+* **Dark Glueballs and their Ultralight Axions** ([arXiv:1805.06011](https://arxiv.org/abs/1805.06011)), 2018, [hep-ph]
+
 * **Phenomenology of Self-Interacting Dark Matter in a Matter-Dominated Universe** ([arXiv:1803.08064](https://arxiv.org/abs/1803.08064)), 2018, [hep-ph]
 
 * **Hidden strongly interacting massive particles** ([arXiv:1803.07518](https://arxiv.org/abs/1803.07518)), 2018, [hep-ph]
+
+* **The extended minimal geometric deformation of SU($N$) dark glueball condensates** ([arXiv:1803.03336](https://arxiv.org/abs/1803.03336)), 2018, [hep-th]
 
 * **Theta in new QCD-like sectors** ([arXiv:1803.00015](https://arxiv.org/abs/1803.00015)), 2018, [hep-ph]
 
@@ -1577,6 +1665,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Search for Double Charged Particles as Direct Test for Dark Atom Constituents** ([arXiv:1711.10773](https://arxiv.org/abs/1711.10773)), 2017, [hep-ph]
 
 * **Lepton-portal Dark Matter in Hidden Valley model and the DAMPE recent results** ([arXiv:1711.11058](https://arxiv.org/abs/1711.11058)), 2017, [hep-ph]
+
+* **Cosmological Bounds on Non-Abelian Dark Forces** ([arXiv:1710.06447](https://arxiv.org/abs/1710.06447)), 2017, [hep-ph]
 
 * **Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly** ([arXiv:1710.03906](https://arxiv.org/abs/1710.03906)), 2017, [hep-ph]
 
@@ -1614,6 +1704,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Axionlike particle assisted strongly interacting massive particle** ([arXiv:1704.04505](https://arxiv.org/abs/1704.04505)), 2017, [hep-ph]
 
+* **Cosmic selection rule for the glueball dark matter relic density** ([arXiv:1704.02347](https://arxiv.org/abs/1704.02347)), 2017, [hep-ph]
+
 * **Dark Kinetic Heating of Neutron Stars and An Infrared Window On WIMPs, SIMPs, and Pure Higgsinos** ([arXiv:1704.01577](https://arxiv.org/abs/1704.01577)), 2017, [hep-ph]
 
 * **Gravitational wave from dark sector with dark pion** ([arXiv:1704.00219](https://arxiv.org/abs/1704.00219)), 2017, [hep-ph]
@@ -1625,6 +1717,10 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Simply split strongly interacting massive particles** ([arXiv:1702.04906](https://arxiv.org/abs/1702.04906)), 2017, [hep-ph]
 
 * **Composite Higgs Dynamics on the Lattice** ([arXiv:1612.09336](https://arxiv.org/abs/1612.09336)), 2016, [hep-lat]
+
+* **A Sommerfeld Toolbox for Colored Dark Sectors** ([arXiv:1612.02825](https://arxiv.org/abs/1612.02825)), 2016, [hep-ph]
+
+* **Gravitational Waves From SU(N) Glueball Dark Matter** ([arXiv:1610.06931](https://arxiv.org/abs/1610.06931)), 2016, [hep-ph]
 
 * **On thermal production of self-interacting dark matter** ([arXiv:1610.04748](https://arxiv.org/abs/1610.04748)), 2016, [hep-ph]
 
@@ -1648,11 +1744,15 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **LHC Signatures of WIMP-triggered Baryogenesis** ([arXiv:1605.08736](https://arxiv.org/abs/1605.08736)), 2016, [hep-ph]
 
+* **Non-Abelian Dark Forces and the Relic Densities of Dark Glueballs** ([arXiv:1605.08048](https://arxiv.org/abs/1605.08048)), 2016, [hep-ph]
+
 * **Review of strongly-coupled composite dark matter models and lattice simulations** ([arXiv:1604.04627](https://arxiv.org/abs/1604.04627)), 2016, [hep-ph]
 
 * **Light Chiral Dark Sector** ([arXiv:1603.03430](https://arxiv.org/abs/1603.03430)), 2016, [hep-ph]
 
 * **SU(2) gauge theory with two fundamental flavors: A minimal template for model building** ([arXiv:1602.06559](https://arxiv.org/abs/1602.06559)), 2016, [hep-lat]
+
+* **Hidden SU(N) Glueball Dark Matter** ([arXiv:1602.00714](https://arxiv.org/abs/1602.00714)), 2016, [hep-ph]
 
 * **Gamma-rays from Dark Showers with Twin Higgs Models** ([arXiv:1601.07556](https://arxiv.org/abs/1601.07556)), 2016, [hep-ph]
 
@@ -1726,6 +1826,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Review of Physics Results from the Tevatron: Searches for New Particles and Interactions** ([arXiv:1409.4910](https://arxiv.org/abs/1409.4910)), 2014, [hep-ex]
 
+* **Strongly interacting dark matter: Self-interactions and keV lines** ([arXiv:1408.6532](https://arxiv.org/abs/1408.6532)), 2014, [hep-ph]
+
 * **Partially Composite Dark Matter** ([arXiv:1406.6374](https://arxiv.org/abs/1406.6374)), 2014, [hep-ph]
 
 * **Dark nuclei. II. Nuclear spectroscopy in two-color QCD** ([arXiv:1406.4116](https://arxiv.org/abs/1406.4116)), 2014, [hep-lat]
@@ -1739,6 +1841,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Composite bosonic baryon dark matter on the lattice: SU(4) baryon spectrum and the effective Higgs interaction** ([arXiv:1402.6656](https://arxiv.org/abs/1402.6656)), 2014, [hep-lat]
 
 * **Mechanism for Thermal Relic Dark Matter of Strongly Interacting Massive Particles** ([arXiv:1402.5143](https://arxiv.org/abs/1402.5143)), 2014, [hep-ph]
+
+* **Self-Interacting Dark Matter from a Non-Abelian Hidden Sector** ([arXiv:1402.3629](https://arxiv.org/abs/1402.3629)), 2014, [hep-ph]
 
 * **Probes for 4th generation constituents of dark atoms in Higgs boson studies at the LHC** ([arXiv:1402.0180](https://arxiv.org/abs/1402.0180)), 2014, [hep-ph]
 
@@ -1776,6 +1880,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Resonant annihilation of long-lived massive colored particles through hadronic collisions** ([arXiv:1112.0860](https://arxiv.org/abs/1112.0860)), 2011, [hep-ph]
 
+* **A Solution to the mu/Bmu Problem in Gauge Mediation with Hidden Gauge Symmetry** ([arXiv:1111.1601](https://arxiv.org/abs/1111.1601)), 2011, [hep-ph]
+
 * **Recent Results from Indirect and Direct Dark Matter Searches: Theoretical Scenarios** ([arXiv:1111.1563](https://arxiv.org/abs/1111.1563)), 2011, [hep-ph]
 
 * **Accelerator probes for new stable quarks** ([arXiv:1111.3578](https://arxiv.org/abs/1111.3578)), 2011, [hep-ex]
@@ -1783,6 +1889,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark Matter Jets at the LHC** ([arXiv:1109.6009](https://arxiv.org/abs/1109.6009)), 2011, [hep-ph]
 
 * **Interfering Composite Asymmetric Dark Matter for DAMA and CoGeNT** ([arXiv:1105.5431](https://arxiv.org/abs/1105.5431)), 2011, [hep-ph]
+
+* **WIMPless Dark Matter from Non-Abelian Hidden Sectors with Anomaly-Mediated Supersymmetry Breaking** ([arXiv:1102.0282](https://arxiv.org/abs/1102.0282)), 2011, [hep-ph]
 
 * **Aidnogenesis via Leptogenesis and Dark Sphalerons** ([arXiv:1009.3159](https://arxiv.org/abs/1009.3159)), 2010, [hep-ph]
 
@@ -1801,6 +1909,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Proceedings, 12th Workshop on What Comes Beyond the Standard Models?** ([arXiv:0912.4532](https://arxiv.org/abs/0912.4532)), 2009, [hep-ph]
 
 * **Quirky Composite Dark Matter** ([arXiv:0909.2034](https://arxiv.org/abs/0909.2034)), 2009, [hep-ph]
+
+* **Dark Matter Through the Neutrino Portal** ([arXiv:0908.1790](https://arxiv.org/abs/0908.1790)), 2009, [hep-ph]
 
 * **Some Comments on the `Quirks' Scenario** ([arXiv:0907.4932](https://arxiv.org/abs/0907.4932)), 2009, [hep-ph]
 
@@ -1823,7 +1933,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Experimental & Phenomenology
 
-## Experimental (59 papers)
+## Experimental (61 papers)
 
 * **Search for emerging jets in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS experiment** ([arXiv:2510.12347](https://arxiv.org/abs/2510.12347)), 2025, [hep-ex]
 
@@ -1845,9 +1955,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Learning to Reconstruct Quirky Tracks** ([arXiv:2410.00269](https://arxiv.org/abs/2410.00269)), 2024, [hep-ex]
 
+* **Search for light long-lived particles decaying to displaced jets in proton–proton collisions at $\sqrt{s} = 13.6~\textrm{TeV}$** ([arXiv:2409.10806](https://arxiv.org/abs/2409.10806)), 2024, [hep-ex]
+
 * **Search for dark mesons decaying to top and bottom quarks in proton-proton collisions at $ \sqrt{\textrm{s}} $ = 13 TeV with the ATLAS detector** ([arXiv:2405.20061](https://arxiv.org/abs/2405.20061)), 2024, [hep-ex]
 
 * **Dark sector searches with the CMS experiment** ([arXiv:2405.13778](https://arxiv.org/abs/2405.13778)), 2024, [hep-ex]
+
+* **Search for Vector-like Quark, Heavy Neutral Lepton and Long-lived Particles at ATLAS and CMS** ([arXiv:2405.08782](https://arxiv.org/abs/2405.08782)), 2024, [hep-ex]
 
 * **Sparks in the Dark** ([arXiv:2404.04138](https://arxiv.org/abs/2404.04138)), 2024, [hep-ex]
 
@@ -1943,7 +2057,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Search for long-lived particles decaying into electron or photon pairs with the D0 detector** ([arXiv:0806.2223](https://arxiv.org/abs/0806.2223)), 2008, [hep-ex]
 
-## New Signatures (42 papers)
+## New Signatures (43 papers)
 
 * **Search for new physics in final states with semivisible jets or anomalous signatures using the ATLAS detector** ([arXiv:2505.01634](https://arxiv.org/abs/2505.01634)), 2025, [hep-ex]
 
@@ -1956,6 +2070,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Phenomenology of photons-enriched semi-visible jets** ([arXiv:2407.08276](https://arxiv.org/abs/2407.08276)), 2024, [hep-ph]
 
 * **Dark sector searches with the CMS experiment** ([arXiv:2405.13778](https://arxiv.org/abs/2405.13778)), 2024, [hep-ex]
+
+* **Search for Vector-like Quark, Heavy Neutral Lepton and Long-lived Particles at ATLAS and CMS** ([arXiv:2405.08782](https://arxiv.org/abs/2405.08782)), 2024, [hep-ex]
 
 * **Topological Portal to the Dark Sector** ([arXiv:2401.09528](https://arxiv.org/abs/2401.09528)), 2024, [hep-ph]
 
@@ -2029,7 +2145,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
-## Reinterpretation (68 papers)
+## Reinterpretation (75 papers)
 
 * **Sub-GeV Dark Matter Under Pressure from Direct Detection** ([arXiv:2507.15956](https://arxiv.org/abs/2507.15956)), 2025, [hep-ph]
 
@@ -2045,7 +2161,11 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Prompt searches for feebly interacting particles at the LHC** ([arXiv:2412.06297](https://arxiv.org/abs/2412.06297)), 2024, [hep-ex]
 
+* **Search for light long-lived particles decaying to displaced jets in proton–proton collisions at $\sqrt{s} = 13.6~\textrm{TeV}$** ([arXiv:2409.10806](https://arxiv.org/abs/2409.10806)), 2024, [hep-ex]
+
 * **Grand unified theory framework for accidental composite dark matter** ([arXiv:2407.20591](https://arxiv.org/abs/2407.20591)), 2024, [hep-ph]
+
+* **Dark matter from dark glueball dominance** ([arXiv:2406.18635](https://arxiv.org/abs/2406.18635)), 2024, [hep-ph]
 
 * **Invisible and semi-invisible decays of bottom baryons*** ([arXiv:2404.04337](https://arxiv.org/abs/2404.04337)), 2024, [hep-ph]
 
@@ -2076,6 +2196,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Forecasting dark showers at Belle II** ([arXiv:2203.08824](https://arxiv.org/abs/2203.08824)), 2022, [hep-ph]
 
 * **Strong constraints on decay and annihilation of dark matter from heating of gas-rich dwarf galaxies** ([arXiv:2111.08025](https://arxiv.org/abs/2111.08025)), 2021, [hep-ph]
+
+* **Hidden dark matter from Starobinsky inflation** ([arXiv:2105.13358](https://arxiv.org/abs/2105.13358)), 2021, [hep-ph]
 
 * **Charming ALPs** ([arXiv:2101.07803](https://arxiv.org/abs/2101.07803)), 2021, [hep-ph]
 
@@ -2123,6 +2245,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Search for Double Charged Particles as Direct Test for Dark Atom Constituents** ([arXiv:1711.10773](https://arxiv.org/abs/1711.10773)), 2017, [hep-ph]
 
+* **Cosmological Bounds on Non-Abelian Dark Forces** ([arXiv:1710.06447](https://arxiv.org/abs/1710.06447)), 2017, [hep-ph]
+
 * **Cosmological Dark Matter in a Conformal Model** ([arXiv:1709.02905](https://arxiv.org/abs/1709.02905)), 2017, [hep-ph]
 
 * **Probing Sub-GeV Mass Strongly Interacting Dark Matter with a Low-Threshold Surface Experiment** ([arXiv:1708.01484](https://arxiv.org/abs/1708.01484)), 2017, [hep-ph]
@@ -2133,7 +2257,11 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dynamical Dark Matter from Strongly-Coupled Dark Sectors** ([arXiv:1610.04112](https://arxiv.org/abs/1610.04112)), 2016, [hep-ph]
 
+* **Neutral Naturalness with Bifundamental Gluinos** ([arXiv:1610.00342](https://arxiv.org/abs/1610.00342)), 2016, [hep-ph]
+
 * **Impeded Dark Matter** ([arXiv:1609.02147](https://arxiv.org/abs/1609.02147)), 2016, [hep-ph]
+
+* **String Theory and the Dark Glueball Problem** ([arXiv:1609.02151](https://arxiv.org/abs/1609.02151)), 2016, [hep-ph]
 
 * **Diphotons at the $Z$-pole in Models of the 750 GeV Resonance Decaying to Axion-Like Particles** ([arXiv:1606.06375](https://arxiv.org/abs/1606.06375)), 2016, [hep-ph]
 
@@ -2159,6 +2287,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Quirks at the Tevatron and Beyond** ([arXiv:1106.2569](https://arxiv.org/abs/1106.2569)), 2011, [hep-ph]
 
+* **WIMPless Dark Matter from Non-Abelian Hidden Sectors with Anomaly-Mediated Supersymmetry Breaking** ([arXiv:1102.0282](https://arxiv.org/abs/1102.0282)), 2011, [hep-ph]
+
 * **Axion-Assisted Electroweak Baryogenesis** ([arXiv:1007.0019](https://arxiv.org/abs/1007.0019)), 2010, [hep-ph]
 
 * **Effect of Long-lived Strongly Interacting Relic Particles on Big Bang Nucleosynthesis** ([arXiv:0906.3516](https://arxiv.org/abs/0906.3516)), 2009, [hep-ph]
@@ -2167,7 +2297,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Echoes of a hidden valley at hadron colliders** ([arXiv:hep-ph/0604261](https://arxiv.org/abs/hep-ph/0604261)), 2006, [hep-ph]
 
-## Phenomenology (386 papers)
+## Phenomenology (414 papers)
 
 * **Probing the Higgs Portal to a Strongly-Interacting Dark Sector at the FCC-ee** ([arXiv:2510.17675](https://arxiv.org/abs/2510.17675)), 2025, [hep-ph]
 
@@ -2207,7 +2337,11 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Composite asymmetric dark matter with a dark photon portal: Multimessenger tests** ([arXiv:2412.15641](https://arxiv.org/abs/2412.15641)), 2024, [hep-ph]
 
+* **Hyperstealth dark matter and long-lived particles** ([arXiv:2412.14540](https://arxiv.org/abs/2412.14540)), 2024, [hep-ph]
+
 * **Pseudo-FIMP dark matter in presence of a SIMP** ([arXiv:2411.15108](https://arxiv.org/abs/2411.15108)), 2024, [hep-ph]
+
+* **Glueball Axion-Like Particles** ([arXiv:2411.11716](https://arxiv.org/abs/2411.11716)), 2024, [hep-ph]
 
 * **Quantum similarity learning for anomaly detection** ([arXiv:2411.09927](https://arxiv.org/abs/2411.09927)), 2024, [hep-ph]
 
@@ -2239,6 +2373,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Phenomenology of photons-enriched semi-visible jets** ([arXiv:2407.08276](https://arxiv.org/abs/2407.08276)), 2024, [hep-ph]
 
+* **Dark matter from dark glueball dominance** ([arXiv:2406.18635](https://arxiv.org/abs/2406.18635)), 2024, [hep-ph]
+
 * **Thermal dark matter with low-temperature reheating** ([arXiv:2406.17039](https://arxiv.org/abs/2406.17039)), 2024, [hep-ph]
 
 * **SHIFT@LHC: Searches for new physics with shifted interaction on a fixed target at the Large Hadron Collider** ([arXiv:2406.08557](https://arxiv.org/abs/2406.08557)), 2024, [hep-ph]
@@ -2267,6 +2403,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring Composite Dark Matter with an SU(4) gauge theory with 1 fermion flavor** ([arXiv:2402.07362](https://arxiv.org/abs/2402.07362)), 2024, [hep-lat]
 
+* **A comparative lattice analysis of $SU(2)$ dark glueballs** ([arXiv:2402.03959](https://arxiv.org/abs/2402.03959)), 2024, [hep-lat]
+
 * **Early matter domination at colliders: Long live the glueball!** ([arXiv:2401.12278](https://arxiv.org/abs/2401.12278)), 2024, [hep-ph]
 
 * **Even SIMP miracles are possible** ([arXiv:2401.12283](https://arxiv.org/abs/2401.12283)), 2024, [hep-ph]
@@ -2291,6 +2429,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Heavy baryon dark matter from <math display="inline"><mrow><mi>S</mi><mi>U</mi><mo stretchy="false">(</mo><mi>N</mi><mo stretchy="false">)</mo></mrow></math> confinement: Bubble wall velocity and boundary effects** ([arXiv:2311.00029](https://arxiv.org/abs/2311.00029)), 2023, [hep-ph]
 
+* **Dark sector glueballs at the LHC** ([arXiv:2310.13731](https://arxiv.org/abs/2310.13731)), 2023, [hep-ph]
+
 * **Di-Higgs Signatures in Neutral Naturalness** ([arXiv:2310.02317](https://arxiv.org/abs/2310.02317)), 2023, [hep-ph]
 
 * **Nonabelian kinetic mixing in a confining phase: a framework for composite dark photons** ([arXiv:2309.13105](https://arxiv.org/abs/2309.13105)), 2023, [hep-ph]
@@ -2312,6 +2452,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Emerging jet probes of strongly interacting dark sectors** ([arXiv:2307.04847](https://arxiv.org/abs/2307.04847)), 2023, [hep-ph]
 
 * **Spin-1 thermal targets for dark matter searches at beam dump and fixed target experiments** ([arXiv:2307.02207](https://arxiv.org/abs/2307.02207)), 2023, [hep-ph]
+
+* **NANOGrav signal from a dark conformal phase transition** ([arXiv:2306.17086](https://arxiv.org/abs/2306.17086)), 2023, [hep-ph]
 
 * **The influence of supersymmetric quirk particles on the W mass increment and the muon g-2 anomaly** ([arXiv:2306.02542](https://arxiv.org/abs/2306.02542)), 2023, [hep-ph]
 
@@ -2365,6 +2507,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exploring the cosmological dark matter coincidence using infrared fixed points** ([arXiv:2210.11011](https://arxiv.org/abs/2210.11011)), 2022, [hep-ph]
 
+* **Axion dark matter from first-order phase transition, and very high energy photons from GRB 221009A** ([arXiv:2210.10022](https://arxiv.org/abs/2210.10022)), 2022, [hep-ph]
+
 * **Spectroscopy of $Sp(4)$ lattice gauge theory with $n_f=3$ antisymmetric fermions** ([arXiv:2210.08154](https://arxiv.org/abs/2210.08154)), 2022, [hep-lat]
 
 * **Towards better discrimination and improved modelling of dark-sector showers** ([arXiv:2209.14964](https://arxiv.org/abs/2209.14964)), 2022, [hep-ph]
@@ -2382,6 +2526,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Fate of the first-order chiral phase transition in QCD: Implications for dark QCD studied via a Nambu–Jona-Lasinio model** ([arXiv:2208.03975](https://arxiv.org/abs/2208.03975)), 2022, [hep-ph]
 
 * **An asymmetric SIMP dark matter model** ([arXiv:2207.13373](https://arxiv.org/abs/2207.13373)), 2022, [hep-ph]
+
+* **Glueball Dark Matter Revisited** ([arXiv:2207.13716](https://arxiv.org/abs/2207.13716)), 2022, [hep-ph]
 
 * **Dark matter from a conformal Dark Sector** ([arXiv:2207.10093](https://arxiv.org/abs/2207.10093)), 2022, [hep-ph]
 
@@ -2457,6 +2603,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Asymmetric dark matter may not be light** ([arXiv:2107.03398](https://arxiv.org/abs/2107.03398)), 2021, [hep-ph]
 
+* **Hidden dark matter from Starobinsky inflation** ([arXiv:2105.13358](https://arxiv.org/abs/2105.13358)), 2021, [hep-ph]
+
 * **Unleashing the full power of LHCb to probe stealth new physics** ([arXiv:2105.12668](https://arxiv.org/abs/2105.12668)), 2021, [hep-ph]
 
 * **New sensitivity of LHC measurements to composite dark matter models** ([arXiv:2105.08494](https://arxiv.org/abs/2105.08494)), 2021, [hep-ph]
@@ -2491,6 +2639,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Dark confinement-deconfinement phase transition: a roadmap from Polyakov loop models to gravitational waves** ([arXiv:2101.03795](https://arxiv.org/abs/2101.03795)), 2021, [hep-ph]
 
+* **Gravitational Vector Dark Matter** ([arXiv:2012.12087](https://arxiv.org/abs/2012.12087)), 2020, [hep-ph]
+
 * **Nuclear fusion inside dark matter** ([arXiv:2012.10998](https://arxiv.org/abs/2012.10998)), 2020, [hep-ph]
 
 * **Cosmological and astrophysical probes of dark baryons** ([arXiv:2012.09865](https://arxiv.org/abs/2012.09865)), 2020, [hep-ph]
@@ -2503,6 +2653,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Collider constraints on dark mediators** ([arXiv:2011.13990](https://arxiv.org/abs/2011.13990)), 2020, [hep-ph]
 
+* **Gravitational Production of a Conformal Dark Sector** ([arXiv:2011.10565](https://arxiv.org/abs/2011.10565)), 2020, [hep-ph]
+
 * **Softly shifting away from dark matter direct detection** ([arXiv:2011.06264](https://arxiv.org/abs/2011.06264)), 2020, [hep-ph]
 
 * **On the challenges of searching for GeV-scale long-lived particles at the LHC** ([arXiv:2011.06604](https://arxiv.org/abs/2011.06604)), 2020, [hep-ph]
@@ -2510,6 +2662,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Multi-messenger cosmology of new physics** ([arXiv:2010.14581](https://arxiv.org/abs/2010.14581)), 2020, [hep-ph]
 
 * **Morphology for jet classification** ([arXiv:2010.13469](https://arxiv.org/abs/2010.13469)), 2020, [hep-ph]
+
+* **Exploring the Universe with dark light scalars** ([arXiv:2010.10880](https://arxiv.org/abs/2010.10880)), 2020, [hep-ph]
 
 * **Detecting composite dark matter with long-range and contact interactions in gas clouds** ([arXiv:2010.07240](https://arxiv.org/abs/2010.07240)), 2020, [hep-ph]
 
@@ -2548,6 +2702,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Producing and detecting long-lived particles at different experiments at the LHC** ([arXiv:2004.08820](https://arxiv.org/abs/2004.08820)), 2020, [hep-ph]
 
 * **A Robust Measure of Event Isotropy at Colliders** ([arXiv:2004.06125](https://arxiv.org/abs/2004.06125)), 2020, [hep-ph]
+
+* **Dark Matter in scalar Sp($ \mathcal{N} $) gauge dynamics** ([arXiv:2004.03299](https://arxiv.org/abs/2004.03299)), 2020, [hep-ph]
 
 * **Jet Substructure from Dark Sector Showers** ([arXiv:2004.00631](https://arxiv.org/abs/2004.00631)), 2020, [hep-ph]
 
@@ -2601,6 +2757,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Strongly interacting dark matter and the DAMA signal** ([arXiv:1903.04637](https://arxiv.org/abs/1903.04637)), 2019, [hep-ph]
 
+* **Slightly Ultra-violet Freeze-in a Hidden Gluonic Sector** ([arXiv:1901.10934](https://arxiv.org/abs/1901.10934)), 2019, [hep-ph]
+
 * **Detector-size Upper Bounds on Dark Hadron Lifetime from Cosmology** ([arXiv:1901.09936](https://arxiv.org/abs/1901.09936)), 2019, [hep-ph]
 
 * **Long Live the Higgs Factory: Higgs Decays to Long-Lived Particles at Future Lepton Colliders** ([arXiv:1812.05588](https://arxiv.org/abs/1812.05588)), 2018, [hep-ph]
@@ -2610,6 +2768,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Dark Quark Nuggets** ([arXiv:1810.04360](https://arxiv.org/abs/1810.04360)), 2018, [hep-ph]
 
 * **Baryogenesis and Dark Matter from $B$ Mesons** ([arXiv:1810.00880](https://arxiv.org/abs/1810.00880)), 2018, [hep-ph]
+
+* **Composite Higgs Models with a Hidden Sector** ([arXiv:1809.09667](https://arxiv.org/abs/1809.09667)), 2018, [hep-ph]
 
 * **Dark Matter phenomenology : from simplified WIMP models to refined alternative solutions** ([arXiv:1901.05822](https://arxiv.org/abs/1901.05822)), 2018, [hep-ph]
 
@@ -2626,6 +2786,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Strongly interacting massive particles through the axion portal** ([arXiv:1806.10139](https://arxiv.org/abs/1806.10139)), 2018, [hep-ph]
 
 * **Twin Higgs model with strongly interacting massive particle dark matter** ([arXiv:1805.09345](https://arxiv.org/abs/1805.09345)), 2018, [hep-ph]
+
+* **Dark Glueballs and their Ultralight Axions** ([arXiv:1805.06011](https://arxiv.org/abs/1805.06011)), 2018, [hep-ph]
 
 * **Phenomenology of Self-Interacting Dark Matter in a Matter-Dominated Universe** ([arXiv:1803.08064](https://arxiv.org/abs/1803.08064)), 2018, [hep-ph]
 
@@ -2656,6 +2818,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Search for Double Charged Particles as Direct Test for Dark Atom Constituents** ([arXiv:1711.10773](https://arxiv.org/abs/1711.10773)), 2017, [hep-ph]
 
 * **Lepton-portal Dark Matter in Hidden Valley model and the DAMPE recent results** ([arXiv:1711.11058](https://arxiv.org/abs/1711.11058)), 2017, [hep-ph]
+
+* **Cosmological Bounds on Non-Abelian Dark Forces** ([arXiv:1710.06447](https://arxiv.org/abs/1710.06447)), 2017, [hep-ph]
 
 * **Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly** ([arXiv:1710.03906](https://arxiv.org/abs/1710.03906)), 2017, [hep-ph]
 
@@ -2695,6 +2859,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Axionlike particle assisted strongly interacting massive particle** ([arXiv:1704.04505](https://arxiv.org/abs/1704.04505)), 2017, [hep-ph]
 
+* **Cosmic selection rule for the glueball dark matter relic density** ([arXiv:1704.02347](https://arxiv.org/abs/1704.02347)), 2017, [hep-ph]
+
 * **Dark Kinetic Heating of Neutron Stars and An Infrared Window On WIMPs, SIMPs, and Pure Higgsinos** ([arXiv:1704.01577](https://arxiv.org/abs/1704.01577)), 2017, [hep-ph]
 
 * **Gravitational wave from dark sector with dark pion** ([arXiv:1704.00219](https://arxiv.org/abs/1704.00219)), 2017, [hep-ph]
@@ -2707,6 +2873,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Composite Higgs Dynamics on the Lattice** ([arXiv:1612.09336](https://arxiv.org/abs/1612.09336)), 2016, [hep-lat]
 
+* **A Sommerfeld Toolbox for Colored Dark Sectors** ([arXiv:1612.02825](https://arxiv.org/abs/1612.02825)), 2016, [hep-ph]
+
 * **Triggering Soft Bombs at the LHC** ([arXiv:1612.00850](https://arxiv.org/abs/1612.00850)), 2016, [hep-ph]
 
 * **On thermal production of self-interacting dark matter** ([arXiv:1610.04748](https://arxiv.org/abs/1610.04748)), 2016, [hep-ph]
@@ -2717,7 +2885,11 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Can Tonne-Scale Direct Detection Experiments Discover Nuclear Dark Matter?** ([arXiv:1610.01840](https://arxiv.org/abs/1610.01840)), 2016, [hep-ph]
 
+* **Neutral Naturalness with Bifundamental Gluinos** ([arXiv:1610.00342](https://arxiv.org/abs/1610.00342)), 2016, [hep-ph]
+
 * **Unified composite scenario for inflation and dark matter in the Nambu–Jona-Lasinio model** ([arXiv:1609.04698](https://arxiv.org/abs/1609.04698)), 2016, [hep-ph]
+
+* **String Theory and the Dark Glueball Problem** ([arXiv:1609.02151](https://arxiv.org/abs/1609.02151)), 2016, [hep-ph]
 
 * **Dark Sectors 2016 Workshop: Community Report** ([arXiv:1608.08632](https://arxiv.org/abs/1608.08632)), 2016, [hep-ph]
 
@@ -2731,9 +2903,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **LHC Signatures of WIMP-triggered Baryogenesis** ([arXiv:1605.08736](https://arxiv.org/abs/1605.08736)), 2016, [hep-ph]
 
+* **Non-Abelian Dark Forces and the Relic Densities of Dark Glueballs** ([arXiv:1605.08048](https://arxiv.org/abs/1605.08048)), 2016, [hep-ph]
+
 * **Explaining the 750 GeV diphoton excess with a colored scalar charged under a new confining gauge interaction** ([arXiv:1604.06180](https://arxiv.org/abs/1604.06180)), 2016, [hep-ph]
 
 * **Light Chiral Dark Sector** ([arXiv:1603.03430](https://arxiv.org/abs/1603.03430)), 2016, [hep-ph]
+
+* **Hidden SU(N) Glueball Dark Matter** ([arXiv:1602.00714](https://arxiv.org/abs/1602.00714)), 2016, [hep-ph]
 
 * **Gamma-rays from Dark Showers with Twin Higgs Models** ([arXiv:1601.07556](https://arxiv.org/abs/1601.07556)), 2016, [hep-ph]
 
@@ -2817,6 +2993,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Probing Baryogenesis with Displaced Vertices at the LHC** ([arXiv:1409.6729](https://arxiv.org/abs/1409.6729)), 2014, [hep-ph]
 
+* **Strongly interacting dark matter: Self-interactions and keV lines** ([arXiv:1408.6532](https://arxiv.org/abs/1408.6532)), 2014, [hep-ph]
+
 * **Dark nuclei. II. Nuclear spectroscopy in two-color QCD** ([arXiv:1406.4116](https://arxiv.org/abs/1406.4116)), 2014, [hep-lat]
 
 * **The Physics Programme Of The MoEDAL Experiment At The LHC** ([arXiv:1405.7662](https://arxiv.org/abs/1405.7662)), 2014, [hep-ph]
@@ -2826,6 +3004,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Composite bosonic baryon dark matter on the lattice: SU(4) baryon spectrum and the effective Higgs interaction** ([arXiv:1402.6656](https://arxiv.org/abs/1402.6656)), 2014, [hep-lat]
 
 * **Mechanism for Thermal Relic Dark Matter of Strongly Interacting Massive Particles** ([arXiv:1402.5143](https://arxiv.org/abs/1402.5143)), 2014, [hep-ph]
+
+* **Self-Interacting Dark Matter from a Non-Abelian Hidden Sector** ([arXiv:1402.3629](https://arxiv.org/abs/1402.3629)), 2014, [hep-ph]
 
 * **Probes for 4th generation constituents of dark atoms in Higgs boson studies at the LHC** ([arXiv:1402.0180](https://arxiv.org/abs/1402.0180)), 2014, [hep-ph]
 
@@ -2855,6 +3035,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Exotic Spectroscopy and Decays: Prospects for Colliders** ([arXiv:1112.4629](https://arxiv.org/abs/1112.4629)), 2011, [hep-ph]
 
+* **A Solution to the mu/Bmu Problem in Gauge Mediation with Hidden Gauge Symmetry** ([arXiv:1111.1601](https://arxiv.org/abs/1111.1601)), 2011, [hep-ph]
+
 * **Recent Results from Indirect and Direct Dark Matter Searches: Theoretical Scenarios** ([arXiv:1111.1563](https://arxiv.org/abs/1111.1563)), 2011, [hep-ph]
 
 * **Dark Matter Jets at the LHC** ([arXiv:1109.6009](https://arxiv.org/abs/1109.6009)), 2011, [hep-ph]
@@ -2866,6 +3048,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Chiral Quirkonium Decays** ([arXiv:1106.3101](https://arxiv.org/abs/1106.3101)), 2011, [hep-ph]
 
 * **Interfering Composite Asymmetric Dark Matter for DAMA and CoGeNT** ([arXiv:1105.5431](https://arxiv.org/abs/1105.5431)), 2011, [hep-ph]
+
+* **WIMPless Dark Matter from Non-Abelian Hidden Sectors with Anomaly-Mediated Supersymmetry Breaking** ([arXiv:1102.0282](https://arxiv.org/abs/1102.0282)), 2011, [hep-ph]
 
 * **Destruction of $^7$Be in big bang nucleosynthesis via long-lived sub-strongly interacting massive particles as a solution to the Li problem** ([arXiv:1012.0435](https://arxiv.org/abs/1012.0435)), 2010, [hep-ph]
 
@@ -2894,6 +3078,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Pure-glue hidden valleys through the Higgs portal** ([arXiv:0911.5616](https://arxiv.org/abs/0911.5616)), 2009, [hep-ph]
 
 * **Quirky Composite Dark Matter** ([arXiv:0909.2034](https://arxiv.org/abs/0909.2034)), 2009, [hep-ph]
+
+* **Dark Matter Through the Neutrino Portal** ([arXiv:0908.1790](https://arxiv.org/abs/0908.1790)), 2009, [hep-ph]
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
@@ -2958,7 +3144,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Morphology for jet classification** ([arXiv:2010.13469](https://arxiv.org/abs/2010.13469)), 2020, [hep-ph]
 
-## Lepton Colliders (11 papers)
+## Lepton Colliders (12 papers)
 
 * **Probing the Higgs Portal to a Strongly-Interacting Dark Sector at the FCC-ee** ([arXiv:2510.17675](https://arxiv.org/abs/2510.17675)), 2025, [hep-ph]
 
@@ -2975,6 +3161,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **A new Higgs effective field theory and the new no-lose theorem** ([arXiv:2111.12585](https://arxiv.org/abs/2111.12585)), 2021, [hep-ph]
 
 * **Hidden Valley searches at CLIC** ([arXiv:1812.03723](https://arxiv.org/abs/1812.03723)), 2018, [hep-ex]
+
+* **Composite Higgs Models with a Hidden Sector** ([arXiv:1809.09667](https://arxiv.org/abs/1809.09667)), 2018, [hep-ph]
 
 * **Dark spectroscopy at lepton colliders** ([arXiv:1706.05008](https://arxiv.org/abs/1706.05008)), 2017, [hep-ph]
 
