@@ -195,22 +195,20 @@ h2.section-header {
 # Dark Showers Papers - Living Review
 
 <nav class="nav-tabs">
-  <a href="{{ '/' | relative_url }}" class="nav-tab active">📚 Papers</a>
-  <a href="{{ '/plots' | relative_url }}" class="nav-tab">📊 Plots</a>
+  <a href="{{ '/' | relative_url }}" class="nav-tab active"> Papers</a>
+  <a href="{{ '/plots' | relative_url }}" class="nav-tab"> Plots</a>
 </nav>
 
-*Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. They connect different areas of theoretical physics with each other and arise from well motivated theoretical scenarios. Below is a list of papers concerning dark showers.*
+*Dark showers sit at a rich intersection of theory, phenomenology and 
+experimental efforts. They connect different areas of theoretical physics 
+with each other and arise from well motivated theoretical scenarios. 
+Below is a list of papers concerning dark showers.*
 
 <div class="stats-box">
 <strong>Purpose:</strong> Collect and categorize dark showers references automatically<br>
 <strong>Last updated:</strong> {{ site.time | date: "%B %d, %Y at %H:%M UTC" }}<br>
 <strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">ds-wg/DS_living_review</a>
 </div>
-
-<nav class="nav-tabs">
-  <a href="{{ '/' | relative_url }}" class="nav-tab active">📚 Papers</a>
-  <a href="{{ '/plots' | relative_url }}" class="nav-tab">📊 Plots</a>
-</nav>
 
 ---
 ## Paper Categories
