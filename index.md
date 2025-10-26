@@ -10,6 +10,19 @@ details {
   border-radius: 6px;
   padding: 0;
 }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #2c3e50;
+  border-bottom: 3px solid #0366d6;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
 .tab-button {
   background: white;
   border: 2px solid #e1e4e8;
