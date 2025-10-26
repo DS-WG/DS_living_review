@@ -212,6 +212,8 @@ Below is a list of papers concerning dark showers.*
 
 ---
 ## Paper Categories
+*Note that this classification is not exclusive; 
+a single paper may fall into several categories at once.*
 
 <div id="papers-container">
 <p><em>Loading papers...</em></p>
