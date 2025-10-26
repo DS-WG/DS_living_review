@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dark Showers Papers - Living Review
+title: Dark Showers - Living Review
 ---
 
 <style>
