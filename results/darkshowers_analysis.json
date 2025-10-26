@@ -39,9 +39,10 @@
       "dark glueballs",
       "hidden glueball",
       "hidden glueballs",
-      "strongly coupled dark matter"
+      "strongly coupled dark matter",
+      "semi visible jets"
     ],
-    "generated_on": "2025-10-26T10:56:50.910163"
+    "generated_on": "2025-10-26T15:22:09.620368"
   },
   "summary_statistics": {
     "total_papers": 563,
@@ -86,11 +87,10 @@
       "dark hadron": 22,
       "dark confinement": 10,
       "emerging jets": 14,
-      "soft-bomb": 4,
+      "suep": 9,
       "dark glueballs": 16,
       "strongly coupled dark matter": 2,
-      "semi-visible jets": 17,
-      "suep": 5
+      "semi-visible jets": 17
     }
   },
   "papers": [
@@ -2441,7 +2441,7 @@
       ],
       "matched_keywords": [
         "hidden valley",
-        "soft-bomb"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/1501696"
     },
@@ -4058,7 +4058,7 @@
         "Schott, Matthias"
       ],
       "matched_keywords": [
-        "soft-bomb"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/1766622"
     },
@@ -4273,7 +4273,7 @@
         "Tanedo, Philip"
       ],
       "matched_keywords": [
-        "soft-bomb"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/1738667"
     },
@@ -5100,7 +5100,7 @@
         "Tanedo, Philip"
       ],
       "matched_keywords": [
-        "soft-bomb"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/1782671"
     },
