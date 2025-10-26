@@ -9,6 +9,9 @@ markdown: kramdown
 highlighter: rouge
 theme: minima
 
+# Disable theme header navigation
+header_pages: []
+
 # Plugins
 plugins:
   - jekyll-feed
