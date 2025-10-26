@@ -23,6 +23,39 @@ h1 {
   margin-bottom: 20px;
 }
 
+.nav-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 30px 0;
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 0;
+}
+
+.nav-tab {
+  padding: 12px 28px;
+  font-size: 1.05em;
+  font-weight: 600;
+  text-decoration: none;
+  color: #586069;
+  border: 2px solid transparent;
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  transition: all 0.3s;
+  background: white;
+}
+
+.nav-tab:hover {
+  background-color: #f6f8fa;
+  border-color: #e1e4e8;
+  color: #0366d6;
+}
+
+.nav-tab.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-color: transparent;
+}
+
 .tab-button {
   background: white;
   border: 2px solid #e1e4e8;
@@ -147,6 +180,7 @@ img {
   text-decoration: underline;
 }
 
+
 h2.section-header {
   margin-top: 2em;
   border-bottom: 2px solid #e1e4e8;
@@ -164,8 +198,10 @@ h2.section-header {
 <strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">ds-wg/DS_living_review</a>
 </div>
 
-**Navigation:** [View Plots & Visualizations]({{ "/plots" | relative_url }})
-
+<nav class="nav-tabs">
+  <a href="{{ '/' | relative_url }}" class="nav-tab active">📚 Papers</a>
+  <a href="{{ '/plots' | relative_url }}" class="nav-tab">📊 Plots</a>
+</nav>
 
 ---
 ## Paper Categories

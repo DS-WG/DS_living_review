@@ -3,7 +3,10 @@ layout: default
 title: Plots & Visualizations
 ---
 
-**Navigation:** [Back to Papers]({{ "/" | relative_url }})
+<nav class="nav-tabs">
+  <a href="{{ '/' | relative_url }}" class="nav-tab">📚 Papers</a>
+  <a href="{{ '/plots' | relative_url }}" class="nav-tab active">📊 Plots</a>
+</nav>
 
 ---
 # Plots & Visualizations
