@@ -23,6 +23,10 @@ h1 {
   margin-bottom: 20px;
 }
 
+.site-header {
+  display: none;
+}
+
 .nav-tabs {
   display: flex;
   gap: 8px;
