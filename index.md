@@ -10,6 +10,29 @@ details {
   border-radius: 6px;
   padding: 0;
 }
+.tab-button {
+  background: white;
+  border: 2px solid #e1e4e8;
+  border-bottom: none;
+  padding: 12px 28px;
+  font-size: 1.05em;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 4px;
+  border-radius: 8px 8px 0 0;
+  transition: all 0.3s;
+}
+
+.tab-button:hover {
+  background-color: #f6f8fa;
+  border-color: #0366d6;
+}
+
+.tab-button.active {
+  background-color: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
 
 summary {
   cursor: pointer;
@@ -56,11 +79,20 @@ details[open] summary {
 }
 
 .paper-content li {
-  margin-bottom: 10px;
-  padding: 10px;
-  background: #f9f9f9;
-  border-left: 3px solid #0366d6;
-  border-radius: 3px;
+  margin-bottom: 12px;
+  padding: 14px 16px;
+  background: white;
+  border: 1px solid #e1e4e8;
+  border-left: 4px solid #0366d6;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: all 0.2s;
+}
+
+.paper-content li:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-left-color: #0969da;
+  transform: translateX(2px);
 }
 
 img {
