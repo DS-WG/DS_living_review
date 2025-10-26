@@ -1639,7 +1639,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
-## Reinterpretation (37 papers)
+## Reinterpretation (38 papers)
 
 * **Sub-GeV Dark Matter Under Pressure from Direct Detection** ([arXiv:2507.15956](https://arxiv.org/abs/2507.15956)), 2025, [hep-ph]
 
@@ -1702,6 +1702,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Explanation of the 511 keV line: cascade annihilating dark matter with the$^8$ Be anomaly** ([arXiv:1710.03906](https://arxiv.org/abs/1710.03906)), 2017, [hep-ph]
 
 * **Constraining Quirky Tracks with Conventional Searches** ([arXiv:1703.00912](https://arxiv.org/abs/1703.00912)), 2017, [hep-ph]
+
+* **Impeded Dark Matter** ([arXiv:1609.02147](https://arxiv.org/abs/1609.02147)), 2016, [hep-ph]
 
 * **Experimental Considerations Motivated by the Diphoton Excess at the LHC** ([arXiv:1512.05775](https://arxiv.org/abs/1512.05775)), 2015, [hep-ph]
 
