@@ -4,7 +4,7 @@
 
 The purpose of this note is to collect references for dark showers. Papers are automatically categorized using keyword matching on titles and abstracts. Papers may appear in multiple categories if relevant.
 
-**Last updated:** 2025-10-25
+**Last updated:** 2025-10-26
 **Search period:** 2006-01-01 to present
 **Total papers found:** 406
 **Search categories:** hep-ph, hep-ex, hep-th, hep-lat
@@ -56,7 +56,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Lattice QCD
 
-## Lattice (252 papers)
+## Lattice (251 papers)
 
 * **$\text{Dark}_{CP}$ Mesogenesis and New Implications for Collider Searches** ([arXiv:2509.18246](https://arxiv.org/abs/2509.18246)), 2025, [hep-ph]
 
@@ -363,8 +363,6 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Light dark matter showering under broken dark $U(1)$ — revisited** ([arXiv:1807.00530](https://arxiv.org/abs/1807.00530)), 2018, [hep-ph]
 
 * **Searching for new physics with three-particle correlations in $pp$ collisions at the LHC** ([arXiv:1802.06703](https://arxiv.org/abs/1802.06703)), 2018, [hep-ph]
-
-* **Comprehensive asymmetric dark matter model** ([arXiv:1801.05561](https://arxiv.org/abs/1801.05561)), 2018, [hep-ph]
 
 * **Tagging a jet from a dark sector with Jet-substructures at colliders** ([arXiv:1712.09279](https://arxiv.org/abs/1712.09279)), 2017, [hep-ph]
 
@@ -1527,7 +1525,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Search for long-lived particles decaying into electron or photon pairs with the D0 detector** ([arXiv:0806.2223](https://arxiv.org/abs/0806.2223)), 2008, [hep-ex]
 
-## New Signatures (32 papers)
+## New Signatures (31 papers)
 
 * **Search for new physics in final states with semivisible jets or anomalous signatures using the ATLAS detector** ([arXiv:2505.01634](https://arxiv.org/abs/2505.01634)), 2025, [hep-ex]
 
@@ -1565,8 +1563,6 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Searches for new physics with unconventional signatures at ATLAS and CMS** ([arXiv:1912.04180](https://arxiv.org/abs/1912.04180)), 2019, [hep-ex]
 
-* **Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider** ([arXiv:1903.04497](https://arxiv.org/abs/1903.04497)), 2019, [hep-ex]
-
 * **Dark matter in Hidden Valley models with stable and unstable light dark mesons** ([arXiv:1809.10152](https://arxiv.org/abs/1809.10152)), 2018, [hep-ph]
 
 * **Signatures of New Physics Versus the Ridge Phenomenon in Hadron–Hadron Collisions at the LHC** ([arXiv:1808.01463](https://arxiv.org/abs/1808.01463)), 2018, [hep-ph]
@@ -1593,7 +1589,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
-## Reinterpretation (49 papers)
+## Reinterpretation (48 papers)
 
 * **Stopping Dark Mesons in Their Tracks with Long-Lived Particle and Resonant Signatures** ([arXiv:2507.13430](https://arxiv.org/abs/2507.13430)), 2025, [hep-ph]
 
@@ -1668,8 +1664,6 @@ The purpose of this note is to collect references for dark showers. Papers are a
 * **Cosmological Dark Matter in a Conformal Model** ([arXiv:1709.02905](https://arxiv.org/abs/1709.02905)), 2017, [hep-ph]
 
 * **Dynamical Dark Matter from Strongly-Coupled Dark Sectors** ([arXiv:1610.04112](https://arxiv.org/abs/1610.04112)), 2016, [hep-ph]
-
-* **Impeded Dark Matter** ([arXiv:1609.02147](https://arxiv.org/abs/1609.02147)), 2016, [hep-ph]
 
 * **Diphotons at the $Z$-pole in Models of the 750 GeV Resonance Decaying to Axion-Like Particles** ([arXiv:1606.06375](https://arxiv.org/abs/1606.06375)), 2016, [hep-ph]
 
@@ -2260,11 +2254,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 # Specialized
 
-## Machine Learning (28 papers)
+## Machine Learning (34 papers)
 
 * **Probing the Higgs Portal to a Strongly-Interacting Dark Sector at the FCC-ee** ([arXiv:2510.17675](https://arxiv.org/abs/2510.17675)), 2025, [hep-ph]
 
 * **Search for emerging jets in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS experiment** ([arXiv:2510.12347](https://arxiv.org/abs/2510.12347)), 2025, [hep-ex]
+
+* **$\text{Dark}_{CP}$ Mesogenesis and New Implications for Collider Searches** ([arXiv:2509.18246](https://arxiv.org/abs/2509.18246)), 2025, [hep-ph]
 
 * **Search for new physics in final states with semivisible jets or anomalous signatures using the ATLAS detector** ([arXiv:2505.01634](https://arxiv.org/abs/2505.01634)), 2025, [hep-ex]
 
@@ -2296,6 +2292,8 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Optimal mass variables for semivisible jets** ([arXiv:2303.16253](https://arxiv.org/abs/2303.16253)), 2023, [hep-ph]
 
+* **Scouting for dark showers at CMS and LHCb** ([arXiv:2303.04167](https://arxiv.org/abs/2303.04167)), 2023, [hep-ph]
+
 * **Autoencoders for semivisible jet detection** ([arXiv:2112.02864](https://arxiv.org/abs/2112.02864)), 2021, [hep-ph]
 
 * **Unsupervised hadronic SUEP at the LHC** ([arXiv:2107.12379](https://arxiv.org/abs/2107.12379)), 2021, [hep-ph]
@@ -2306,9 +2304,17 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Casting a graph net to catch dark showers** ([arXiv:2006.08639](https://arxiv.org/abs/2006.08639)), 2020, [hep-ph]
 
+* **Asymmetric matter from a dark first-order phase transition** ([arXiv:1911.12342](https://arxiv.org/abs/1911.12342)), 2019, [hep-ph]
+
+* **Searching for long-lived particles beyond the Standard Model at the Large Hadron Collider** ([arXiv:1903.04497](https://arxiv.org/abs/1903.04497)), 2019, [hep-ex]
+
 * **Search for new particles decaying to a jet and an emerging jet** ([arXiv:1810.10069](https://arxiv.org/abs/1810.10069)), 2018, [hep-ex]
 
 * **QCD or What?** ([arXiv:1808.08979](https://arxiv.org/abs/1808.08979)), 2018, [hep-ph]
+
+* **Comprehensive asymmetric dark matter model** ([arXiv:1801.05561](https://arxiv.org/abs/1801.05561)), 2018, [hep-ph]
+
+* **Impeded Dark Matter** ([arXiv:1609.02147](https://arxiv.org/abs/1609.02147)), 2016, [hep-ph]
 
 * **Search for long-lived, weakly interacting particles that decay to displaced hadronic jets in proton-proton collisions at $\sqrt{s}=8$ TeV with the ATLAS detector** ([arXiv:1504.03634](https://arxiv.org/abs/1504.03634)), 2015, [hep-ex]
 
