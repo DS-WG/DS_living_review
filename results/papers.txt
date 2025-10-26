@@ -1639,11 +1639,13 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC** ([arXiv:0908.3319](https://arxiv.org/abs/0908.3319)), 2009, [hep-ph]
 
-## Reinterpretation (38 papers)
+## Reinterpretation (39 papers)
 
 * **Sub-GeV Dark Matter Under Pressure from Direct Detection** ([arXiv:2507.15956](https://arxiv.org/abs/2507.15956)), 2025, [hep-ph]
 
 * **Stopping Dark Mesons in Their Tracks with Long-Lived Particle and Resonant Signatures** ([arXiv:2507.13430](https://arxiv.org/abs/2507.13430)), 2025, [hep-ph]
+
+* **Hidden valley scenario sensitivity in the CMS muon end cap detector** ([arXiv:2505.03058](https://arxiv.org/abs/2505.03058)), 2025, [hep-ph]
 
 * **Hyperstealth dark matter and long-lived particles** ([arXiv:2412.14540](https://arxiv.org/abs/2412.14540)), 2024, [hep-ph]
 
