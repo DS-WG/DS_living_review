@@ -38,30 +38,31 @@
       "dark glueball",
       "dark glueballs",
       "hidden glueball",
-      "hidden glueballs"
+      "hidden glueballs",
+      "strongly coupled dark matter"
     ],
-    "generated_on": "2025-10-26T09:46:39.288974"
+    "generated_on": "2025-10-26T10:56:50.910163"
   },
   "summary_statistics": {
-    "total_papers": 560,
+    "total_papers": 563,
     "years_covered": "2006 - 2025",
     "papers_by_year": {
       "2006": 3,
       "2007": 2,
       "2008": 13,
-      "2009": 16,
+      "2009": 17,
       "2010": 14,
       "2011": 15,
       "2012": 9,
       "2013": 10,
       "2014": 26,
       "2015": 42,
-      "2016": 29,
+      "2016": 30,
       "2017": 34,
       "2018": 37,
       "2019": 31,
       "2020": 43,
-      "2021": 45,
+      "2021": 46,
       "2022": 53,
       "2023": 47,
       "2024": 62,
@@ -87,6 +88,7 @@
       "emerging jets": 14,
       "soft-bomb": 4,
       "dark glueballs": 16,
+      "strongly coupled dark matter": 2,
       "semi-visible jets": 17,
       "suep": 5
     }
@@ -469,6 +471,20 @@
         "dark glueball"
       ],
       "inspire_url": "https://inspirehep.net/literature/828415"
+    },
+    {
+      "title": "Gamma Ray Spectra from Dark Matter Annihilation and Decay",
+      "arxiv_id": "0908.2258",
+      "inspire_id": "828734",
+      "year": 2009,
+      "category": "hep-ph",
+      "authors": [
+        "Fortin, Jean-Francois",
+        "Shelton, Jessie",
+        "Thomas, Scott"
+      ],
+      "matched_keywords": [],
+      "inspire_url": "https://inspirehep.net/literature/828734"
     },
     {
       "title": "Signatures of (Un)particles from a Hidden Sector in multiparticle dynamics at Tevatron/LHC",
@@ -2587,6 +2603,22 @@
       ],
       "matched_keywords": [],
       "inspire_url": "https://inspirehep.net/literature/1484628"
+    },
+    {
+      "title": "The Last Gasp of Dark Matter Effective Theory",
+      "arxiv_id": "1607.02475",
+      "inspire_id": "1474688",
+      "year": 2016,
+      "category": "hep-ph",
+      "authors": [
+        "Bruggisser, Sebastian",
+        "Riva, Francesco",
+        "Urbano, Alfredo"
+      ],
+      "matched_keywords": [
+        "strongly coupled dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/1474688"
     },
     {
       "title": "Optical dispersion of composite particles consisting of millicharged constituents",
@@ -5824,6 +5856,22 @@
         "composite dark matter"
       ],
       "inspire_url": "https://inspirehep.net/literature/1995798"
+    },
+    {
+      "title": "Search for resonant production of strongly coupled dark matter in proton-proton collisions at 13 TeV",
+      "arxiv_id": "2112.11125",
+      "inspire_id": "1994864",
+      "year": 2021,
+      "category": "hep-ex",
+      "authors": [
+        "Tumasyan, Armen",
+        "Adam, Wolfgang",
+        "Andrejkovic, Janik Walter"
+      ],
+      "matched_keywords": [
+        "strongly coupled dark matter"
+      ],
+      "inspire_url": "https://inspirehep.net/literature/1994864"
     },
     {
       "title": "Search for strongly interacting massive particles generating trackless jets in proton\u2013proton collisions at $\\sqrt{s} = 13\\,\\text {TeV} $",
