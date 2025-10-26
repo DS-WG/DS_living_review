@@ -130,11 +130,21 @@ img {
 }
 
 .stats-box {
-  background-color: #f6f8fa;
-  border-left: 4px solid #0366d6;
-  padding: 16px;
-  margin: 20px 0;
-  border-radius: 6px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px 24px;
+  margin: 30px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.stats-box strong {
+  color: #fff;
+}
+
+.stats-box a {
+  color: #ffd700;
+  text-decoration: underline;
 }
 
 h2.section-header {
