@@ -58,8 +58,17 @@ summary {
   list-style: none;
 }
 
-summary::-webkit-details-marker {
-  display: none;
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.15em;
+  padding: 18px 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 8px;
+  user-select: none;
+  list-style: none;
+  transition: all 0.3s;
 }
 
 summary:before {
@@ -73,7 +82,8 @@ details[open] summary:before {
 }
 
 summary:hover {
-  background-color: #e1e4e8;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
 }
 
 details[open] summary {
