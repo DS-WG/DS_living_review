@@ -211,6 +211,10 @@ Below is a list of papers concerning dark showers.*
 <strong>Repository:</strong> <a href="https://github.com/DS-taskforce/DS_living_review">ds-taskforce/DS_living_review</a>
 </div>
 
+<div class="attribution-box" style="background: #f6f8fa; padding: 12px 16px; margin: 20px 0; border-radius: 6px; border-left: 4px solid #ffd700;">
+<em>This project was inspired by the <a href="https://iml-wg.github.io/HEPML-LivingReview/" target="_blank">IML WG Living Review</a></em>
+</div>
+
 ---
 ## Paper Categories
 *Note that this classification is not exclusive; 
