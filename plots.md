@@ -197,7 +197,7 @@ h2.section-header {
 <nav class="nav-tabs">
   <a href="{{ '/' | relative_url }}" class="nav-tab"> Papers</a>
   <a href="{{ '/plots' | relative_url }}" class="nav-tab active"> Plots</a>
-  <a href="{{ '/' | relative_url }}" class="nav-tab"> Contribute</a>
+  <a href="{{ '/contributions' | relative_url }}" class="nav-tab active"> Contribute </a>
 </nav>
 
 *Dark showers sit at a rich intersection of theory, phenomenology and experimental efforts. They connect different areas of theoretical physics with each other and arise from well motivated theoretical scenarios. Below is a list of papers concerning dark showers.*

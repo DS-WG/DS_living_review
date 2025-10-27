@@ -198,7 +198,7 @@ h2.section-header {
 <nav class="nav-tabs">
   <a href="{{ '/' | relative_url }}" class="nav-tab active"> Papers</a>
   <a href="{{ '/plots' | relative_url }}" class="nav-tab"> Plots</a>
-  <a href="{{ '/' | relative_url }}" class="nav-tab"> Contribute</a>
+  <a href="{{ '/contributions' | relative_url }}" class="nav-tab active"> Contribute </a>
 </nav>
 
 *Dark showers sit at a rich intersection of theory, phenomenology and 
@@ -221,4 +221,5 @@ the help of your feedback*
 *If you see a paper that is not related to strongly-interacting theories of interest 
 to this taskforce please let us know.* 
 
-*You can email us.*
+***Contact:** [Open an issue on GitHub](https://github.com/ds-wg/DS_living_review/issues) 
+or (for now) email: suchita (dot) kulkarni (at) cern (dot) ch.*
