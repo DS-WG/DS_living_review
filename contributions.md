@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Dark Showers - Living Review
+title: "Contributions"
+nav_order: 99
 ---
 
 <style>
