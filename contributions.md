@@ -218,7 +218,7 @@ Our scripts are not perfect but they can be improved with
 the help of your feedback*
 
 *If you see a paper that is not related to strongly-interacting theories of interest 
-to this taskforce please let us know.* 
+to this taskforce or if your paper isn't listed here, or it has been wrongly classified please let us know.* 
 
 ***Contact:** [Open an issue on GitHub](https://github.com/ds-wg/DS_living_review/issues) 
 or (for now) email: suchita (dot) kulkarni (at) cern (dot) ch.*
