@@ -42,7 +42,7 @@
       "strongly coupled dark matter",
       "semi visible jets"
     ],
-    "generated_on": "2025-10-26T15:22:09.620368"
+    "generated_on": "2025-10-27T07:58:44.186181"
   },
   "summary_statistics": {
     "total_papers": 563,
@@ -75,7 +75,7 @@
       "quirk": 33,
       "composite dark matter": 91,
       "simp": 147,
-      "soft unclustered energy": 6,
+      "suep": 15,
       "dark glueball": 37,
       "simps": 21,
       "dark baryon": 28,
@@ -87,7 +87,6 @@
       "dark hadron": 22,
       "dark confinement": 10,
       "emerging jets": 14,
-      "suep": 9,
       "dark glueballs": 16,
       "strongly coupled dark matter": 2,
       "semi-visible jets": 17
@@ -247,7 +246,7 @@
       ],
       "matched_keywords": [
         "hidden valley",
-        "soft unclustered energy",
+        "SUEP",
         "simp",
         "quirks",
         "quirk"
@@ -4753,7 +4752,7 @@
       ],
       "matched_keywords": [
         "suep",
-        "soft unclustered energy",
+        "SUEP",
         "simp"
       ],
       "inspire_url": "https://inspirehep.net/literature/1818161"
@@ -5496,7 +5495,7 @@
         "suep",
         "dark hadron",
         "confining dark sector",
-        "soft unclustered energy"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/1893509"
     },
@@ -6469,7 +6468,7 @@
         "dark shower",
         "hidden valley",
         "semi-visible jets",
-        "soft unclustered energy"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/2054250"
     },
@@ -7401,7 +7400,7 @@
         "suep",
         "dark hadron",
         "confining dark sector",
-        "soft unclustered energy"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/2671217"
     },
@@ -8383,7 +8382,7 @@
       "matched_keywords": [
         "hidden valley",
         "suep",
-        "soft unclustered energy"
+        "SUEP"
       ],
       "inspire_url": "https://inspirehep.net/literature/2766846"
     },
