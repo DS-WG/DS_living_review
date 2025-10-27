@@ -255,7 +255,7 @@ The purpose of this note is to collect references for dark showers. Papers are a
 
 * **On the Phenomenology of Hidden Valleys with Heavy Flavor** ([arXiv:0806.2385](https://arxiv.org/abs/0806.2385)), 2008, [hep-ph]
 
-## Model Building - SU(N) Gauge Groups (44 papers)
+## Model Building - Non-SU(N) Gauge Groups (44 papers)
 
 * **NLO observables for QCD-like theories and application to pion dark matter** ([arXiv:2509.07102](https://arxiv.org/abs/2509.07102)), 2025, [hep-ph]
 
