@@ -208,7 +208,7 @@ Below is a list of papers concerning dark showers.*
 <div class="stats-box">
 <strong>Purpose:</strong> Collect and categorize dark showers references automatically<br>
 <strong>Last updated:</strong> {{ site.time | date: "%B %d, %Y at %H:%M UTC" }}<br>
-<strong>Repository:</strong> <a href="https://github.com/ds-wg/DS_living_review">ds-wg/DS_living_review</a>
+<strong>Repository:</strong> <a href="https://github.com/DS-taskforce/DS_living_review">ds-taskforce/DS_living_review</a>
 </div>
 
 ---
