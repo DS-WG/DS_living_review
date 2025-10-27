@@ -197,7 +197,7 @@ h2.section-header {
 <nav class="nav-tabs">
   <a href="{{ '/' | relative_url }}" class="nav-tab active"> Papers</a>
   <a href="{{ '/plots' | relative_url }}" class="nav-tab"> Plots</a>
-  <a href="{{ '/contributions' | relative_url }}" class="nav-tab active"> Contribute </a>
+  <a href="{{ '/contributions' | relative_url }}" class="nav-tab"> Contribute </a>
 </nav>
 
 *Dark showers sit at a rich intersection of theory, phenomenology and 
