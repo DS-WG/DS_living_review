@@ -11,6 +11,7 @@ from datetime import date
 from collections import defaultdict, Counter
 import requests
 import argparse
+from dateutil import parser
 
 
 class InspireBibGenerator:
@@ -18,13 +19,24 @@ class InspireBibGenerator:
         self.starting_date = starting_date or date.today().replace(year=date.today().year - 1)
         self.output_dir = output_dir
         self.categories = ['hep-ph', 'hep-ex', 'hep-th', 'hep-lat']  # Added missing categories
+        #self.keywords = [
+        #    'dark showers', 'dark shower', 'hidden valley', 'hidden valleys',
+        #    'dark pion', 'dark pions', 'dark baryons', 'SUEP','soft-bombs',
+        #    'soft bombs','soft-bomb','soft bomb',
+        #    'dark hadron', 'dark hadrons', 'dark QCD', 'confining dark sector',
+        #    'semi-visible jets', 'emerging jets', 'soft unclustered energy',
+        #    'dark mesons', 'composite dark matter', 'dark confinement'
+        #]
         self.keywords = [
-            'dark showers', 'dark shower', 'hidden valley', 'hidden valleys',
-            'dark pion', 'dark pions', 'dark baryons', 'SUEP','soft-bombs',
-            'soft bombs','soft-bomb','soft bomb',
+            'dark showers', 'dark shower','darkshowers', 'darkshower',
+            'hidden valley', 'hidden valleys',
+            'dark pion', 'dark pions', 'dark baryons', 'SUEP', 'soft-bombs',
+            'soft bombs', 'soft-bomb', 'soft bomb',
             'dark hadron', 'dark hadrons', 'dark QCD', 'confining dark sector',
             'semi-visible jets', 'emerging jets', 'soft unclustered energy',
-            'dark mesons', 'composite dark matter', 'dark confinement'
+            'dark mesons', 'composite dark matter', 'dark confinement',
+            'SIMP', 'SIMPs', 'Quirks', 'Quirk', 'dark glueball', 'dark glueballs',
+            'hidden glueball', 'hidden glueballs', 'strongly coupled dark matter', 'semi visible jets'
         ]
         self.papers = []
         
@@ -85,17 +97,34 @@ class InspireBibGenerator:
                 'patterns': [r'review of \w+', r'survey of \w+', r'overview of \w+'],
                 'exclusions': []
             },
-
             'lattice': {
-                'title': ['lattice', 'lattice qcd', 'monte carlo', 'numerical simulation', 'discretized',
-                          'wilson', 'staggered', 'domain wall', 'overlap'],
-                'abstract': ['lattice', 'lattice qcd', 'monte carlo', 'numerical simulation', 'discretization',
-                             'wilson fermions', 'staggered fermions', 'lattice gauge theory', 'euclidean',
-                             'path integral', 'monte carlo simulation', 'lattice calculation'],
-                'patterns': [r'lattice \w+', r'monte carlo \w+', r'numerical \w+'],
-                'exclusions': []
+                'title': ['lattice qcd', 'lattice gauge theory', 'lattice calculation', 'lattice simulation',
+                          'lattice study', 'lattice results', 'on the lattice',
+                          'wilson fermions', 'staggered fermions', 'domain wall fermions'],
+                'abstract': ['lattice qcd', 'lattice gauge theory', 'lattice calculation',
+                             'lattice simulation', 'lattice study', 'lattice results',
+                             'wilson fermions', 'staggered fermions', 'lattice spacing',
+                             'continuum limit', 'lattice action', 'gauge configurations',
+                             'lattice observable', 'lattice spectrum',
+                             'we perform lattice', 'lattice computation',
+                             'lattice measurement', 'euclidean lattice'],
+                'patterns': [r'lattice.*qcd', r'lattice.*calculation', r'lattice.*simulation',
+                             r'lattice.*study', r'lattice.*gauge.*theory',
+                             r'we.*perform.*lattice', r'lattice.*computation'],
+                'exclusions': [
+                    # Exclude event generators (NOT lattice calculations)
+                    'pythia', 'herwig', 'madgraph', 'sherpa', 'powheg',
+                    'event generator', 'event generation', 'parton shower',
+                    'delphes', 'detector simulation', 'geant',
+                    # Exclude pure phenomenology
+                    'fcc-ee', 'fcc-hh', 'future collider', 'ilc', 'clic',
+                    'collider signature', 'experimental signature',
+                    'search strategy', 'discovery potential',
+                    # Keep these - just using existing lattice results
+                    'using lattice results', 'lattice results suggest',
+                    'from lattice', 'lattice inputs'
+                ]
             },
-
             'model_building_sun': {
                 'title': ['su(', 'su(2)', 'su(3)', 'su(4)', 'su(5)', 'su(6)', 'su(n)', 'unitary group',
                           'special unitary', 'gauge extension', 'extended gauge', 'new gauge group'],
@@ -115,20 +144,28 @@ class InspireBibGenerator:
                     # Application exclusions
                     'dark matter detection', 'direct detection', 'indirect detection',
                     'relic abundance', 'thermal relic', 'freeze-out', 'cosmological constraint',
-                    'reinterpret', 'recast', 'existing searches', 'previous searches'
+                    'reinterpret', 'recast', 'existing searches', 'previous searches','qcd phase transition',
+                    'quark-gluon plasma', 'chiral phase transition',
+                    'nambu-jona-lasinio', 'njl model', 'standard model qcd',
+                    'heavy ion', 'nuclear matter', 'lattice qcd'
                 ]
             },
 
             'model_building_non_sun': {
                 'title': ['so(', 'sp(', 'usp(', 'orthogonal', 'symplectic', 'exceptional', 'e6', 'e7', 'e8',
-                          'f4', 'g2', 'non-abelian gauge', 'abelian gauge extension'],
+                          'f4', 'g2', 'non-abelian gauge extension', 'abelian gauge extension',
+                          'beyond standard model'],
                 'abstract': ['so(', 'sp(', 'usp(', 'orthogonal group', 'symplectic group', 'exceptional group',
-                             'e6', 'e7', 'e8', 'f4', 'g2', 'lie group', 'lie algebra',
+                             'e6', 'e7', 'e8', 'f4', 'g2',
+                             # REMOVED: 'lie group', 'lie algebra' - too generic!
                              'we propose a model', 'we construct a model', 'new gauge theory',
-                             'gauge group so(', 'gauge group sp(', 'exceptional gauge'],
+                             'gauge group so(', 'gauge group sp(', 'exceptional gauge',
+                             'beyond the standard model', 'bsm', 'new physics',
+                             'dark sector', 'hidden sector'],
                 'patterns': [r'so\(\d+\)', r'sp\(\d+\)', r'usp\(\d+\)', r'exceptional group',
                              r'we propose.*so\(', r'we construct.*sp\(', r'new.*so\(\d+\)',
-                             r'gauge.*so\(\d+\).*model', r'gauge.*sp\(\d+\).*model'],
+                             r'gauge.*so\(\d+\).*model', r'gauge.*sp\(\d+\).*model',
+                             r'(dark|hidden|secluded).*sector.*so\(', r'(dark|hidden|secluded).*sector.*sp\('],
                 'exclusions': [
                     # Same phenomenology exclusions
                     'lhc', 'atlas', 'cms', 'search for', 'constraints on', 'bounds on',
@@ -137,7 +174,11 @@ class InspireBibGenerator:
                     'branching ratio', 'decay rate', 'production rate',
                     'dark matter detection', 'direct detection', 'indirect detection',
                     'relic abundance', 'thermal relic', 'freeze-out', 'cosmological constraint',
-                    'reinterpret', 'recast', 'existing searches', 'previous searches'
+                    'reinterpret', 'recast', 'existing searches', 'previous searches',
+                    # ADD THESE QCD EXCLUSIONS:
+                    'qcd phase transition', 'quark-gluon plasma', 'chiral phase transition',
+                    'nambu-jona-lasinio', 'njl model', 'standard model qcd',
+                    'heavy ion', 'nuclear matter'
                 ]
             },
 
@@ -229,13 +270,24 @@ class InspireBibGenerator:
             },
 
             'machine_learning': {
-                'title': ['machine learning', 'ml', 'neural', 'deep learning', 'ai', 'artificial intelligence',
-                          'algorithm', 'classification', 'regression', 'clustering', 'network'],
-                'abstract': ['machine learning', 'neural network', 'deep learning', 'artificial intelligence',
-                             'algorithm', 'training', 'classification', 'regression', 'feature',
-                             'supervised', 'unsupervised', 'convolutional', 'transformer'],
-                'patterns': [r'machine learning \w+', r'neural \w+', r'deep \w+'],
-                'exclusions': []
+              'title': ['machine learning', 'neural network', 'deep learning', 'artificial intelligence',
+              'convolutional neural', 'recurrent neural', 'transformer', 'autoencoder',
+              'random forest', 'gradient boosting', 'supervised learning', 'unsupervised learning'],
+              'abstract': ['machine learning', 'neural network', 'deep learning', 'artificial intelligence',
+                 'training data', 'classification algorithm', 'regression model',
+                 'supervised learning', 'unsupervised learning', 'convolutional', 'transformer',
+                 'feature extraction', 'model training', 'neural architecture',
+                 'new algorithm'
+                  ],
+              'patterns': [r'machine learning \w+', r'neural \w+', r'deep \w+',r'new.*machine learning.*method',
+                           r'novel.*neural.*architecture', r'develop.*algorithm.*dark shower',
+                           r'we (propose|introduce|develop|present).*ml',
+                           r'(develop|propose|introduce|present).*new.*(ml|machine learning|neural|algorithm|network)'
+                           r'(novel|new).*(ml|machine learning|neural).*(method|approach|architecture|framework)'
+                           r'(ml|machine learning|neural).*(development|framework|architecture|methodology)'
+                           r'we (develop|propose|introduce).*(neural|ml|machine learning).*(for|to detect|to identify).*dark shower'],
+              #'patterns': [r'machine learning', r'neural network', r'deep learning', r'ml algorithm'],
+              'exclusions': ['vertex reconstruction', 'track reconstruction', 'energy calibration']
             },
 
             'new_signatures': {
@@ -250,15 +302,24 @@ class InspireBibGenerator:
             },
 
             'reinterpretation': {
-                'title': ['reinterpret', 'reinterpretation', 'recast', 'recasting', 'constraints', 'limit',
-                          'limits', 'bound', 'bounds', 'exclusion'],
-                'abstract': ['reinterpret', 'reinterpretation', 'recast', 'existing searches', 'constraints',
-                             'exclusion limits', 'bounds', 'we derive', 'we obtain constraints',
-                             'previous searches', 'existing limits'],
-                'patterns': [r'reinterpret\w* \w+', r'recast\w* \w+', r'constraints on \w+'],
-                'exclusions': []
+                'title': ['reinterpret', 'reinterpretation', 'recast', 'recasting',
+                          'constraints from', 'limits from', 'bounds from'],
+                'abstract': ['reinterpret', 'reinterpretation', 'recast', 'recasting',
+                             'existing searches', 'existing constraints', 'existing limits',
+                             'previous searches', 'constraints from', 'bounds from',
+                             'we reinterpret', 'we recast', 'reanalysis of',
+                             'apply existing', 'derive constraints from','we study the sensitivity'],
+                'patterns': [r'reinterpret\w*.*search', r'recast\w*.*search',
+                             r'constraints from.*search', r'bounds from.*search',
+                             r'existing.*search.*constraint', r'previous.*search.*limit'],
+                'exclusions': [
+                    # Exclude if they're proposing NEW searches/signatures
+                    'we propose a search', 'new search strategy', 'novel signature',
+                    'new experimental signature', 'we develop a search',
+                    # Exclude pure model building
+                    #'we propose a new model', 'we construct a model', 'we introduce a model'
+                ]
             },
-
             'lepton_colliders': {
                 'title': ['lepton collider', 'electron collider', 'muon collider', 'e+e-', 'future collider',
                           'ilc', 'clic', 'fcc-ee', 'cepc', '$e^+e^-$'],
@@ -352,14 +413,33 @@ class InspireBibGenerator:
         print(f"\nTotal unique papers found: {len(self.papers)}")
         return self.papers
 
-    def extract_paper_info(self, hit, category):
+    '''def extract_paper_info(self, hit, category):
         """Extract relevant information from a paper hit (enhanced version)"""
         try:
             metadata = hit['metadata']
             
             # Extract basic info
             title = metadata['titles'][0]['title']
-            date_created = datetime.datetime.fromisoformat(hit['created']).date()
+            date_created = datetime.datetime.fromisoformat(hit['created']).date()'''
+
+    def extract_paper_info(self, hit, category):
+        """Extract relevant information from a paper hit (enhanced version)"""
+        try:
+            metadata = hit['metadata']
+
+            # Extract basic info
+            title = metadata['titles'][0]['title']
+
+            # Use earliest_date for consistency (UPDATED)
+            if 'earliest_date' in metadata:
+                try:
+                    date_created = parser.parse(metadata['earliest_date']).date()
+                except Exception:
+                    date_created = datetime.datetime.strptime(metadata['earliest_date'][:10], "%Y-%m-%d").date()
+            elif 'created' in hit:
+                date_created = datetime.datetime.fromisoformat(hit['created']).date()
+            else:
+                return None  # Skip papers without dates
             
             # Extract arXiv ID
             arxiv_id = None
@@ -516,6 +596,7 @@ class InspireBibGenerator:
                 pattern_matches += 1
         score += pattern_matches * 4.0
 
+
         # Special handling for model building categories
         if category.startswith('model_building'):
             # Bonus for theory papers
@@ -547,6 +628,155 @@ class InspireBibGenerator:
             if paper.get('category') != 'hep-ex':
                 return 0.0
 
+        # Special handling for lattice papers
+        elif category == 'lattice':
+            # HARD REQUIREMENT: Must be hep-lat
+            if paper.get('category') != 'hep-lat':
+                return 0.0
+
+            # Bonus for being hep-lat (since it's required)
+            score += 5.0
+
+        # Special handling for dark matter pion category
+        elif category == 'dark_matter_pion':
+            # HARD REQUIREMENT: Must mention BOTH dark pion AND dark matter
+            has_dark_pion = any(term in text_data['combined'] for term in [
+                'dark pion', 'dark pions'
+            ])
+            has_dark_matter = any(term in text_data['combined'] for term in [
+                'dark matter', 'dm candidate', 'dark matter candidate'
+            ])
+
+            if not (has_dark_pion and has_dark_matter):
+                return 0.0
+
+            # Bonus if both appear
+            score += 5.0
+
+        # Special handling for dark matter baryon category
+        elif category == 'dark_matter_baryon':
+            # HARD REQUIREMENT: Must mention BOTH dark baryon AND dark matter
+            has_dark_baryon = any(term in text_data['combined'] for term in [
+                'dark baryon', 'dark baryons', 'dark nucleon', 'dark nucleons'
+            ])
+            has_dark_matter = any(term in text_data['combined'] for term in [
+                'dark matter', 'dm candidate', 'dark matter candidate'
+            ])
+
+            if not (has_dark_baryon and has_dark_matter):
+                return 0.0
+
+            # Bonus if both appear
+            score += 5.0
+
+        # Special handling for machine learning category
+        elif category == 'machine_learning':
+            # HARD REQUIREMENT: Must have both ML terms AND methodological development
+
+            # Check for ML keywords
+            ml_terms = [
+                'machine learning', 'neural network', 'deep learning', 'neural',
+                'convolutional', 'transformer', 'autoencoder', 'gradient boosting',
+                'random forest', 'ml algorithm', 'nn architecture'
+            ]
+            has_ml = any(term in text_data['combined'] for term in ml_terms)
+
+            if not has_ml:
+                return 0.0
+
+            # Check for methodological development (proximity patterns)
+            development_patterns = [
+                r'(develop|propose|introduce|present).*new.*(ml|machine learning|neural|algorithm|network)',
+                r'(novel|new).*(ml|machine learning|neural).*(method|approach|architecture|framework)',
+                r'(ml|machine learning|neural).*(development|framework|architecture|methodology)',
+                r'we (develop|propose|introduce).*(neural|ml|machine learning)',
+                r'new.*(neural|deep learning).*(method|architecture|approach)',
+                r'(design|architect|build).*(novel|new).*(neural|network|ml)',
+                r'machine learning.*(method|technique|algorithm).*(for|to).*(detect|identify|classify).*dark',
+                r'neural.*(architecture|framework).*(for|to).*(dark shower|emerging|semi-visible)'
+            ]
+
+            has_development = any(re.search(pattern, text_data['combined'])
+                                  for pattern in development_patterns)
+
+            if not has_development:
+                return 0.0
+
+            # Check for dark shower context (ML should be applied to relevant physics)
+            dark_shower_terms = [
+                'dark shower', 'emerging jet', 'semi-visible', 'suep', 'soft bomb',
+                'hidden valley', 'dark hadron', 'dark qcd'
+            ]
+            has_ds_context = any(term in text_data['combined'] for term in dark_shower_terms)
+
+            if not has_ds_context:
+                # Reduce score significantly if no dark shower context
+                score *= 0.2
+
+            # Check for application-only patterns (exclusions)
+            application_patterns = [
+                r'using (standard|existing|conventional|traditional).*(ml|neural|bdt|machine learning)',
+                r'we (use|apply|employ|utilize).*(standard|existing|conventional).*(ml|neural)',
+                r'apply.*machine learning.*to',
+                r'using.*(keras|tensorflow|pytorch|scikit)',  # Just using standard libraries
+                r'trained.*(standard|conventional|simple).*(neural|network|bdt)',
+                r'(atlas|cms|lhcb).*(use|apply|employ).*(ml|neural|bdt)'
+            ]
+
+            is_application_only = any(re.search(pattern, text_data['combined'])
+                                      for pattern in application_patterns)
+
+            if is_application_only:
+                return 0.0
+
+            # Now calculate actual score
+            # Title matches (very high weight for ML method papers)
+            title_ml_dev_patterns = [
+                r'machine learning.*(method|approach|framework)',
+                r'neural.*(architecture|network).*(for|to)',
+                r'(new|novel).*(algorithm|method).*(ml|neural)'
+            ]
+            title_pattern_matches = sum(1 for pattern in title_ml_dev_patterns
+                                        if re.search(pattern, text_data['title']))
+            score += title_pattern_matches * 10.0
+
+            # Abstract methodology indicators
+            methodology_indicators = [
+                'architecture', 'framework', 'algorithm development',
+                'we develop', 'we propose', 'we introduce a new',
+                'benchmark', 'ablation study', 'hyperparameter',
+                'training strategy', 'loss function', 'model design'
+            ]
+            methodology_matches = sum(1 for indicator in methodology_indicators
+                                      if indicator in text_data['abstract'])
+            score += methodology_matches * 3.0
+
+            # Bonus for having both development patterns
+            development_count = sum(1 for pattern in development_patterns
+                                    if re.search(pattern, text_data['combined']))
+            score += development_count * 5.0
+
+            # Bonus for dark shower context
+            if has_ds_context:
+                score += 5.0
+
+            # Bonus for methodological keywords in title
+            method_title_words = ['algorithm', 'method', 'framework', 'architecture',
+                                  'approach', 'technique', 'methodology']
+            title_method_matches = sum(1 for word in method_title_words
+                                       if word in text_data['title'])
+            score += title_method_matches * 4.0
+
+        # Disallow certain theoretical categories for hep-ex papers
+        elif category in [
+            'lattice',
+            'model_building_sun',
+            'model_building_non_sun',
+            'model_building_general',
+            'phenomenology']:
+            if paper.get('category') == 'hep-ex':
+                return 0.0
+
             # Now proceed with normal scoring for hep-ex papers
             # Check for collaboration names in authors
             collab_bonus = sum(2.0 for collab in self.experimental_collaborations
@@ -571,11 +801,6 @@ class InspireBibGenerator:
             pheno_matches = sum(1 for indicator in pheno_indicators
                                 if indicator in text_data['combined'])
             score += pheno_matches * 4.0
-
-        # Special handling for lattice papers
-        elif category == 'lattice':
-            if paper.get('category') == 'hep-lat':
-                score += 5.0
 
         return max(0.0, score)  # Ensure non-negative score
 
@@ -688,10 +913,10 @@ class InspireBibGenerator:
                     
                     # Format category title nicely
                     if category_key.startswith('model_building_'):
-                        if 'sun' in category_key:
-                            category_title = "Model Building - SU(N) Gauge Groups"
-                        elif 'non_sun' in category_key:
+                        if 'non_sun' in category_key:
                             category_title = "Model Building - Non-SU(N) Gauge Groups"
+                        elif 'sun' in category_key:
+                            category_title = "Model Building - SU(N) Gauge Groups"
                         else:
                             category_title = "Model Building - General"
                     elif category_key.startswith('dark_matter_'):
@@ -764,7 +989,7 @@ def main():
     parser.add_argument("--bib-file", type=str, help="Bibliography filename", 
                        default="darkshowers_bibliography.bib")
     parser.add_argument("--readme-file", type=str, help="README filename", 
-                       default="README.md")
+                       default="papers.txt")
     parser.add_argument("--no-collab", action="store_true", 
                        help="Don't replace collaboration authors")
     

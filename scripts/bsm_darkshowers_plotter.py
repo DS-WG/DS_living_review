@@ -22,15 +22,34 @@ class BSMDarkShowersAnalyzer:
         
         # Focus on theory and phenomenology categories for BSM physics
         self.categories = ['hep-ph', 'hep-th','hep-lat', 'hep-ex']
-        
-        # Refined keywords for BSM dark showers physics
+
+        #self.keywords = [
+        #    'dark shower', 'dark showers',
+        #    'hidden valley', 'hidden valleys',
+        #    'dark pion', 'dark pions',
+        #    'dark baryon', 'dark baryons',
+        #    'SUEP',
+        #    'soft-bomb', 'soft-bombs', 'soft bomb', 'soft bombs',
+        #    'dark hadron', 'dark hadrons',
+        #    'dark QCD',
+        #    'confining dark sector',
+        #    'semi-visible jets',
+        #    'emerging jets',
+        #    'soft unclustered energy',
+        #    'dark meson', 'dark mesons',
+        #    'composite dark matter',
+        #    'dark confinement'
+        #]
         self.keywords = [
-            'dark showers', 'dark shower', 'hidden valley', 'hidden valleys',
-            'dark pion', 'dark pions', 'dark baryons', 'SUEP','soft-bombs',
-            'soft bombs','soft-bomb','soft bomb',
+            'dark showers', 'dark shower','darkshowers', 'darkshower',
+            'hidden valley', 'hidden valleys',
+            'dark pion', 'dark pions', 'dark baryons', 'SUEP', 'soft-bombs',
+            'soft bombs', 'soft-bomb', 'soft bomb',
             'dark hadron', 'dark hadrons', 'dark QCD', 'confining dark sector',
             'semi-visible jets', 'emerging jets', 'soft unclustered energy',
-            'dark mesons', 'composite dark matter', 'dark confinement'
+            'dark mesons', 'composite dark matter', 'dark confinement',
+            'SIMP', 'SIMPs', 'Quirks', 'Quirk', 'dark glueball', 'dark glueballs',
+            'hidden glueball', 'hidden glueballs','strongly coupled dark matter', 'semi visible jets'
         ]
 
         
@@ -41,6 +60,35 @@ class BSMDarkShowersAnalyzer:
         self.all_papers = []
         self.papers_by_year = defaultdict(list)
         self.papers_by_keyword = defaultdict(list)
+
+    def normalize_keyword(self, keyword):
+        """Normalize keywords to combine singular/plural forms"""
+        # Remove trailing 's' for plurals, normalize spacing
+        normalized = keyword.lower().strip()
+
+        # Specific normalizations
+        normalizations = {
+            'dark showers': 'dark shower',
+            'darkshowers': 'dark shower',
+            'darkshower': 'dark shower',
+            'hidden valleys': 'hidden valley',
+            'dark pions': 'dark pion',
+            'dark baryons': 'dark baryon',
+            'dark hadrons': 'dark hadron',
+            'dark mesons': 'dark meson',
+            'soft bombs': 'SUEP',
+            'soft bomb': 'SUEP',
+            'soft-bombs': 'SUEP',
+            'soft-bomb': 'SUEP',
+            'soft unclustered energy': 'SUEP',
+            'SIMPs': 'SIMP',
+            'Quirks': 'Quirk',
+            'dark glueballs': 'dark glueballs',
+            'hidden glueballs':'dark glueball',
+            'hidden glueball':'dark glueball'
+        }
+
+        return normalizations.get(normalized, normalized)
 
     def build_search_query(self, start_year=2010):
         """Build comprehensive search query for dark showers"""
@@ -157,11 +205,16 @@ class BSMDarkShowersAnalyzer:
                 abstract_lower = metadata['abstracts'][0].get('value', '').lower()
             
             text_to_search = f"{title_lower} {abstract_lower}"
+
             matched_keywords = []
-            
+            matched_normalized = set()  # Track normalized versions to avoid duplicates
+
             for keyword in self.keywords:
                 if keyword.lower() in text_to_search:
-                    matched_keywords.append(keyword)
+                    normalized = self.normalize_keyword(keyword)
+                    if normalized not in matched_normalized:
+                        matched_keywords.append(normalized)
+                        matched_normalized.add(normalized)
             
             return {
                 'title': title,
@@ -180,14 +233,19 @@ class BSMDarkShowersAnalyzer:
 
     def analyze_trends(self):
         """Analyze publication trends"""
+        # Clear existing data first
+        self.papers_by_year.clear()
+        self.papers_by_keyword.clear()
+
         # Group papers by year
         for paper in self.all_papers:
             year = paper['year']
             self.papers_by_year[year].append(paper)
-            
-            # Group by matched keywords
+
+            # Group by matched keywords (normalized)
             for keyword in paper['matched_keywords']:
-                self.papers_by_keyword[keyword].append(paper)
+                normalized_keyword = self.normalize_keyword(keyword)
+                self.papers_by_keyword[normalized_keyword].append(paper)
         
         # Create summary statistics
         years = sorted(self.papers_by_year.keys())
@@ -227,9 +285,9 @@ class BSMDarkShowersAnalyzer:
                      edgecolor='black', linewidth=0.5, width=0.8)
         
         # Styling to match the reference plot
-        ax.set_title('Number of Dark Showers Papers by Year', fontsize=16, fontweight='bold', pad=20)
-        ax.set_xlabel('Year', fontsize=14, fontweight='bold')
-        ax.set_ylabel('Number of Papers', fontsize=14, fontweight='bold')
+        ax.set_title('Number of Dark Showers Papers by Year', fontsize=20, fontweight='bold', pad=20)
+        ax.set_xlabel('Year', fontsize=18, fontweight='bold')
+        ax.set_ylabel('Number of Papers', fontsize=18, fontweight='bold')
         
         # Grid styling
         ax.grid(True, alpha=0.3, linestyle='-', linewidth=0.5)
@@ -246,8 +304,11 @@ class BSMDarkShowersAnalyzer:
         # Add timestamp
         timestamp = datetime.now().strftime('%d.%m.%Y')
         ax.text(0.02, 0.98, f'As of {timestamp}', transform=ax.transAxes, 
-                fontsize=12, verticalalignment='top', 
+                fontsize=16, verticalalignment='top',
                 bbox=dict(boxstyle='round,pad=0.3', facecolor='white', alpha=0.8))
+
+        ax.tick_params(axis='x', labelsize=16)
+        ax.tick_params(axis='y', labelsize=16)
         
         # Adjust layout
         plt.tight_layout()
@@ -263,25 +324,25 @@ class BSMDarkShowersAnalyzer:
         """Create plots showing publication trends"""
         if end_year is None:
             end_year = datetime.now().year
-        
+
         if not self.all_papers:
             print("No papers loaded. Run search_all_papers() first.")
             return
-        
+
         # Set up the plotting style
         plt.style.use('default')
         fig, axes = plt.subplots(2, 2, figsize=(15, 12))
-        fig.suptitle('Dark Showers Publication Trends Analysis', fontsize=16, fontweight='bold')
-        
+        fig.suptitle('Dark Showers Publication Trends Analysis', fontsize=18, fontweight='bold')
+
         # Plot 1: Total papers per year
         years, yearly_counts = self.analyze_trends()
-        
+
         axes[0, 0].bar(years, yearly_counts, color='steelblue', alpha=0.7, edgecolor='black', linewidth=0.5)
         axes[0, 0].set_title('Total Papers per Year', fontweight='bold')
         axes[0, 0].set_xlabel('Year')
         axes[0, 0].set_ylabel('Number of Papers')
         axes[0, 0].grid(True, alpha=0.3)
-        
+
         # Add trend line
         #if len(years) > 1:
         #    z = np.polyfit(years, yearly_counts, 1)
@@ -297,24 +358,24 @@ class BSMDarkShowersAnalyzer:
         axes[0, 1].set_ylabel('Cumulative Number of Papers')
         axes[0, 1].grid(True, alpha=0.3)
         axes[0, 1].fill_between(years, cumulative_counts, alpha=0.3, color='darkgreen')
-        
+
         # Plot 3: Top keywords distribution
         keyword_counts = {k: len(v) for k, v in self.papers_by_keyword.items()}
         top_keywords = sorted(keyword_counts.items(), key=lambda x: x[1], reverse=True)[:8]
-        
+
         keywords, counts = zip(*top_keywords)
         colors = plt.cm.Set3(np.linspace(0, 1, len(keywords)))
-        
+
         bars = axes[1, 0].barh(keywords, counts, color=colors, alpha=0.8, edgecolor='black', linewidth=0.5)
         axes[1, 0].set_title('Most Common Keywords (non-unique counting)', fontweight='bold')
         axes[1, 0].set_xlabel('Number of Papers')
         axes[1, 0].grid(True, alpha=0.3, axis='x')
-        
+
         # Add value labels on bars
         for bar, count in zip(bars, counts):
-            axes[1, 0].text(bar.get_width() + 0.1, bar.get_y() + bar.get_height()/2, 
+            axes[1, 0].text(bar.get_width() + 0.1, bar.get_y() + bar.get_height()/2,
                            str(count), ha='left', va='center', fontweight='bold')
-        
+
         # Plot 4: Papers by arXiv category
         category_counts = Counter(paper['category'] for paper in self.all_papers)
         categories, cat_counts = zip(*category_counts.most_common())
@@ -323,14 +384,136 @@ class BSMDarkShowersAnalyzer:
         axes[1, 1].legend(wedges, categories, title="Categories", loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
 
         axes[1, 1].set_title('Distribution by arXiv Category', fontweight='bold')
-        
+
         plt.tight_layout()
-        
+
         # Save plot
         plot_path = os.path.join(self.output_dir, 'darkshowers_publication_trends.png')
         plt.savefig(plot_path, dpi=300, bbox_inches='tight')
         print(f"Plot saved to {plot_path}")
 
+        return fig
+
+    def plot_yearly_papers(self, start_year=2010, end_year=None):
+        """Plot 1: Total papers per year"""
+        if end_year is None:
+            end_year = datetime.now().year
+
+        years, yearly_counts = list(self.papers_by_year.keys()), [len(v) for v in self.papers_by_year.values()]
+        years, yearly_counts = zip(*sorted(zip(years, yearly_counts)))
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        ax.bar(years, yearly_counts, color='steelblue', alpha=0.7, edgecolor='black', linewidth=0.5)
+        ax.set_title('Total Dark Showers Papers per Year', fontweight='bold', fontsize=20)
+        ax.set_xlabel('Year', fontsize=18)
+        ax.set_ylabel('Number of Papers', fontsize=18)
+        ax.grid(True, alpha=0.3)
+
+        plt.tight_layout()
+        plot_path = os.path.join(self.output_dir, 'darkshowers_yearly_papers.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        print(f"Yearly papers plot saved to {plot_path}")
+        return fig
+
+    def plot_cumulative_papers(self, start_year=2010, end_year=None):
+        """Plot 2: Cumulative papers over time"""
+        if end_year is None:
+            end_year = datetime.now().year
+
+        years, yearly_counts = list(self.papers_by_year.keys()), [len(v) for v in self.papers_by_year.values()]
+        years, yearly_counts = zip(*sorted(zip(years, yearly_counts)))
+        cumulative_counts = np.cumsum(yearly_counts)
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        ax.plot(years, cumulative_counts, marker='o', linewidth=2, markersize=4, color='darkgreen')
+        ax.set_title('Cumulative Dark Showers Papers Over Time', fontweight='bold', fontsize=20)
+        ax.set_xlabel('Year', fontsize=18)
+        ax.set_ylabel('Cumulative Number of Papers', fontsize=18)
+        ax.tick_params(axis='x', labelsize=16)
+        ax.tick_params(axis='y', labelsize=16)
+        ax.grid(True, alpha=0.3)
+        ax.fill_between(years, cumulative_counts, alpha=0.3, color='darkgreen')
+
+        plt.tight_layout()
+        plot_path = os.path.join(self.output_dir, 'darkshowers_cumulative_papers.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        print(f"Cumulative papers plot saved to {plot_path}")
+        return fig
+
+    def plot_keyword_distribution(self):
+        """Plot 3: Top keywords distribution"""
+        keyword_counts = {k: len(v) for k, v in self.papers_by_keyword.items()}
+        top_keywords = sorted(keyword_counts.items(), key=lambda x: x[1], reverse=True)[:8]
+
+        keywords, counts = zip(*top_keywords)
+        colors = plt.cm.Set3(np.linspace(0, 1, len(keywords)))
+
+        # Add this before creating the plot
+        keyword_display_names = {
+            'dark baryon': 'Dark baryon',
+            'dark pion': 'Dark pion',
+            'dark glueball': 'Dark glueball',
+            'simp': 'SIMP',
+            'hidden valley': 'Hidden Valley',
+            'quirk': 'Quirk',
+            'suep': 'SUEP',
+            'dark qcd': 'Dark QCD',
+            'composite dark matter': 'Composite DM'
+        }
+
+        # Then when creating keywords list for plotting:
+        display_keywords = [keyword_display_names.get(kw, kw.title()) for kw in keywords]
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        #bars = ax.barh(keywords, counts, color=colors, alpha=0.8, edgecolor='black', linewidth=0.5)
+        bars = ax.barh(display_keywords, counts, color=colors, alpha=0.8, edgecolor='black', linewidth=0.5)
+        ax.set_title('Most Common Keywords', fontweight='bold', fontsize=20)
+        ax.set_xlabel('Number of Papers', fontsize=18)
+        ax.grid(True, alpha=0.3, axis='x')
+        ax.tick_params(axis='x', labelsize=16)
+        ax.tick_params(axis='y', labelsize=16)
+
+        for bar, count in zip(bars, counts):
+            ax.text(bar.get_width() + 0.1, bar.get_y() + bar.get_height() / 2,
+                    str(count), ha='left', va='center', fontweight='bold', fontsize=16)
+
+        plt.tight_layout()
+        plot_path = os.path.join(self.output_dir, 'darkshowers_keyword_distribution.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        print(f"Keyword distribution plot saved to {plot_path}")
+        return fig
+
+    def plot_category_distribution(self):
+        """Plot 4: Papers by arXiv category"""
+        category_counts = Counter(paper['category'] for paper in self.all_papers)
+        categories, cat_counts = zip(*category_counts.most_common())
+
+        fig, ax = plt.subplots(figsize=(8, 8))
+
+        # Add labels directly to pie()
+        wedges, texts, autotexts = ax.pie(cat_counts,
+                                          labels=categories,  # ← ADD THIS
+                                          autopct='%1.1f%%',
+                                          colors=plt.cm.Pastel1(np.linspace(0, 1, len(categories))))
+
+        # Increase font sizes
+        for text in texts:
+            text.set_fontsize(14)  # Category name font size
+            #text.set_fontweight('bold')
+
+        for autotext in autotexts:
+            autotext.set_fontsize(14)  # Percentage font size
+            #autotext.set_fontweight('bold')
+
+        # Remove legend since labels are on the pie
+        # ax.legend(...)  # Comment this out
+
+        ax.set_title('Distribution by arXiv Category', fontweight='bold', fontsize=20)
+
+        plt.tight_layout()
+        plot_path = os.path.join(self.output_dir, 'darkshowers_category_distribution.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        print(f"Category distribution plot saved to {plot_path}")
         return fig
 
     def plot_keyword_trends(self, top_n=6):
@@ -357,11 +540,13 @@ class BSMDarkShowersAnalyzer:
             ax.plot(years, counts, marker='o', linewidth=2, markersize=4, 
                    label=keyword, color=colors[i])
         
-        ax.set_title('Publication Trends by Keyword', fontsize=14, fontweight='bold')
+        ax.set_title('Publication Trends by Keyword', fontsize=20, fontweight='bold')
         ax.set_xlabel('Year')
         ax.set_ylabel('Number of Papers')
         ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
         ax.grid(True, alpha=0.3)
+        ax.tick_params(axis='x', labelsize=16)
+        ax.tick_params(axis='y', labelsize=16)
         
         plt.tight_layout()
         
@@ -480,14 +665,14 @@ def main():
         analyzer.plot_single_chart(start_year=start_date.year if start_date else 2010,
                                    end_year=end_date.year)
     elif not args.export_only and not args.no_plots:
-        print("\nGenerating publication trends plot...")
-        analyzer.plot_publication_trends(start_year=start_date.year if start_date else 2010,
-                                         end_year=end_date.year)
-
-        print("Generating keyword trends plot...")
+        print("\nGenerating individual plots...")
+        analyzer.plot_yearly_papers(start_year=start_date.year if start_date else 2010,
+                                    end_year=end_date.year)
+        analyzer.plot_cumulative_papers(start_year=start_date.year if start_date else 2010,
+                                        end_year=end_date.year)
+        analyzer.plot_keyword_distribution()
+        analyzer.plot_category_distribution()
         analyzer.plot_keyword_trends()
-
-        print("Generating single clean plot...")
         analyzer.plot_single_chart(start_year=start_date.year if start_date else 2010,
                                    end_year=end_date.year)
 
