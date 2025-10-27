@@ -18,27 +18,6 @@ The Dark Showers Living Review aims to collect, categorize, and visualize public
 
 ---
 
-## Repository Structure
-
-DS_living_review/
-├── index.md # Main overview page
-├── contributions.md # Instructions for contributors
-├── citation.md # Citation guidelines
-├── plots.md # Figures and summary plots
-├── scripts/ # Analysis and plotting scripts
-│ ├── inspire_bib_generator.py
-│ └── bsm_darkshowers_plotter.py
-├── results/ # Generated plots, bibliographic data, summaries
-│ ├── darkshowers_analysis.json
-│ ├── papers_data.json
-│ ├── darkshowers_summary.txt
-│ ├── papers.txt
-│ └── darkshowers_*.png
-└── _config.yml # Jekyll site configuration
-
-
----
-
 ## How to Contribute
 
 Contributions from both theory and experiment communities are welcome. 
